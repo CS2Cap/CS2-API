@@ -1,0 +1,62 @@
+name: Manifest Check
+
+on:
+  schedule:
+    - cron: "21 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: manifest-check
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout CS2-API
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: python -m pip install --editable .
+
+      - name: Run manifest tracker
+        env:
+          STEAM_USER: ${{ secrets.STEAM_USER }}
+          STEAM_PASS: ${{ secrets.STEAM_PASS }}
+          SHARED_SECRET: ${{ secrets.SHARED_SECRET }}
+          IMAGE_BASE_URL: ${{ vars.IMAGE_BASE_URL || 'https://cdn.cs2c.app' }}
+        run: python -m file_tracker.tracker
+
+      - name: Run API generator
+        env:
+          IMAGE_BASE_URL: ${{ vars.IMAGE_BASE_URL || 'https://cdn.cs2c.app' }}
+        run: python -m api_gen.generator
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore: update items from Steam manifest"
+          git pull --rebase origin master
+          git push

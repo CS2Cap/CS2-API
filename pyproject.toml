@@ -1,0 +1,23 @@
+[project]
+name = "cs2-api"
+version = "1.0.0"
+description = "CS2 game file tracker and API generator"
+requires-python = ">=3.10"
+dependencies = [
+    "steam[client]>=1.4.4",
+    "vdf>=3.3",
+    "vpk>=1.0",
+    "python-dotenv>=1.0",
+    "zstandard>=0.20",
+    "lz4>=4.0",
+    "texture2ddecoder>=1.0",
+    "Pillow>=10.0",
+    "numpy>=1.24",
+]
+
+[tool.setuptools.packages.find]
+include = ["file_tracker*", "api_gen*"]
+
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
