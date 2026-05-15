@@ -1,11 +1,8 @@
-__pycache__/
-*.pyc
-temp/
-.env
-.ruff_cache/
-.pytest_cache/
 build/
-dist/
+__pycache__/
+.pytest_cache/
+temp/
+.venv/
+.env
 *.egg-info/
-.vscode/
-.claude/
+*.pyc
