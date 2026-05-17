@@ -40,17 +40,18 @@ def run(extract_images_flag: bool = False) -> None:
         print("STEAM_USER and STEAM_PASS must be set in .env")
         sys.exit(1)
 
-    print("Logging into Steam...")
-    client = login(username, password, shared_secret)
-
     print("Getting latest manifest ID...")
-    latest_manifest = get_latest_manifest_id(client)
+    latest_manifest = get_latest_manifest_id()
     print(f"Latest manifest ID: {latest_manifest}")
 
     existing_manifest = storage.read(os.path.join(STATIC_DIR, "manifestId.txt"))
     if existing_manifest and existing_manifest.strip() == latest_manifest:
         print("Latest manifest matches existing, no update needed")
         return
+
+    # An update is needed: log into the real account for depot downloads.
+    print("Logging into Steam...")
+    client = login(username, password, shared_secret)
 
     # Phase 1: Download pak01_dir.vpk and text-file shards (always needed)
     print("Manifest changed, downloading game files...")
