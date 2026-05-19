@@ -58,5 +58,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
           git commit -m "chore: update items from Steam manifest"
-          git pull --rebase origin master
+          git pull --rebase origin main
           git push
