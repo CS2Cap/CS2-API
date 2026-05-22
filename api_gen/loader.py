@@ -674,7 +674,12 @@ def load_crates_by_skins(state: State) -> None:
                     attrs = i_val.get("attributes", {})
                     supply_crate = attrs.get("set supply crate series", {})
                     # JS uses == (loose equality) so compare as strings
-                    if str(supply_crate.get("value", "")) == str(loot_list[0]):
+                    # supply_crate can be a string or a dict depending on manifest version
+                    if isinstance(supply_crate, dict):
+                        supply_crate_value = supply_crate.get("value", "")
+                    else:
+                        supply_crate_value = supply_crate
+                    if str(supply_crate_value) == str(loot_list[0]):
                         crate_item = i_val
                         break
 
