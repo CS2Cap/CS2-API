@@ -894,9 +894,8 @@ def load_souvenir_skins(state: State) -> None:
             isinstance(prefab, str) and "_souvenir_crate_promo_prefab" in prefab
         ):
             loot_list_name = item.get("loot_list_name")
-            attribute_value = (
-                item.get("attributes", {}).get("set supply crate series", {}).get("value")
-            )
+            _sc = item.get("attributes", {}).get("set supply crate series", {})
+            attribute_value = (_sc.get("value") if isinstance(_sc, dict) else _sc) or None
             key_loot_list = loot_list_name or state.revolving_loot_lists.get(
                 str(attribute_value) if attribute_value is not None else ""
             )

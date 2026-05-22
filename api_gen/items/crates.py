@@ -20,7 +20,10 @@ def _is_crate(item: dict) -> bool:
     # Storage units with supply crate series attribute
     attributes = item.get("attributes") or {}
     supply_crate = attributes.get("set supply crate series") or {}
-    if supply_crate.get("attribute_class") == "supply_crate_series":
+    if isinstance(supply_crate, dict):
+        if supply_crate.get("attribute_class") == "supply_crate_series":
+            return True
+    elif supply_crate:
         return True
 
     # Storage units by name
@@ -173,7 +176,8 @@ def _parse_item(
 
     loot_list_name = item.get("loot_list_name") or None
     attributes = item.get("attributes") or {}
-    attribute_value = (attributes.get("set supply crate series") or {}).get("value") or None
+    _sc = attributes.get("set supply crate series") or {}
+    attribute_value = (_sc.get("value") if isinstance(_sc, dict) else _sc) or None
     key_loot_list = loot_list_name or revolving_loot_lists.get(attribute_value) or None
 
     tags = item.get("tags") or {}
