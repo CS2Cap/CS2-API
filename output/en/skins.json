@@ -16,8 +16,8 @@
    "id": "handwrap_camo_grey",
    "name": "Spruce DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -89,8 +89,8 @@
    "id": "handwrap_fabric_houndstooth_orange",
    "name": "Desert Shamagh"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -167,8 +167,8 @@
    "id": "handwrap_fabric_orange_camo",
    "name": "Badlands"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -240,8 +240,8 @@
    "id": "handwrap_leathery_caution",
    "name": "CAUTION!"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -318,8 +318,8 @@
    "id": "handwrap_leathery_ducttape",
    "name": "Duct Tape"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -391,8 +391,8 @@
    "id": "handwrap_leathery_fabric_blue_skulls",
    "name": "Cobalt Skulls"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -464,8 +464,8 @@
    "id": "handwrap_leathery_fabric_geometric_blue",
    "name": "Overprint"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -537,8 +537,8 @@
    "id": "handwrap_leathery_fabric_giraffe",
    "name": "Giraffe"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -615,8 +615,8 @@
    "id": "handwrap_leathery_fabric_green_camo",
    "name": "Arboreal"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -688,8 +688,8 @@
    "id": "handwrap_leathery",
    "name": "Leather"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -761,8 +761,8 @@
    "id": "handwrap_leathery_snakeskin_orange",
    "name": "Constrictor"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -839,8 +839,8 @@
    "id": "handwrap_red_slaughter",
    "name": "Slaughter"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -912,8 +912,8 @@
    "id": "motorcycle_basic_black",
    "name": "Eclipse"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -985,8 +985,8 @@
    "id": "motorcycle_basic_green_orange",
    "name": "Turtle"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -1058,8 +1058,8 @@
    "id": "motorcycle_carbonfiber_red",
    "name": "Blood Pressure"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -1136,8 +1136,8 @@
    "id": "motorcycle_checker_flag_blue_green",
    "name": "Finish Line"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -1214,8 +1214,8 @@
    "id": "motorcycle_choco_boom",
    "name": "POW!"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -1287,8 +1287,8 @@
    "id": "motorcycle_commando_ksk",
    "name": "3rd Commando Company"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -1365,8 +1365,8 @@
    "id": "motorcycle_mint_triangle",
    "name": "Spearmint"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -1438,8 +1438,8 @@
    "id": "motorcycle_mono_boom",
    "name": "Boom!"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -1511,8 +1511,8 @@
    "id": "motorcycle_smoke",
    "name": "Smoke Out"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -1589,8 +1589,8 @@
    "id": "motorcycle_triangle_blue",
    "name": "Cool Mint"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -1662,8 +1662,8 @@
    "id": "motorcycle_trigrid_blue",
    "name": "Polygon"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -1735,8 +1735,8 @@
    "id": "motorcycle_yellow_camo",
    "name": "Transport"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -1808,8 +1808,8 @@
    "id": "glove_driver_brocade_crane_red",
    "name": "Brocade Crane"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -1876,8 +1876,8 @@
    "id": "glove_driver_brocade_flower_red",
    "name": "Brocade Flowers"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -1944,8 +1944,8 @@
    "id": "glove_driver_dragon_scale_red",
    "name": "Dragon Fists"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -2012,8 +2012,8 @@
    "id": "glove_driver_embroidered_flowers_teal",
    "name": "Garden"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -2080,8 +2080,8 @@
    "id": "glove_driver_knit_argyle_green",
    "name": "Hand Sweaters"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -2148,8 +2148,8 @@
    "id": "glove_driver_ostrich_purple",
    "name": "Plum Quill"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -2216,8 +2216,8 @@
    "id": "glove_driver_scallop_metallic_blue",
    "name": "Seigaiha"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -2284,8 +2284,8 @@
    "id": "glove_driver_silk_dragon_white",
    "name": "Wave Chaser"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -2352,8 +2352,8 @@
    "id": "slick_black",
    "name": "Lunar Weave"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -2425,8 +2425,8 @@
    "id": "slick_jaguar_white",
    "name": "Snow Leopard"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -2503,8 +2503,8 @@
    "id": "slick_jaguar_yellow",
    "name": "Queen Jaguar"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -2581,8 +2581,8 @@
    "id": "slick_military",
    "name": "Convoy"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -2654,8 +2654,8 @@
    "id": "slick_plaid_purple",
    "name": "Imperial Plaid"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -2727,8 +2727,8 @@
    "id": "slick_red",
    "name": "Crimson Weave"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -2800,8 +2800,8 @@
    "id": "slick_rezan",
    "name": "Rezan the Red"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -2878,8 +2878,8 @@
    "id": "slick_snakeskin_white",
    "name": "King Snake"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -2951,8 +2951,8 @@
    "id": "slick_snakeskin_yellow",
    "name": "Diamondback"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -3024,8 +3024,8 @@
    "id": "slick_stitched_black_orange",
    "name": "Overtake"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -3097,8 +3097,8 @@
    "id": "slick_stitched_black_white",
    "name": "Black Tie"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -3175,8 +3175,8 @@
    "id": "slick_stitched_green_grey",
    "name": "Racing Green"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -3248,8 +3248,8 @@
    "id": "glove_specialist_abstract_green",
    "name": "Lime Polycam"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -3316,8 +3316,8 @@
    "id": "glove_specialist_dragon_blue",
    "name": "Cloud Chaser"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -3384,8 +3384,8 @@
    "id": "glove_specialist_graffiti_black",
    "name": "Blackbook"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -3452,8 +3452,8 @@
    "id": "glove_specialist_quilted_black",
    "name": "Chocolate Chesterfield"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -3520,8 +3520,8 @@
    "id": "glove_specialist_quilted_white",
    "name": "Pillow Punchers"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -3588,8 +3588,8 @@
    "id": "glove_specialist_sunburst_red",
    "name": "Sunburst"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -3656,8 +3656,8 @@
    "id": "glove_specialist_wave_blue",
    "name": "Big Swell"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -3724,8 +3724,8 @@
    "id": "specialist_ddpat_green_camo",
    "name": "Forest DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -3797,8 +3797,8 @@
    "id": "specialist_emerald_web",
    "name": "Emerald Web"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -3870,8 +3870,8 @@
    "id": "specialist_fade",
    "name": "Fade"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -3943,8 +3943,8 @@
    "id": "specialist_fbi",
    "name": "Field Agent"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -4021,8 +4021,8 @@
    "id": "specialist_forest_brown",
    "name": "Buckshot"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -4094,8 +4094,8 @@
    "id": "specialist_kimono_diamonds_red",
    "name": "Crimson Kimono"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -4167,8 +4167,8 @@
    "id": "specialist_marble_fade",
    "name": "Marble Fade"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -4245,8 +4245,8 @@
    "id": "specialist_orange_white",
    "name": "Foundation"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -4318,8 +4318,8 @@
    "id": "specialist_ricksaw_camo",
    "name": "Lt. Commander"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -4396,8 +4396,8 @@
    "id": "specialist_tiger_orange",
    "name": "Tiger Strike"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -4474,8 +4474,8 @@
    "id": "specialist_webs_red",
    "name": "Crimson Web"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -4547,8 +4547,8 @@
    "id": "specialist_winterhex",
    "name": "Mogul"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -4620,8 +4620,8 @@
    "id": "glove_sport_beadwork_diamonds_purple",
    "name": "Violet Beadwork"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -4688,8 +4688,8 @@
    "id": "glove_sport_camo_winter",
    "name": "Frosty"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -4756,8 +4756,8 @@
    "id": "glove_sport_flames_orange",
    "name": "Blaze"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -4824,8 +4824,8 @@
    "id": "glove_sport_pinstripe_black",
    "name": "Creme Pinstripe"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -4892,8 +4892,8 @@
    "id": "glove_sport_racer_red",
    "name": "Red Racer"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -4960,8 +4960,8 @@
    "id": "glove_sport_tech_gradient_bright",
    "name": "Ultra Violent"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -5028,8 +5028,8 @@
    "id": "glove_sport_velvet_red",
    "name": "Occult"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -5096,8 +5096,8 @@
    "id": "sporty_black_webbing_yellow",
    "name": "Omega"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -5169,8 +5169,8 @@
    "id": "sporty_blue_pink",
    "name": "Vice"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -5242,8 +5242,8 @@
    "id": "sporty_green",
    "name": "Hedge Maze"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -5315,8 +5315,8 @@
    "id": "sporty_houndstooth_red",
    "name": "Scarlet Shamagh"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -5393,8 +5393,8 @@
    "id": "sporty_hunter",
    "name": "Big Game"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -5471,8 +5471,8 @@
    "id": "sporty_jaguar",
    "name": "Nocts"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -5549,8 +5549,8 @@
    "id": "sporty_light_blue",
    "name": "Superconductor"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -5622,8 +5622,8 @@
    "id": "sporty_military",
    "name": "Arid"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -5695,8 +5695,8 @@
    "id": "sporty_poison_frog_blue_white",
    "name": "Amphibious"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -5768,8 +5768,8 @@
    "id": "sporty_poison_frog_red_green",
    "name": "Bronze Morph"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -5841,8 +5841,8 @@
    "id": "sporty_purple",
    "name": "Pandora's Box"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -5914,8 +5914,8 @@
    "id": "sporty_slingshot",
    "name": "Slingshot"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -5992,8 +5992,8 @@
    "id": "bloodhound_black_silver",
    "name": "Charred"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -6065,8 +6065,8 @@
    "id": "bloodhound_guerrilla",
    "name": "Guerrilla"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -6138,8 +6138,8 @@
    "id": "bloodhound_metallic",
    "name": "Bronzed"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -6211,8 +6211,8 @@
    "id": "bloodhound_snakeskin_brass",
    "name": "Snakebite"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -6284,8 +6284,8 @@
    "id": "operation10_floral",
    "name": "Needle Point"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -6362,8 +6362,8 @@
    "id": "operation10_metalic_green",
    "name": "Jade"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -6440,8 +6440,8 @@
    "id": "operation10_poison_frog_black_yellow",
    "name": "Yellow-banded"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -6518,8 +6518,8 @@
    "id": "operation10_snakeskin_black",
    "name": "Unhinged"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -6596,8 +6596,8 @@
    "id": "bloodhound_hydra_black_green",
    "name": "Emerald"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -6669,8 +6669,8 @@
    "id": "bloodhound_hydra_case_hardened",
    "name": "Case Hardened"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -6742,8 +6742,8 @@
    "id": "bloodhound_hydra_green_leather_mesh_brass",
    "name": "Mangrove"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -6815,8 +6815,8 @@
    "id": "bloodhound_hydra_snakeskin_brass",
    "name": "Rattler"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient",
    "name": "Extraordinary",
@@ -8825,7 +8825,7 @@
    "id": "cu_fireserpent_ak47_bravo",
    "name": "Fire Serpent"
   },
-  "min_float": 0.0,
+  "min_float": 0.06,
   "max_float": 0.76,
   "rarity": {
    "id": "rarity_ancient_weapon",
@@ -10306,8 +10306,8 @@
    "id": "hy_ak47lam_bw",
    "name": "Black Laminate"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_rare_weapon",
    "name": "Mil-Spec Grade",
@@ -10475,8 +10475,8 @@
    "id": "hy_ak47lam",
    "name": "Red Laminate"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_legendary_weapon",
    "name": "Classified",
@@ -11081,8 +11081,8 @@
    "id": "sp_mesh_tan",
    "name": "Safari Mesh"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -11215,8 +11215,8 @@
    "id": "sp_spray_jungle",
    "name": "Jungle Spray"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -11283,8 +11283,8 @@
    "id": "sp_zebracam",
    "name": "Predator"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -13981,8 +13981,8 @@
    "id": "hy_tiger",
    "name": "Bengal Tiger"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_legendary_weapon",
    "name": "Classified",
@@ -14055,8 +14055,8 @@
    "id": "so_pmc",
    "name": "Contractor"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -14134,8 +14134,8 @@
    "id": "so_space_marine",
    "name": "Colony"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -14278,8 +14278,8 @@
    "id": "so_stormfront",
    "name": "Storm"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -14493,8 +14493,8 @@
    "id": "sp_mesh_forest_fire",
    "name": "Condemned"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -16526,7 +16526,7 @@
    "id": "cu_favela_awp",
    "name": "Corticera"
   },
-  "min_float": 0.0,
+  "min_float": 0.06,
   "max_float": 0.3,
   "rarity": {
    "id": "rarity_legendary_weapon",
@@ -17620,7 +17620,7 @@
    "id": "hy_blam_simple",
    "name": "BOOM"
   },
-  "min_float": 0.0,
+  "min_float": 0.06,
   "max_float": 0.28,
   "rarity": {
    "id": "rarity_legendary_weapon",
@@ -17686,8 +17686,8 @@
    "id": "hy_ddpat_pink",
    "name": "Pink DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_mythical_weapon",
    "name": "Restricted",
@@ -18450,8 +18450,8 @@
    "id": "sp_mesh_tan",
    "name": "Safari Mesh"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -18529,8 +18529,8 @@
    "id": "sp_snake",
    "name": "Snake Camo"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_rare_weapon",
    "name": "Mil-Spec Grade",
@@ -20502,8 +20502,8 @@
    "id": "hy_ddpat",
    "name": "Forest DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -20620,8 +20620,8 @@
    "id": "hy_forest_boreal",
    "name": "Boreal Forest"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -20811,8 +20811,8 @@
    "id": "hy_webs",
    "name": "Crimson Web"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -20929,8 +20929,8 @@
    "id": "so_night",
    "name": "Night"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -21047,8 +21047,8 @@
    "id": "so_purple",
    "name": "Ultraviolet"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -21125,8 +21125,8 @@
    "id": "sp_dapple",
    "name": "Scorched"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -21243,8 +21243,8 @@
    "id": "sp_mesh_tan",
    "name": "Safari Mesh"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -21361,8 +21361,8 @@
    "id": "sp_tape_urban",
    "name": "Urban Masked"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -23136,8 +23136,8 @@
    "id": "hy_hunter_modern",
    "name": "Modern Hunter"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_rare_weapon",
    "name": "Mil-Spec Grade",
@@ -23377,8 +23377,8 @@
    "id": "hy_splatter",
    "name": "Blue Streak"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_mythical_weapon",
    "name": "Restricted",
@@ -24121,8 +24121,8 @@
    "id": "sp_leaves",
    "name": "Forest Leaves"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -24189,8 +24189,8 @@
    "id": "sp_nukestripe_brown",
    "name": "Irradiated Alert"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -24298,8 +24298,8 @@
    "id": "sp_tape_short_sand",
    "name": "Sand Dashed"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -24377,8 +24377,8 @@
    "id": "sp_tape_short_urban",
    "name": "Urban Dashed"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -26655,8 +26655,8 @@
    "id": "hy_webs",
    "name": "Crimson Web"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_rare_weapon",
    "name": "Mil-Spec Grade",
@@ -27269,8 +27269,8 @@
    "id": "sp_tape_short_jungle",
    "name": "Jungle Dashed"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -29937,8 +29937,8 @@
    "id": "hy_ddpat_urb",
    "name": "Urban DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -30096,8 +30096,8 @@
    "id": "hy_mottled_sand",
    "name": "Mudder"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -30304,8 +30304,8 @@
    "id": "hy_webs_darker",
    "name": "Crimson Web"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_mythical_weapon",
    "name": "Restricted",
@@ -30446,8 +30446,8 @@
    "id": "so_night",
    "name": "Night"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -31728,8 +31728,8 @@
    "id": "cu_season_elites_bravo",
    "name": "Black Limba"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_rare_weapon",
    "name": "Mil-Spec Grade",
@@ -33069,8 +33069,8 @@
    "id": "so_pmc",
    "name": "Contractor"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -33148,8 +33148,8 @@
    "id": "so_space_marine",
    "name": "Colony"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -35967,8 +35967,8 @@
    "id": "hy_reef",
    "name": "Cyanospatter"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -36223,8 +36223,8 @@
    "id": "so_space_marine",
    "name": "Colony"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -36869,8 +36869,8 @@
    "id": "sp_spitfire_famas_bravo",
    "name": "Spitfire"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_mythical_weapon",
    "name": "Restricted",
@@ -36937,8 +36937,8 @@
    "id": "sp_spray",
    "name": "Contrast Spray"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -39075,8 +39075,8 @@
    "id": "hy_forest_night",
    "name": "Forest Night"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -39541,8 +39541,8 @@
    "id": "so_jungle",
    "name": "Jungle"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -39609,8 +39609,8 @@
    "id": "so_orange_accents",
    "name": "Nitro"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_rare_weapon",
    "name": "Mil-Spec Grade",
@@ -39677,8 +39677,8 @@
    "id": "so_pmc",
    "name": "Contractor"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -40184,8 +40184,8 @@
    "id": "sp_tape_orange",
    "name": "Orange Peel"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -41431,8 +41431,8 @@
    "id": "hy_arctic_contrast",
    "name": "Polar Camo"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -41560,8 +41560,8 @@
    "id": "hy_arctic",
    "name": "Arctic Camo"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -41628,8 +41628,8 @@
    "id": "hy_bluepolygon_bravo",
    "name": "Demeter"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_rare_weapon",
    "name": "Mil-Spec Grade",
@@ -41702,8 +41702,8 @@
    "id": "hy_desert",
    "name": "Desert Storm"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -42043,8 +42043,8 @@
    "id": "so_pmc",
    "name": "Contractor"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -42321,8 +42321,8 @@
    "id": "sp_mesh_tan",
    "name": "Safari Mesh"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -42564,8 +42564,8 @@
    "id": "sp_tape_short_jungle",
    "name": "Jungle Dashed"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -44215,8 +44215,8 @@
    "id": "hy_crumple_bravo",
    "name": "Shattered"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_rare_weapon",
    "name": "Mil-Spec Grade",
@@ -44289,8 +44289,8 @@
    "id": "hy_ddpat_orange",
    "name": "Orange DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_mythical_weapon",
    "name": "Restricted",
@@ -44363,8 +44363,8 @@
    "id": "hy_forest_winter",
    "name": "Winter Forest"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -45234,8 +45234,8 @@
    "id": "so_tornado",
    "name": "Tornado"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -46039,8 +46039,8 @@
    "id": "sp_spray_desert_sage",
    "name": "Sage Spray"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -49498,8 +49498,8 @@
    "id": "hy_ddpat_pink",
    "name": "Pink DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_mythical_weapon",
    "name": "Restricted",
@@ -49881,8 +49881,8 @@
    "id": "so_night",
    "name": "Night"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -50040,8 +50040,8 @@
    "id": "so_olive",
    "name": "Groundwater"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -50255,8 +50255,8 @@
    "id": "so_sand_bravo",
    "name": "Sand Dune"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -51506,7 +51506,7 @@
    "id": "cu_favela_p2000",
    "name": "Corticera"
   },
-  "min_float": 0.0,
+  "min_float": 0.06,
   "max_float": 0.3,
   "rarity": {
    "id": "rarity_legendary_weapon",
@@ -52448,8 +52448,8 @@
    "id": "hy_granite",
    "name": "Granite Marbleized"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -52823,8 +52823,8 @@
    "id": "so_grassland",
    "name": "Grassland"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -53178,8 +53178,8 @@
    "id": "sp_leaves_grassland",
    "name": "Grassland Leaves"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -54914,8 +54914,8 @@
    "id": "hy_ddpat",
    "name": "Forest DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -54982,8 +54982,8 @@
    "id": "hy_forest_boreal",
    "name": "Boreal Forest"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -55123,8 +55123,8 @@
    "id": "hy_webs",
    "name": "Crimson Web"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -55191,8 +55191,8 @@
    "id": "so_night",
    "name": "Night"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -55259,8 +55259,8 @@
    "id": "so_purple",
    "name": "Ultraviolet"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -55332,8 +55332,8 @@
    "id": "sp_dapple",
    "name": "Scorched"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -55400,8 +55400,8 @@
    "id": "sp_mesh_tan",
    "name": "Safari Mesh"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -55468,8 +55468,8 @@
    "id": "sp_tape_urban",
    "name": "Urban Masked"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -56509,8 +56509,8 @@
    "id": "hy_ddpat",
    "name": "Forest DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -56582,8 +56582,8 @@
    "id": "hy_forest_boreal",
    "name": "Boreal Forest"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -56655,8 +56655,8 @@
    "id": "hy_webs",
    "name": "Crimson Web"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -56728,8 +56728,8 @@
    "id": "so_purple",
    "name": "Ultraviolet"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -56796,8 +56796,8 @@
    "id": "sp_dapple",
    "name": "Scorched"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -56869,8 +56869,8 @@
    "id": "sp_mesh_tan",
    "name": "Safari Mesh"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -56942,8 +56942,8 @@
    "id": "sp_nightstripe",
    "name": "Night Stripe"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -57015,8 +57015,8 @@
    "id": "sp_tape_urban",
    "name": "Urban Masked"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -58061,8 +58061,8 @@
    "id": "hy_ddpat",
    "name": "Forest DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -58134,8 +58134,8 @@
    "id": "hy_forest_boreal",
    "name": "Boreal Forest"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -58207,8 +58207,8 @@
    "id": "hy_webs",
    "name": "Crimson Web"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -58348,8 +58348,8 @@
    "id": "sp_dapple",
    "name": "Scorched"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -58421,8 +58421,8 @@
    "id": "sp_mesh_tan",
    "name": "Safari Mesh"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -58494,8 +58494,8 @@
    "id": "sp_nightstripe",
    "name": "Night Stripe"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -58567,8 +58567,8 @@
    "id": "sp_tape_urban",
    "name": "Urban Masked"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -58960,8 +58960,8 @@
    "id": "hy_ddpat",
    "name": "Forest DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -59028,8 +59028,8 @@
    "id": "hy_forest_boreal",
    "name": "Boreal Forest"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -59096,8 +59096,8 @@
    "id": "hy_webs",
    "name": "Crimson Web"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -59164,8 +59164,8 @@
    "id": "sp_dapple",
    "name": "Scorched"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -59232,8 +59232,8 @@
    "id": "sp_mesh_tan",
    "name": "Safari Mesh"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -59300,8 +59300,8 @@
    "id": "sp_nightstripe",
    "name": "Night Stripe"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -59368,8 +59368,8 @@
    "id": "sp_tape_urban",
    "name": "Urban Masked"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -61036,8 +61036,8 @@
    "id": "hy_ddpat",
    "name": "Forest DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -61104,8 +61104,8 @@
    "id": "hy_forest_boreal",
    "name": "Boreal Forest"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -61245,8 +61245,8 @@
    "id": "hy_webs",
    "name": "Crimson Web"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -61313,8 +61313,8 @@
    "id": "so_night",
    "name": "Night"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -61454,8 +61454,8 @@
    "id": "sp_dapple",
    "name": "Scorched"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -61522,8 +61522,8 @@
    "id": "sp_mesh_tan",
    "name": "Safari Mesh"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -61590,8 +61590,8 @@
    "id": "sp_tape_urban",
    "name": "Urban Masked"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -63563,8 +63563,8 @@
    "id": "hy_ddpat",
    "name": "Forest DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -63681,8 +63681,8 @@
    "id": "hy_forest_boreal",
    "name": "Boreal Forest"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -63872,8 +63872,8 @@
    "id": "hy_webs",
    "name": "Crimson Web"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -63990,8 +63990,8 @@
    "id": "so_night",
    "name": "Night"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -64108,8 +64108,8 @@
    "id": "so_purple",
    "name": "Ultraviolet"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -64186,8 +64186,8 @@
    "id": "sp_dapple",
    "name": "Scorched"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -64304,8 +64304,8 @@
    "id": "sp_mesh_tan",
    "name": "Safari Mesh"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -64422,8 +64422,8 @@
    "id": "sp_tape_urban",
    "name": "Urban Masked"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -66445,8 +66445,8 @@
    "id": "hy_ddpat",
    "name": "Forest DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -66563,8 +66563,8 @@
    "id": "hy_forest_boreal",
    "name": "Boreal Forest"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -66754,8 +66754,8 @@
    "id": "hy_webs",
    "name": "Crimson Web"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -66872,8 +66872,8 @@
    "id": "so_night",
    "name": "Night"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -66990,8 +66990,8 @@
    "id": "so_purple",
    "name": "Ultraviolet"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -67068,8 +67068,8 @@
    "id": "sp_dapple",
    "name": "Scorched"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -67186,8 +67186,8 @@
    "id": "sp_mesh_tan",
    "name": "Safari Mesh"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -67304,8 +67304,8 @@
    "id": "sp_tape_urban",
    "name": "Urban Masked"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -68450,8 +68450,8 @@
    "id": "hy_ddpat",
    "name": "Forest DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -68523,8 +68523,8 @@
    "id": "hy_forest_boreal",
    "name": "Boreal Forest"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -68596,8 +68596,8 @@
    "id": "hy_webs",
    "name": "Crimson Web"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -68669,8 +68669,8 @@
    "id": "so_purple",
    "name": "Ultraviolet"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -68742,8 +68742,8 @@
    "id": "sp_dapple",
    "name": "Scorched"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -68815,8 +68815,8 @@
    "id": "sp_mesh_tan",
    "name": "Safari Mesh"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -68888,8 +68888,8 @@
    "id": "sp_nightstripe",
    "name": "Night Stripe"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -68961,8 +68961,8 @@
    "id": "sp_tape_urban",
    "name": "Urban Masked"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -70939,8 +70939,8 @@
    "id": "hy_ddpat",
    "name": "Forest DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -71057,8 +71057,8 @@
    "id": "hy_forest_boreal",
    "name": "Boreal Forest"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -71248,8 +71248,8 @@
    "id": "hy_webs",
    "name": "Crimson Web"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -71366,8 +71366,8 @@
    "id": "so_night",
    "name": "Night"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -71484,8 +71484,8 @@
    "id": "so_purple",
    "name": "Ultraviolet"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -71562,8 +71562,8 @@
    "id": "sp_dapple",
    "name": "Scorched"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -71680,8 +71680,8 @@
    "id": "sp_mesh_tan",
    "name": "Safari Mesh"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -71798,8 +71798,8 @@
    "id": "sp_tape_urban",
    "name": "Urban Masked"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -72261,8 +72261,8 @@
    "id": "hy_ddpat",
    "name": "Forest DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -72334,8 +72334,8 @@
    "id": "hy_forest_boreal",
    "name": "Boreal Forest"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -72407,8 +72407,8 @@
    "id": "hy_webs",
    "name": "Crimson Web"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -72480,8 +72480,8 @@
    "id": "sp_dapple",
    "name": "Scorched"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -72553,8 +72553,8 @@
    "id": "sp_mesh_tan",
    "name": "Safari Mesh"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -72626,8 +72626,8 @@
    "id": "sp_nightstripe",
    "name": "Night Stripe"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -72699,8 +72699,8 @@
    "id": "sp_tape_urban",
    "name": "Urban Masked"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -74677,8 +74677,8 @@
    "id": "hy_ddpat",
    "name": "Forest DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -74795,8 +74795,8 @@
    "id": "hy_forest_boreal",
    "name": "Boreal Forest"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -74986,8 +74986,8 @@
    "id": "hy_webs",
    "name": "Crimson Web"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -75104,8 +75104,8 @@
    "id": "so_night",
    "name": "Night"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -75222,8 +75222,8 @@
    "id": "so_purple",
    "name": "Ultraviolet"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -75300,8 +75300,8 @@
    "id": "sp_dapple",
    "name": "Scorched"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -75418,8 +75418,8 @@
    "id": "sp_mesh_tan",
    "name": "Safari Mesh"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -75536,8 +75536,8 @@
    "id": "sp_tape_urban",
    "name": "Urban Masked"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -76627,8 +76627,8 @@
    "id": "hy_ddpat",
    "name": "Forest DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -76700,8 +76700,8 @@
    "id": "hy_forest_boreal",
    "name": "Boreal Forest"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -76773,8 +76773,8 @@
    "id": "hy_webs",
    "name": "Crimson Web"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -76846,8 +76846,8 @@
    "id": "so_purple",
    "name": "Ultraviolet"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -76914,8 +76914,8 @@
    "id": "sp_dapple",
    "name": "Scorched"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -76987,8 +76987,8 @@
    "id": "sp_mesh_tan",
    "name": "Safari Mesh"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -77060,8 +77060,8 @@
    "id": "sp_nightstripe",
    "name": "Night Stripe"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -77133,8 +77133,8 @@
    "id": "sp_tape_urban",
    "name": "Urban Masked"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -78806,8 +78806,8 @@
    "id": "hy_ddpat",
    "name": "Forest DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -78874,8 +78874,8 @@
    "id": "hy_forest_boreal",
    "name": "Boreal Forest"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -79015,8 +79015,8 @@
    "id": "hy_webs",
    "name": "Crimson Web"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -79083,8 +79083,8 @@
    "id": "so_night",
    "name": "Night"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -79151,8 +79151,8 @@
    "id": "so_purple",
    "name": "Ultraviolet"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -79224,8 +79224,8 @@
    "id": "sp_dapple",
    "name": "Scorched"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -79292,8 +79292,8 @@
    "id": "sp_mesh_tan",
    "name": "Safari Mesh"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -79360,8 +79360,8 @@
    "id": "sp_tape_urban",
    "name": "Urban Masked"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -80401,8 +80401,8 @@
    "id": "hy_ddpat",
    "name": "Forest DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -80474,8 +80474,8 @@
    "id": "hy_forest_boreal",
    "name": "Boreal Forest"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -80547,8 +80547,8 @@
    "id": "hy_webs",
    "name": "Crimson Web"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -80620,8 +80620,8 @@
    "id": "so_purple",
    "name": "Ultraviolet"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -80688,8 +80688,8 @@
    "id": "sp_dapple",
    "name": "Scorched"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -80761,8 +80761,8 @@
    "id": "sp_mesh_tan",
    "name": "Safari Mesh"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -80834,8 +80834,8 @@
    "id": "sp_nightstripe",
    "name": "Night Stripe"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -80907,8 +80907,8 @@
    "id": "sp_tape_urban",
    "name": "Urban Masked"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -82008,8 +82008,8 @@
    "id": "hy_ddpat",
    "name": "Forest DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -82081,8 +82081,8 @@
    "id": "hy_forest_boreal",
    "name": "Boreal Forest"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -82154,8 +82154,8 @@
    "id": "hy_webs",
    "name": "Crimson Web"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -82227,8 +82227,8 @@
    "id": "so_purple",
    "name": "Ultraviolet"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -82300,8 +82300,8 @@
    "id": "sp_dapple",
    "name": "Scorched"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -82373,8 +82373,8 @@
    "id": "sp_mesh_tan",
    "name": "Safari Mesh"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -82446,8 +82446,8 @@
    "id": "sp_nightstripe",
    "name": "Night Stripe"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -82519,8 +82519,8 @@
    "id": "sp_tape_urban",
    "name": "Urban Masked"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -84192,8 +84192,8 @@
    "id": "hy_ddpat",
    "name": "Forest DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -84260,8 +84260,8 @@
    "id": "hy_forest_boreal",
    "name": "Boreal Forest"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -84401,8 +84401,8 @@
    "id": "hy_webs",
    "name": "Crimson Web"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -84469,8 +84469,8 @@
    "id": "so_night",
    "name": "Night"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -84537,8 +84537,8 @@
    "id": "so_purple",
    "name": "Ultraviolet"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -84610,8 +84610,8 @@
    "id": "sp_dapple",
    "name": "Scorched"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -84678,8 +84678,8 @@
    "id": "sp_mesh_tan",
    "name": "Safari Mesh"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -84746,8 +84746,8 @@
    "id": "sp_tape_urban",
    "name": "Urban Masked"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -86487,8 +86487,8 @@
    "id": "hy_ddpat",
    "name": "Forest DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -86555,8 +86555,8 @@
    "id": "hy_forest_boreal",
    "name": "Boreal Forest"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -86696,8 +86696,8 @@
    "id": "hy_webs",
    "name": "Crimson Web"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -86764,8 +86764,8 @@
    "id": "so_night",
    "name": "Night"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -86832,8 +86832,8 @@
    "id": "sp_dapple",
    "name": "Scorched"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -86900,8 +86900,8 @@
    "id": "sp_mesh_tan",
    "name": "Safari Mesh"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -86968,8 +86968,8 @@
    "id": "sp_tape_urban",
    "name": "Urban Masked"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -88064,8 +88064,8 @@
    "id": "hy_ddpat",
    "name": "Forest DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -88137,8 +88137,8 @@
    "id": "hy_forest_boreal",
    "name": "Boreal Forest"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -88210,8 +88210,8 @@
    "id": "hy_webs",
    "name": "Crimson Web"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -88283,8 +88283,8 @@
    "id": "so_purple",
    "name": "Ultraviolet"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -88356,8 +88356,8 @@
    "id": "sp_dapple",
    "name": "Scorched"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -88429,8 +88429,8 @@
    "id": "sp_mesh_tan",
    "name": "Safari Mesh"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -88502,8 +88502,8 @@
    "id": "sp_nightstripe",
    "name": "Night Stripe"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -88575,8 +88575,8 @@
    "id": "sp_tape_urban",
    "name": "Urban Masked"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -89676,8 +89676,8 @@
    "id": "hy_ddpat",
    "name": "Forest DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -89749,8 +89749,8 @@
    "id": "hy_forest_boreal",
    "name": "Boreal Forest"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -89822,8 +89822,8 @@
    "id": "hy_webs",
    "name": "Crimson Web"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -89895,8 +89895,8 @@
    "id": "so_purple",
    "name": "Ultraviolet"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -89968,8 +89968,8 @@
    "id": "sp_dapple",
    "name": "Scorched"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -90041,8 +90041,8 @@
    "id": "sp_mesh_tan",
    "name": "Safari Mesh"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -90114,8 +90114,8 @@
    "id": "sp_nightstripe",
    "name": "Night Stripe"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -90187,8 +90187,8 @@
    "id": "sp_tape_urban",
    "name": "Urban Masked"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_ancient_weapon",
    "name": "Covert",
@@ -91088,8 +91088,8 @@
    "id": "hy_blizzard",
    "name": "Blizzard Marbleized"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -91156,8 +91156,8 @@
    "id": "hy_ddpat_jungle_bravo",
    "name": "Jungle DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -91576,8 +91576,8 @@
    "id": "so_jungle",
    "name": "Jungle"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -92069,8 +92069,8 @@
    "id": "sp_spray",
    "name": "Contrast Spray"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -92228,8 +92228,8 @@
    "id": "sp_zebracam",
    "name": "Predator"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -94526,8 +94526,8 @@
    "id": "hy_ddpat_urb",
    "name": "Urban DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -94754,8 +94754,8 @@
    "id": "hy_desert",
    "name": "Desert Storm"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -94822,8 +94822,8 @@
    "id": "hy_hunter_modern",
    "name": "Modern Hunter"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_mythical_weapon",
    "name": "Restricted",
@@ -95010,8 +95010,8 @@
    "id": "hy_v_tiger",
    "name": "Jungle Tiger"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -97968,8 +97968,8 @@
    "id": "hy_forest_boreal",
    "name": "Boreal Forest"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -98871,8 +98871,8 @@
    "id": "so_orange_accents",
    "name": "Nitro"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_mythical_weapon",
    "name": "Restricted",
@@ -99086,8 +99086,8 @@
    "id": "so_tornado",
    "name": "Tornado"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -99331,8 +99331,8 @@
    "id": "sp_nukestripe_orange",
    "name": "Radiation Hazard"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_rare_weapon",
    "name": "Mil-Spec Grade",
@@ -99440,7 +99440,7 @@
    "id": "sp_star_bravo",
    "name": "Zirka"
   },
-  "min_float": 0.0,
+  "min_float": 0.06,
   "max_float": 0.42,
   "rarity": {
    "id": "rarity_mythical_weapon",
@@ -99510,8 +99510,8 @@
    "id": "sp_zebracam_bw",
    "name": "Faded Zebra"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_rare_weapon",
    "name": "Mil-Spec Grade",
@@ -100648,8 +100648,8 @@
    "id": "aq_etched_mac10_bravo",
    "name": "Graven"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_mythical_weapon",
    "name": "Restricted",
@@ -102562,8 +102562,8 @@
    "id": "hy_ddpat_urb",
    "name": "Urban DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -103427,8 +103427,8 @@
    "id": "so_purple",
    "name": "Ultraviolet"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_rare_weapon",
    "name": "Mil-Spec Grade",
@@ -103622,8 +103622,8 @@
    "id": "so_tornado",
    "name": "Tornado"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -103867,8 +103867,8 @@
    "id": "sp_palm",
    "name": "Palm"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -106453,8 +106453,8 @@
    "id": "so_sand",
    "name": "Sand Dune"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -106562,8 +106562,8 @@
    "id": "so_stormfront",
    "name": "Storm"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -106721,8 +106721,8 @@
    "id": "so_yellow",
    "name": "Bulldozer"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_mythical_weapon",
    "name": "Restricted",
@@ -106933,8 +106933,8 @@
    "id": "sp_hazard_bravo",
    "name": "Hazard"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_rare_weapon",
    "name": "Mil-Spec Grade",
@@ -107075,8 +107075,8 @@
    "id": "sp_nukestripe_brown",
    "name": "Irradiated Alert"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -108623,8 +108623,8 @@
    "id": "so_orange_accents3",
    "name": "Nitro"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -110418,8 +110418,8 @@
    "id": "hy_ddpat",
    "name": "Forest DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -110595,8 +110595,8 @@
    "id": "hy_gelpen",
    "name": "Gunsmoke"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -111310,8 +111310,8 @@
    "id": "so_olive_bravo",
    "name": "Groundwater"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -111378,8 +111378,8 @@
    "id": "so_whiteout",
    "name": "Whiteout"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_rare_weapon",
    "name": "Mil-Spec Grade",
@@ -111514,8 +111514,8 @@
    "id": "sp_dapple",
    "name": "Scorched"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -111794,8 +111794,8 @@
    "id": "sp_spray_army",
    "name": "Army Recon"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -111873,8 +111873,8 @@
    "id": "sp_tape_orange",
    "name": "Orange Peel"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -114920,8 +114920,8 @@
    "id": "so_stormfront",
    "name": "Storm"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -115079,8 +115079,8 @@
    "id": "so_yellow",
    "name": "Bulldozer"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_mythical_weapon",
    "name": "Restricted",
@@ -115450,8 +115450,8 @@
    "id": "sp_tape_dots_bravo",
    "name": "Dry Season"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -115518,8 +115518,8 @@
    "id": "sp_tape_orange",
    "name": "Orange Peel"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -115597,8 +115597,8 @@
    "id": "sp_tape_short_sand",
    "name": "Sand Dashed"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -117617,8 +117617,8 @@
    "id": "sp_palm_bravo",
    "name": "Palm"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -118181,7 +118181,7 @@
    "name": "Rust Coat"
   },
   "min_float": 0.0,
-  "max_float": 1.0,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -118898,8 +118898,8 @@
    "id": "cu_spring_nova",
    "name": "Bloomstick"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_legendary_weapon",
    "name": "Classified",
@@ -118972,8 +118972,8 @@
    "id": "cu_walnut_nova",
    "name": "Walnut"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -119515,8 +119515,8 @@
    "id": "hy_hunter_blaze_orange",
    "name": "Blaze Orange"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_rare_weapon",
    "name": "Mil-Spec Grade",
@@ -119583,8 +119583,8 @@
    "id": "hy_hunter_modern",
    "name": "Modern Hunter"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_rare_weapon",
    "name": "Mil-Spec Grade",
@@ -119651,7 +119651,7 @@
    "id": "hy_seaside_bravo",
    "name": "Tempest"
   },
-  "min_float": 0.0,
+  "min_float": 0.06,
   "max_float": 0.22,
   "rarity": {
    "id": "rarity_rare_weapon",
@@ -120455,8 +120455,8 @@
    "id": "so_sand",
    "name": "Sand Dune"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -120740,8 +120740,8 @@
    "id": "sp_leaves",
    "name": "Forest Leaves"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -120808,8 +120808,8 @@
    "id": "sp_mesh_arctic_contrast",
    "name": "Polar Mesh"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -121011,8 +121011,8 @@
    "id": "sp_zebracam",
    "name": "Predator"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -123495,8 +123495,8 @@
    "id": "hy_crumple_dark_bravo",
    "name": "Facets"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -123786,8 +123786,8 @@
    "id": "hy_forest_boreal",
    "name": "Boreal Forest"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -123865,8 +123865,8 @@
    "id": "hy_forest_night",
    "name": "Forest Night"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -123933,8 +123933,8 @@
    "id": "hy_gelpen",
    "name": "Gunsmoke"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -124042,8 +124042,8 @@
    "id": "hy_hunter_modern",
    "name": "Modern Hunter"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_rare_weapon",
    "name": "Mil-Spec Grade",
@@ -124941,8 +124941,8 @@
    "id": "so_sand",
    "name": "Sand Dune"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -125075,8 +125075,8 @@
    "id": "so_whiteout",
    "name": "Whiteout"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_rare_weapon",
    "name": "Mil-Spec Grade",
@@ -125520,8 +125520,8 @@
    "id": "sp_nukestripe_green",
    "name": "Nuclear Threat"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_mythical_weapon",
    "name": "Restricted",
@@ -125629,7 +125629,7 @@
    "id": "sp_splash_p250",
    "name": "Splash"
   },
-  "min_float": 0.0,
+  "min_float": 0.06,
   "max_float": 0.18,
   "rarity": {
    "id": "rarity_mythical_weapon",
@@ -125695,8 +125695,8 @@
    "id": "sp_tape",
    "name": "Bone Mask"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -126410,7 +126410,7 @@
    "id": "cu_dragon_p90_bravo",
    "name": "Emerald Dragon"
   },
-  "min_float": 0.0,
+  "min_float": 0.06,
   "max_float": 0.52,
   "rarity": {
    "id": "rarity_legendary_weapon",
@@ -128466,8 +128466,8 @@
    "id": "hy_zombie",
    "name": "Virus"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_mythical_weapon",
    "name": "Restricted",
@@ -129045,8 +129045,8 @@
    "id": "so_stormfront",
    "name": "Storm"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -129232,8 +129232,8 @@
    "id": "sp_dapple",
    "name": "Scorched"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -129376,8 +129376,8 @@
    "id": "sp_mesh_glacier",
    "name": "Glacier Mesh"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_rare_weapon",
    "name": "Mil-Spec Grade",
@@ -129638,8 +129638,8 @@
    "id": "sp_nukestripe_maroon",
    "name": "Fallout Warning"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -129821,8 +129821,8 @@
    "id": "sp_spray_sand",
    "name": "Sand Spray"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -131397,8 +131397,8 @@
    "id": "hy_webs",
    "name": "Crimson Web"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_rare_weapon",
    "name": "Mil-Spec Grade",
@@ -131545,8 +131545,8 @@
    "id": "so_night",
    "name": "Night"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -131654,8 +131654,8 @@
    "id": "so_orange_accents3",
    "name": "Nitro"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -132050,8 +132050,8 @@
    "id": "sp_tape",
    "name": "Bone Mask"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -132657,7 +132657,7 @@
    "name": "Rust Coat"
   },
   "min_float": 0.0,
-  "max_float": 1.0,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -133783,8 +133783,8 @@
    "id": "hy_ali_tile_bravo",
    "name": "Mosaico"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -133919,8 +133919,8 @@
    "id": "hy_ddpat",
    "name": "Forest DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -133987,8 +133987,8 @@
    "id": "hy_ddpat_orange",
    "name": "Orange DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_mythical_weapon",
    "name": "Restricted",
@@ -134523,8 +134523,8 @@
    "id": "sp_nukestripe_brown",
    "name": "Irradiated Alert"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -134700,8 +134700,8 @@
    "id": "sp_snake",
    "name": "Snake Camo"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -134834,8 +134834,8 @@
    "id": "sp_spray_desert_sage",
    "name": "Sage Spray"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -136234,8 +136234,8 @@
    "id": "hy_hunter_blaze_pink",
    "name": "Splash Jam"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_legendary_weapon",
    "name": "Classified",
@@ -136450,8 +136450,8 @@
    "id": "hy_webs_darker",
    "name": "Crimson Web"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_rare_weapon",
    "name": "Mil-Spec Grade",
@@ -136808,8 +136808,8 @@
    "id": "so_pmc",
    "name": "Contractor"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -136887,8 +136887,8 @@
    "id": "so_stormfront",
    "name": "Storm"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -137006,8 +137006,8 @@
    "id": "sp_mesh_sand",
    "name": "Sand Mesh"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -137140,8 +137140,8 @@
    "id": "sp_palm",
    "name": "Palm"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -139414,8 +139414,8 @@
    "id": "so_purple",
    "name": "Ultraviolet"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_rare_weapon",
    "name": "Mil-Spec Grade",
@@ -139556,8 +139556,8 @@
    "id": "so_tornado",
    "name": "Tornado"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -139624,8 +139624,8 @@
    "id": "so_yellow",
    "name": "Bulldozer"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_mythical_weapon",
    "name": "Restricted",
@@ -140274,8 +140274,8 @@
    "id": "sp_spray_waves_bravo",
    "name": "Wave Spray"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_rare_weapon",
    "name": "Mil-Spec Grade",
@@ -140348,8 +140348,8 @@
    "id": "sp_tape_dots_waves",
    "name": "Waves Perforated"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -140781,7 +140781,7 @@
    "id": "cu_shark",
    "name": "Blood in the Water"
   },
-  "min_float": 0.0,
+  "min_float": 0.06,
   "max_float": 0.2,
   "rarity": {
    "id": "rarity_ancient_weapon",
@@ -142238,8 +142238,8 @@
    "id": "hy_mayan_dreams_bravo",
    "name": "Mayan Dreams"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -142801,8 +142801,8 @@
    "id": "so_moss",
    "name": "Blue Spruce"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -142948,8 +142948,8 @@
    "id": "so_sand",
    "name": "Sand Dune"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -143152,8 +143152,8 @@
    "id": "sp_palm_shadow",
    "name": "Tropical Storm"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -143296,8 +143296,8 @@
    "id": "sp_short_tape",
    "name": "Lichen Dashed"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -143364,8 +143364,8 @@
    "id": "sp_tape_short_jungle",
    "name": "Jungle Dashed"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -146290,8 +146290,8 @@
    "id": "hy_ddpat_urb",
    "name": "Urban DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -147097,8 +147097,8 @@
    "id": "so_olive",
    "name": "Groundwater"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -147244,8 +147244,8 @@
    "id": "so_tornado_bravo",
    "name": "Tornado"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -147742,8 +147742,8 @@
    "id": "sp_nukestripe_green_tec9",
    "name": "Nuclear Threat"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_mythical_weapon",
    "name": "Restricted",
@@ -149855,8 +149855,8 @@
    "id": "hy_ddpat_urb",
    "name": "Urban DDPAT"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -149984,8 +149984,8 @@
    "id": "hy_gelpen",
    "name": "Gunsmoke"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -150201,8 +150201,8 @@
    "id": "hy_mottled_sand",
    "name": "Mudder"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -150461,8 +150461,8 @@
    "id": "so_caramel",
    "name": "Caramel"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -150716,8 +150716,8 @@
    "id": "sp_dapple",
    "name": "Scorched"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -150875,8 +150875,8 @@
    "id": "sp_nukestripe_maroon",
    "name": "Fallout Warning"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -150984,7 +150984,7 @@
    "id": "sp_skull_diagram_bravo",
    "name": "Bone Pile"
   },
-  "min_float": 0.0,
+  "min_float": 0.06,
   "max_float": 0.34,
   "rarity": {
    "id": "rarity_rare_weapon",
@@ -153848,8 +153848,8 @@
    "id": "hy_siege_bravo",
    "name": "Overgrowth"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_mythical_weapon",
    "name": "Restricted",
@@ -154069,8 +154069,8 @@
    "id": "so_whiteout_riptide",
    "name": "Whiteout"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_legendary_weapon",
    "name": "Classified",
@@ -154506,8 +154506,8 @@
    "id": "sp_leaves",
    "name": "Forest Leaves"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -157031,8 +157031,8 @@
    "id": "hy_hunter_blaze_orange",
    "name": "Blaze Orange"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_rare_weapon",
    "name": "Mil-Spec Grade",
@@ -157617,8 +157617,8 @@
    "id": "so_grassland",
    "name": "Grassland"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -157685,8 +157685,8 @@
    "id": "so_jungle_bravo",
    "name": "Jungle"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -157753,8 +157753,8 @@
    "id": "so_moss",
    "name": "Blue Spruce"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
@@ -157968,8 +157968,8 @@
    "id": "sp_nukestripe_maroon",
    "name": "Fallout Warning"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_uncommon_weapon",
    "name": "Industrial Grade",
@@ -158077,8 +158077,8 @@
    "id": "sp_tape_dots_urban",
    "name": "Urban Perforated"
   },
-  "min_float": 0.0,
-  "max_float": 1.0,
+  "min_float": 0.06,
+  "max_float": 0.8,
   "rarity": {
    "id": "rarity_common_weapon",
    "name": "Consumer Grade",
