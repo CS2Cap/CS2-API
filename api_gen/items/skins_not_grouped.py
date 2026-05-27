@@ -155,8 +155,8 @@ def _parse_item(
     else:
         team_name = translations.t("inv_filter_t")
 
-    wear_min = float(pk.get("wear_remap_min", 0.0))
-    wear_max = float(pk.get("wear_remap_max", 1.0))
+    wear_min = float(pk.get("wear_remap_min", 0.06))
+    wear_max = float(pk.get("wear_remap_max", 0.8))
     wear_keys = get_wears(wear_min, wear_max)
 
     # Build the type list

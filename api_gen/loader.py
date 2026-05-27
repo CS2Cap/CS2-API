@@ -471,8 +471,8 @@ def load_paint_kits(state: State) -> None:
         if item.get("description_tag") is not None:
             result[item["name"].lower()] = {
                 "description_tag": item["description_tag"],
-                "wear_remap_min": item.get("wear_remap_min", 0.0),
-                "wear_remap_max": item.get("wear_remap_max", 1.0),
+                "wear_remap_min": item.get("wear_remap_min", 0.06),
+                "wear_remap_max": item.get("wear_remap_max", 0.8),
                 "paint_index": key,
                 "style_id": item.get("style", 0),
                 "style_name": f"SFUI_ItemInfo_FinishStyle_{item.get('style', 0)}",

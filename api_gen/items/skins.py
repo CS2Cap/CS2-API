@@ -163,8 +163,8 @@ def _parse_item(
     # Souvenir flag
     is_souvenir: bool = souvenir_skins.get(skin_id, False)
 
-    wear_min = float(pk.get("wear_remap_min", 0.0))
-    wear_max = float(pk.get("wear_remap_max", 1.0))
+    wear_min = float(pk.get("wear_remap_min", 0.06))
+    wear_max = float(pk.get("wear_remap_max", 0.8))
     wear_keys = get_wears(wear_min, wear_max)
     wears = [{"id": wk, "name": translations.t(wk)} for wk in wear_keys]
 
