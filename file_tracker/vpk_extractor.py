@@ -1,18 +1,12 @@
 """Download VPK archives from Steam CDN and extract game files to JSON."""
 import json
-import lzma
 import os
 import shutil
-import struct
-from io import BytesIO
-from zipfile import ZipFile
-from zlib import crc32
 
 import vdf
 import vpk as vpk_lib
 from steam.client import SteamClient
 from steam.client.cdn import CDNClient
-from steam.core.crypto import symmetric_decrypt
 
 APP_ID = 730
 DEPOT_ID = 2347770
@@ -69,57 +63,6 @@ def _create_cdn_client(client: SteamClient) -> CDNClient:
     return cdn
 
 
-def _patch_cdn_get_chunk(cdn: CDNClient) -> None:
-    """Monkey-patch CDNClient.get_chunk to handle VSZ (zstd) compressed chunks."""
-    import types
-
-    import zstandard
-
-    def patched_get_chunk(self, app_id, depot_id, chunk_id):
-        if (depot_id, chunk_id) in self._chunk_cache:
-            return self._chunk_cache[(depot_id, chunk_id)]
-
-        resp = self.cdn_cmd("depot", f"{depot_id}/chunk/{chunk_id}")
-        data = symmetric_decrypt(resp.content, self.get_depot_key(app_id, depot_id))
-
-        if data[:3] == b"VSZ":
-            # VSZ (zstd) — CS2's newer chunk format
-            if data[-3:] != b"zsv":
-                raise RuntimeError(f"VSZ: Invalid footer: {data[-3:]!r}")
-
-            checksum = struct.unpack("<I", data[4:8])[0]
-            decompressed_size = struct.unpack("<Q", data[-11:-3])[0]
-
-            dctx = zstandard.ZstdDecompressor()
-            data = dctx.decompress(data[8:-15], max_output_size=decompressed_size)
-            if (crc32(data) & 0xFFFFFFFF) != checksum:
-                raise RuntimeError("VSZ: CRC32 checksum mismatch")
-
-        elif data[:2] == b"VZ":
-            # VZ (LZMA) — original steam library logic
-            if data[-2:] != b"zv":
-                raise RuntimeError(f"VZ: Invalid footer: {data[-2:]!r}")
-            if data[2:3] != b"a":
-                raise RuntimeError(f"VZ: Invalid version: {data[2:3]!r}")
-
-            vzfilter = lzma._decode_filter_properties(lzma.FILTER_LZMA1, data[7:12])
-            vzdec = lzma.LZMADecompressor(lzma.FORMAT_RAW, filters=[vzfilter])
-            checksum, decompressed_size = struct.unpack("<II", data[-10:-2])
-            data = vzdec.decompress(data[12:-9])[:decompressed_size]
-            if crc32(data) != checksum:
-                raise RuntimeError("VZ: CRC32 checksum mismatch")
-
-        else:
-            # Zip fallback (original steam library behavior)
-            with ZipFile(BytesIO(data)) as zf:
-                data = zf.read(zf.filelist[0])
-
-        self._chunk_cache[(depot_id, chunk_id)] = data
-        return data
-
-    cdn.get_chunk = types.MethodType(patched_get_chunk, cdn)
-
-
 def get_image_crcs(temp_dir: str) -> dict[str, int]:
     """Read CRC32 for every panorama image in the VPK directory.
 
@@ -159,7 +102,6 @@ def download_vpk_files(
     os.makedirs(temp_dir, exist_ok=True)
 
     cdn = _create_cdn_client(client)
-    _patch_cdn_get_chunk(cdn)
 
     manifest_request_code = cdn.get_manifest_request_code(APP_ID, DEPOT_ID, int(manifest_id))
     manifest = cdn.get_manifest(

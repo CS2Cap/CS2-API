@@ -4,7 +4,10 @@ version = "1.0.0"
 description = "CS2 game file tracker and API generator"
 requires-python = ">=3.10"
 dependencies = [
-    "steam[client]>=1.4.4",
+    # ValvePython/steam on PyPI is abandoned and its plaintext-password
+    # ClientLogon is rejected by Valve (InvalidPassword); the maintained fork
+    # supports the current token-based login flow.
+    "steam[client] @ git+https://github.com/solsticegamestudios/steam.git@1373e885f26bb636225443787f54d4082283e5f3",
     "vdf>=3.3",
     "vpk>=1.0",
     "python-dotenv>=1.0",

@@ -5,6 +5,8 @@ from time import sleep
 import steam.guard
 from gevent.timeout import Timeout as GeventTimeout
 from steam.client import SteamClient
+from steam.enums import EResult
+from steam.webauth import WebAuth
 
 APP_ID = 730
 DEPOT_ID = 2347770
@@ -13,14 +15,33 @@ PRODUCT_INFO_MAX_ATTEMPTS = 3
 PRODUCT_INFO_RETRY_DELAY_SECONDS = 5
 
 
-def login(username: str, password: str, shared_secret: str | None = None) -> SteamClient:
-    client = SteamClient()
+class SteamLoginError(RuntimeError):
+    """Raised when the authenticated Steam logon is rejected."""
 
+    def __init__(self, result: EResult):
+        self.result = result
+        super().__init__(f"Steam login failed: {result.name} ({result.value})")
+
+
+def login(username: str, password: str, shared_secret: str | None = None) -> SteamClient:
+    """Log into Steam with the token-based flow.
+
+    Valve rejects the legacy plaintext-password ClientLogon with
+    InvalidPassword, so authenticate through the web CAuthentication flow
+    first and log the client on with the resulting refresh token.
+    """
+    two_factor_code = None
     if shared_secret:
         two_factor_code = steam.guard.generate_twofactor_code(b64decode(shared_secret))
-        client.login(username, password, two_factor_code=two_factor_code)
-    else:
-        client.login(username, password)
+
+    web = WebAuth(username, password)
+    web.login(code=two_factor_code)
+
+    client = SteamClient()
+    result = client.login(username, access_token=web.refresh_token)
+
+    if result != EResult.OK:
+        raise SteamLoginError(EResult(result))
 
     return client
 
@@ -41,7 +62,11 @@ def _safe_logout(client: SteamClient) -> None:
 
 
 def _fetch_manifest_id(client: SteamClient) -> str:
-    info = client.get_product_info(apps=[APP_ID], timeout=PRODUCT_INFO_TIMEOUT_SECONDS)
+    info = client.get_product_info(
+        apps=[APP_ID],
+        timeout=PRODUCT_INFO_TIMEOUT_SECONDS,
+        auto_access_tokens=False,
+    )
     depots = info["apps"][APP_ID]["depots"]
     manifest_id = depots[str(DEPOT_ID)]["manifests"]["public"]["gid"]
     return str(manifest_id)
