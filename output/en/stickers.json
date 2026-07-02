@@ -443681,5 +443681,1005 @@
    "name": "cologne2026_signature_nettik_gold",
    "image_inventory": "econ/stickers/cologne2026/sig_nettik_gold"
   }
+ },
+ {
+  "id": "sticker-11174",
+  "name": "Sticker | NiKo (Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>This item commemorates the IEM Cologne 2026 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Nikola Kovač playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11174",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | NiKo (Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 81417650,
+   "name": "NiKo",
+   "code": "niko",
+   "dob": "1997-02-16",
+   "geo": "BA"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_niko_champion_png.png",
+  "original": {
+   "name": "cologne2026_signature_niko_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_niko_champion"
+  }
+ },
+ {
+  "id": "sticker-11175",
+  "name": "Sticker | NiKo (Foil, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>This item commemorates the IEM Cologne 2026 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Nikola Kovač playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11175",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | NiKo (Foil, Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 81417650,
+   "name": "NiKo",
+   "code": "niko",
+   "dob": "1997-02-16",
+   "geo": "BA"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_niko_champion_foil_png.png",
+  "original": {
+   "name": "cologne2026_signature_niko_foil_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_niko_champion_foil"
+  }
+ },
+ {
+  "id": "sticker-11176",
+  "name": "Sticker | NiKo (Holo, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>This item commemorates the IEM Cologne 2026 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This holographic sticker was autographed by professional player Nikola Kovač playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11176",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | NiKo (Holo, Champion) | Cologne 2026",
+  "effect": "Holo",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 81417650,
+   "name": "NiKo",
+   "code": "niko",
+   "dob": "1997-02-16",
+   "geo": "BA"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_niko_champion_holo_png.png",
+  "original": {
+   "name": "cologne2026_signature_niko_holo_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_niko_champion_holo"
+  }
+ },
+ {
+  "id": "sticker-11177",
+  "name": "Sticker | NiKo (Gold, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>This item commemorates the IEM Cologne 2026 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Nikola Kovač playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11177",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | NiKo (Gold, Champion) | Cologne 2026",
+  "effect": "Gold",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 81417650,
+   "name": "NiKo",
+   "code": "niko",
+   "dob": "1997-02-16",
+   "geo": "BA"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_niko_champion_gold_png.png",
+  "original": {
+   "name": "cologne2026_signature_niko_gold_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_niko_champion_gold"
+  }
+ },
+ {
+  "id": "sticker-11178",
+  "name": "Sticker | kyxsan (Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>This item commemorates the IEM Cologne 2026 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Damjan Stoilkovski playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11178",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | kyxsan (Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 97016704,
+   "name": "kyxsan",
+   "code": "kyxsan",
+   "dob": "1970-01-01",
+   "geo": "WORLD"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyxsan_champion_png.png",
+  "original": {
+   "name": "cologne2026_signature_kyxsan_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_kyxsan_champion"
+  }
+ },
+ {
+  "id": "sticker-11179",
+  "name": "Sticker | kyxsan (Foil, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>This item commemorates the IEM Cologne 2026 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Damjan Stoilkovski playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11179",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | kyxsan (Foil, Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 97016704,
+   "name": "kyxsan",
+   "code": "kyxsan",
+   "dob": "1970-01-01",
+   "geo": "WORLD"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyxsan_champion_foil_png.png",
+  "original": {
+   "name": "cologne2026_signature_kyxsan_foil_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_kyxsan_champion_foil"
+  }
+ },
+ {
+  "id": "sticker-11180",
+  "name": "Sticker | kyxsan (Holo, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>This item commemorates the IEM Cologne 2026 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This holographic sticker was autographed by professional player Damjan Stoilkovski playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11180",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | kyxsan (Holo, Champion) | Cologne 2026",
+  "effect": "Holo",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 97016704,
+   "name": "kyxsan",
+   "code": "kyxsan",
+   "dob": "1970-01-01",
+   "geo": "WORLD"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyxsan_champion_holo_png.png",
+  "original": {
+   "name": "cologne2026_signature_kyxsan_holo_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_kyxsan_champion_holo"
+  }
+ },
+ {
+  "id": "sticker-11181",
+  "name": "Sticker | kyxsan (Gold, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>This item commemorates the IEM Cologne 2026 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Damjan Stoilkovski playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11181",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | kyxsan (Gold, Champion) | Cologne 2026",
+  "effect": "Gold",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 97016704,
+   "name": "kyxsan",
+   "code": "kyxsan",
+   "dob": "1970-01-01",
+   "geo": "WORLD"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyxsan_champion_gold_png.png",
+  "original": {
+   "name": "cologne2026_signature_kyxsan_gold_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_kyxsan_champion_gold"
+  }
+ },
+ {
+  "id": "sticker-11182",
+  "name": "Sticker | m0NESY (Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>This item commemorates the IEM Cologne 2026 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Ilia Osipov playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11182",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | m0NESY (Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 114497073,
+   "name": "m0NESY",
+   "code": "m0nesy",
+   "dob": "2005-05-01",
+   "geo": "RU"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_m0nesy_champion_png.png",
+  "original": {
+   "name": "cologne2026_signature_m0nesy_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_m0nesy_champion"
+  }
+ },
+ {
+  "id": "sticker-11183",
+  "name": "Sticker | m0NESY (Foil, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>This item commemorates the IEM Cologne 2026 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Ilia Osipov playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11183",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | m0NESY (Foil, Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 114497073,
+   "name": "m0NESY",
+   "code": "m0nesy",
+   "dob": "2005-05-01",
+   "geo": "RU"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_m0nesy_champion_foil_png.png",
+  "original": {
+   "name": "cologne2026_signature_m0nesy_foil_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_m0nesy_champion_foil"
+  }
+ },
+ {
+  "id": "sticker-11184",
+  "name": "Sticker | m0NESY (Holo, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>This item commemorates the IEM Cologne 2026 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This holographic sticker was autographed by professional player Ilia Osipov playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11184",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | m0NESY (Holo, Champion) | Cologne 2026",
+  "effect": "Holo",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 114497073,
+   "name": "m0NESY",
+   "code": "m0nesy",
+   "dob": "2005-05-01",
+   "geo": "RU"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_m0nesy_champion_holo_png.png",
+  "original": {
+   "name": "cologne2026_signature_m0nesy_holo_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_m0nesy_champion_holo"
+  }
+ },
+ {
+  "id": "sticker-11185",
+  "name": "Sticker | m0NESY (Gold, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>This item commemorates the IEM Cologne 2026 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Ilia Osipov playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11185",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | m0NESY (Gold, Champion) | Cologne 2026",
+  "effect": "Gold",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 114497073,
+   "name": "m0NESY",
+   "code": "m0nesy",
+   "dob": "2005-05-01",
+   "geo": "RU"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_m0nesy_champion_gold_png.png",
+  "original": {
+   "name": "cologne2026_signature_m0nesy_gold_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_m0nesy_champion_gold"
+  }
+ },
+ {
+  "id": "sticker-11186",
+  "name": "Sticker | TeSeS (Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>This item commemorates the IEM Cologne 2026 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player René Stensig Madsen playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11186",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | TeSeS (Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 36412550,
+   "name": "TeSeS",
+   "code": "teses",
+   "dob": "2000-12-12",
+   "geo": "DK"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_teses_champion_png.png",
+  "original": {
+   "name": "cologne2026_signature_teses_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_teses_champion"
+  }
+ },
+ {
+  "id": "sticker-11187",
+  "name": "Sticker | TeSeS (Foil, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>This item commemorates the IEM Cologne 2026 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player René Stensig Madsen playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11187",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | TeSeS (Foil, Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 36412550,
+   "name": "TeSeS",
+   "code": "teses",
+   "dob": "2000-12-12",
+   "geo": "DK"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_teses_champion_foil_png.png",
+  "original": {
+   "name": "cologne2026_signature_teses_foil_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_teses_champion_foil"
+  }
+ },
+ {
+  "id": "sticker-11188",
+  "name": "Sticker | TeSeS (Holo, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>This item commemorates the IEM Cologne 2026 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This holographic sticker was autographed by professional player René Stensig Madsen playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11188",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | TeSeS (Holo, Champion) | Cologne 2026",
+  "effect": "Holo",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 36412550,
+   "name": "TeSeS",
+   "code": "teses",
+   "dob": "2000-12-12",
+   "geo": "DK"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_teses_champion_holo_png.png",
+  "original": {
+   "name": "cologne2026_signature_teses_holo_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_teses_champion_holo"
+  }
+ },
+ {
+  "id": "sticker-11189",
+  "name": "Sticker | TeSeS (Gold, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>This item commemorates the IEM Cologne 2026 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player René Stensig Madsen playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11189",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | TeSeS (Gold, Champion) | Cologne 2026",
+  "effect": "Gold",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 36412550,
+   "name": "TeSeS",
+   "code": "teses",
+   "dob": "2000-12-12",
+   "geo": "DK"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_teses_champion_gold_png.png",
+  "original": {
+   "name": "cologne2026_signature_teses_gold_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_teses_champion_gold"
+  }
+ },
+ {
+  "id": "sticker-11190",
+  "name": "Sticker | kyousuke (Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>This item commemorates the IEM Cologne 2026 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This sticker was autographed by professional player Maksim Lukin playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11190",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | kyousuke (Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 1071740496,
+   "name": "kyousuke",
+   "code": "kyousuke",
+   "dob": "1970-01-01",
+   "geo": "WORLD"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyousuke_champion_png.png",
+  "original": {
+   "name": "cologne2026_signature_kyousuke_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_kyousuke_champion"
+  }
+ },
+ {
+  "id": "sticker-11191",
+  "name": "Sticker | kyousuke (Foil, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>This item commemorates the IEM Cologne 2026 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This foil sticker was autographed by professional player Maksim Lukin playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11191",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | kyousuke (Foil, Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 1071740496,
+   "name": "kyousuke",
+   "code": "kyousuke",
+   "dob": "1970-01-01",
+   "geo": "WORLD"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyousuke_champion_foil_png.png",
+  "original": {
+   "name": "cologne2026_signature_kyousuke_foil_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_kyousuke_champion_foil"
+  }
+ },
+ {
+  "id": "sticker-11192",
+  "name": "Sticker | kyousuke (Holo, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>This item commemorates the IEM Cologne 2026 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This holographic sticker was autographed by professional player Maksim Lukin playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11192",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | kyousuke (Holo, Champion) | Cologne 2026",
+  "effect": "Holo",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 1071740496,
+   "name": "kyousuke",
+   "code": "kyousuke",
+   "dob": "1970-01-01",
+   "geo": "WORLD"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyousuke_champion_holo_png.png",
+  "original": {
+   "name": "cologne2026_signature_kyousuke_holo_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_kyousuke_champion_holo"
+  }
+ },
+ {
+  "id": "sticker-11193",
+  "name": "Sticker | kyousuke (Gold, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>This item commemorates the IEM Cologne 2026 CS2 Major Championship.</span><br/><br/> This sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.<br><br>This gold sticker was autographed by professional player Maksim Lukin playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11193",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | kyousuke (Gold, Champion) | Cologne 2026",
+  "effect": "Gold",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 1071740496,
+   "name": "kyousuke",
+   "code": "kyousuke",
+   "dob": "1970-01-01",
+   "geo": "WORLD"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyousuke_champion_gold_png.png",
+  "original": {
+   "name": "cologne2026_signature_kyousuke_gold_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_kyousuke_champion_gold"
+  }
  }
 ]

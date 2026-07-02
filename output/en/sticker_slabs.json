@@ -443681,5 +443681,1005 @@
    "name": "cologne2026_signature_nettik_gold",
    "image_inventory": "econ/stickers/cologne2026/sig_nettik_gold_1355_37"
   }
+ },
+ {
+  "id": "sticker_slab-11174",
+  "name": "Sticker Slab | NiKo (Champion) | Cologne 2026",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11174",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker Slab | NiKo (Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 81417650,
+   "name": "NiKo",
+   "code": "niko",
+   "dob": "1997-02-16",
+   "geo": "BA"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_niko_champion_1355_37_png.png",
+  "original": {
+   "name": "cologne2026_signature_niko_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_niko_champion_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11175",
+  "name": "Sticker Slab | NiKo (Foil, Champion) | Cologne 2026",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11175",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker Slab | NiKo (Foil, Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 81417650,
+   "name": "NiKo",
+   "code": "niko",
+   "dob": "1997-02-16",
+   "geo": "BA"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_niko_champion_foil_1355_37_png.png",
+  "original": {
+   "name": "cologne2026_signature_niko_foil_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_niko_champion_foil_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11176",
+  "name": "Sticker Slab | NiKo (Holo, Champion) | Cologne 2026",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11176",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker Slab | NiKo (Holo, Champion) | Cologne 2026",
+  "effect": "Holo",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 81417650,
+   "name": "NiKo",
+   "code": "niko",
+   "dob": "1997-02-16",
+   "geo": "BA"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_niko_champion_holo_1355_37_png.png",
+  "original": {
+   "name": "cologne2026_signature_niko_holo_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_niko_champion_holo_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11177",
+  "name": "Sticker Slab | NiKo (Gold, Champion) | Cologne 2026",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11177",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker Slab | NiKo (Gold, Champion) | Cologne 2026",
+  "effect": "Gold",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 81417650,
+   "name": "NiKo",
+   "code": "niko",
+   "dob": "1997-02-16",
+   "geo": "BA"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_niko_champion_gold_1355_37_png.png",
+  "original": {
+   "name": "cologne2026_signature_niko_gold_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_niko_champion_gold_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11178",
+  "name": "Sticker Slab | kyxsan (Champion) | Cologne 2026",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11178",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker Slab | kyxsan (Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 97016704,
+   "name": "kyxsan",
+   "code": "kyxsan",
+   "dob": "1970-01-01",
+   "geo": "WORLD"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyxsan_champion_1355_37_png.png",
+  "original": {
+   "name": "cologne2026_signature_kyxsan_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_kyxsan_champion_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11179",
+  "name": "Sticker Slab | kyxsan (Foil, Champion) | Cologne 2026",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11179",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker Slab | kyxsan (Foil, Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 97016704,
+   "name": "kyxsan",
+   "code": "kyxsan",
+   "dob": "1970-01-01",
+   "geo": "WORLD"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyxsan_champion_foil_1355_37_png.png",
+  "original": {
+   "name": "cologne2026_signature_kyxsan_foil_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_kyxsan_champion_foil_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11180",
+  "name": "Sticker Slab | kyxsan (Holo, Champion) | Cologne 2026",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11180",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker Slab | kyxsan (Holo, Champion) | Cologne 2026",
+  "effect": "Holo",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 97016704,
+   "name": "kyxsan",
+   "code": "kyxsan",
+   "dob": "1970-01-01",
+   "geo": "WORLD"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyxsan_champion_holo_1355_37_png.png",
+  "original": {
+   "name": "cologne2026_signature_kyxsan_holo_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_kyxsan_champion_holo_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11181",
+  "name": "Sticker Slab | kyxsan (Gold, Champion) | Cologne 2026",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11181",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker Slab | kyxsan (Gold, Champion) | Cologne 2026",
+  "effect": "Gold",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 97016704,
+   "name": "kyxsan",
+   "code": "kyxsan",
+   "dob": "1970-01-01",
+   "geo": "WORLD"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyxsan_champion_gold_1355_37_png.png",
+  "original": {
+   "name": "cologne2026_signature_kyxsan_gold_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_kyxsan_champion_gold_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11182",
+  "name": "Sticker Slab | m0NESY (Champion) | Cologne 2026",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11182",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker Slab | m0NESY (Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 114497073,
+   "name": "m0NESY",
+   "code": "m0nesy",
+   "dob": "2005-05-01",
+   "geo": "RU"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_m0nesy_champion_1355_37_png.png",
+  "original": {
+   "name": "cologne2026_signature_m0nesy_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_m0nesy_champion_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11183",
+  "name": "Sticker Slab | m0NESY (Foil, Champion) | Cologne 2026",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11183",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker Slab | m0NESY (Foil, Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 114497073,
+   "name": "m0NESY",
+   "code": "m0nesy",
+   "dob": "2005-05-01",
+   "geo": "RU"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_m0nesy_champion_foil_1355_37_png.png",
+  "original": {
+   "name": "cologne2026_signature_m0nesy_foil_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_m0nesy_champion_foil_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11184",
+  "name": "Sticker Slab | m0NESY (Holo, Champion) | Cologne 2026",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11184",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker Slab | m0NESY (Holo, Champion) | Cologne 2026",
+  "effect": "Holo",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 114497073,
+   "name": "m0NESY",
+   "code": "m0nesy",
+   "dob": "2005-05-01",
+   "geo": "RU"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_m0nesy_champion_holo_1355_37_png.png",
+  "original": {
+   "name": "cologne2026_signature_m0nesy_holo_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_m0nesy_champion_holo_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11185",
+  "name": "Sticker Slab | m0NESY (Gold, Champion) | Cologne 2026",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11185",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker Slab | m0NESY (Gold, Champion) | Cologne 2026",
+  "effect": "Gold",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 114497073,
+   "name": "m0NESY",
+   "code": "m0nesy",
+   "dob": "2005-05-01",
+   "geo": "RU"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_m0nesy_champion_gold_1355_37_png.png",
+  "original": {
+   "name": "cologne2026_signature_m0nesy_gold_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_m0nesy_champion_gold_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11186",
+  "name": "Sticker Slab | TeSeS (Champion) | Cologne 2026",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11186",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker Slab | TeSeS (Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 36412550,
+   "name": "TeSeS",
+   "code": "teses",
+   "dob": "2000-12-12",
+   "geo": "DK"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_teses_champion_1355_37_png.png",
+  "original": {
+   "name": "cologne2026_signature_teses_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_teses_champion_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11187",
+  "name": "Sticker Slab | TeSeS (Foil, Champion) | Cologne 2026",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11187",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker Slab | TeSeS (Foil, Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 36412550,
+   "name": "TeSeS",
+   "code": "teses",
+   "dob": "2000-12-12",
+   "geo": "DK"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_teses_champion_foil_1355_37_png.png",
+  "original": {
+   "name": "cologne2026_signature_teses_foil_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_teses_champion_foil_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11188",
+  "name": "Sticker Slab | TeSeS (Holo, Champion) | Cologne 2026",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11188",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker Slab | TeSeS (Holo, Champion) | Cologne 2026",
+  "effect": "Holo",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 36412550,
+   "name": "TeSeS",
+   "code": "teses",
+   "dob": "2000-12-12",
+   "geo": "DK"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_teses_champion_holo_1355_37_png.png",
+  "original": {
+   "name": "cologne2026_signature_teses_holo_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_teses_champion_holo_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11189",
+  "name": "Sticker Slab | TeSeS (Gold, Champion) | Cologne 2026",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11189",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker Slab | TeSeS (Gold, Champion) | Cologne 2026",
+  "effect": "Gold",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 36412550,
+   "name": "TeSeS",
+   "code": "teses",
+   "dob": "2000-12-12",
+   "geo": "DK"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_teses_champion_gold_1355_37_png.png",
+  "original": {
+   "name": "cologne2026_signature_teses_gold_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_teses_champion_gold_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11190",
+  "name": "Sticker Slab | kyousuke (Champion) | Cologne 2026",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11190",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker Slab | kyousuke (Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 1071740496,
+   "name": "kyousuke",
+   "code": "kyousuke",
+   "dob": "1970-01-01",
+   "geo": "WORLD"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyousuke_champion_1355_37_png.png",
+  "original": {
+   "name": "cologne2026_signature_kyousuke_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_kyousuke_champion_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11191",
+  "name": "Sticker Slab | kyousuke (Foil, Champion) | Cologne 2026",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11191",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker Slab | kyousuke (Foil, Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 1071740496,
+   "name": "kyousuke",
+   "code": "kyousuke",
+   "dob": "1970-01-01",
+   "geo": "WORLD"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyousuke_champion_foil_1355_37_png.png",
+  "original": {
+   "name": "cologne2026_signature_kyousuke_foil_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_kyousuke_champion_foil_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11192",
+  "name": "Sticker Slab | kyousuke (Holo, Champion) | Cologne 2026",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11192",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker Slab | kyousuke (Holo, Champion) | Cologne 2026",
+  "effect": "Holo",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 1071740496,
+   "name": "kyousuke",
+   "code": "kyousuke",
+   "dob": "1970-01-01",
+   "geo": "WORLD"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyousuke_champion_holo_1355_37_png.png",
+  "original": {
+   "name": "cologne2026_signature_kyousuke_holo_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_kyousuke_champion_holo_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11193",
+  "name": "Sticker Slab | kyousuke (Gold, Champion) | Cologne 2026",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11193",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cologne 2026 Autograph Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cologne 2026 Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker Slab | kyousuke (Gold, Champion) | Cologne 2026",
+  "effect": "Gold",
+  "tournament": {
+   "id": "26",
+   "name": "IEM Cologne 2026"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "geo": null,
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 1071740496,
+   "name": "kyousuke",
+   "code": "kyousuke",
+   "dob": "1970-01-01",
+   "geo": "WORLD"
+  },
+  "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyousuke_champion_gold_1355_37_png.png",
+  "original": {
+   "name": "cologne2026_signature_kyousuke_gold_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_kyousuke_champion_gold_1355_37"
+  }
  }
 ]

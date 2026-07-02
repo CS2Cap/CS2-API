@@ -178829,6 +178829,232 @@
   }
  },
  {
+  "id": "crate-5329",
+  "name": "Cologne 2026 Sticker Capsule",
+  "description": null,
+  "def_index": "5329",
+  "type": "Sticker Capsule",
+  "first_sale_date": null,
+  "rarity": {
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
+  },
+  "contains": [
+   {
+    "id": "sticker-11174",
+    "name": "NiKo (Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "High Grade",
+     "color": "#4b69ff"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_niko_champion_png.png"
+   },
+   {
+    "id": "sticker-11178",
+    "name": "kyxsan (Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "High Grade",
+     "color": "#4b69ff"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyxsan_champion_png.png"
+   },
+   {
+    "id": "sticker-11182",
+    "name": "m0NESY (Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "High Grade",
+     "color": "#4b69ff"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_m0nesy_champion_png.png"
+   },
+   {
+    "id": "sticker-11186",
+    "name": "TeSeS (Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "High Grade",
+     "color": "#4b69ff"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_teses_champion_png.png"
+   },
+   {
+    "id": "sticker-11190",
+    "name": "kyousuke (Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "High Grade",
+     "color": "#4b69ff"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyousuke_champion_png.png"
+   },
+   {
+    "id": "sticker-11175",
+    "name": "NiKo (Foil, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "Remarkable",
+     "color": "#8847ff"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_niko_champion_foil_png.png"
+   },
+   {
+    "id": "sticker-11179",
+    "name": "kyxsan (Foil, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "Remarkable",
+     "color": "#8847ff"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyxsan_champion_foil_png.png"
+   },
+   {
+    "id": "sticker-11183",
+    "name": "m0NESY (Foil, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "Remarkable",
+     "color": "#8847ff"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_m0nesy_champion_foil_png.png"
+   },
+   {
+    "id": "sticker-11187",
+    "name": "TeSeS (Foil, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "Remarkable",
+     "color": "#8847ff"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_teses_champion_foil_png.png"
+   },
+   {
+    "id": "sticker-11191",
+    "name": "kyousuke (Foil, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "Remarkable",
+     "color": "#8847ff"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyousuke_champion_foil_png.png"
+   },
+   {
+    "id": "sticker-11176",
+    "name": "NiKo (Holo, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "Exotic",
+     "color": "#d32ce6"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_niko_champion_holo_png.png"
+   },
+   {
+    "id": "sticker-11180",
+    "name": "kyxsan (Holo, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "Exotic",
+     "color": "#d32ce6"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyxsan_champion_holo_png.png"
+   },
+   {
+    "id": "sticker-11184",
+    "name": "m0NESY (Holo, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "Exotic",
+     "color": "#d32ce6"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_m0nesy_champion_holo_png.png"
+   },
+   {
+    "id": "sticker-11188",
+    "name": "TeSeS (Holo, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "Exotic",
+     "color": "#d32ce6"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_teses_champion_holo_png.png"
+   },
+   {
+    "id": "sticker-11192",
+    "name": "kyousuke (Holo, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "Exotic",
+     "color": "#d32ce6"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyousuke_champion_holo_png.png"
+   },
+   {
+    "id": "sticker-11177",
+    "name": "NiKo (Gold, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "Extraordinary",
+     "color": "#eb4b4b"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_niko_champion_gold_png.png"
+   },
+   {
+    "id": "sticker-11181",
+    "name": "kyxsan (Gold, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "Extraordinary",
+     "color": "#eb4b4b"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyxsan_champion_gold_png.png"
+   },
+   {
+    "id": "sticker-11185",
+    "name": "m0NESY (Gold, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "Extraordinary",
+     "color": "#eb4b4b"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_m0nesy_champion_gold_png.png"
+   },
+   {
+    "id": "sticker-11189",
+    "name": "TeSeS (Gold, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "Extraordinary",
+     "color": "#eb4b4b"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_teses_champion_gold_png.png"
+   },
+   {
+    "id": "sticker-11193",
+    "name": "kyousuke (Gold, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "Extraordinary",
+     "color": "#eb4b4b"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyousuke_champion_gold_png.png"
+   }
+  ],
+  "contains_rare": [],
+  "special_notes": null,
+  "market_hash_name": "Cologne 2026 Sticker Capsule",
+  "rental": false,
+  "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png",
+  "model_player": null,
+  "loot_list": null,
+  "original": {
+   "item_name": "#CSGO_crate_sticker_pack_cologne2026_all",
+   "image_inventory": "econ/tournaments/cologne2026/cologne2026_credits"
+  }
+ },
+ {
   "id": "crate-5317",
   "name": "Cologne 2026 Team Sticker Capsule",
   "description": null,
@@ -181788,6 +182014,56 @@
     "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_nettik_png.png"
    },
    {
+    "id": "sticker-11174",
+    "name": "NiKo (Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "High Grade",
+     "color": "#4b69ff"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_niko_champion_png.png"
+   },
+   {
+    "id": "sticker-11178",
+    "name": "kyxsan (Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "High Grade",
+     "color": "#4b69ff"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyxsan_champion_png.png"
+   },
+   {
+    "id": "sticker-11182",
+    "name": "m0NESY (Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "High Grade",
+     "color": "#4b69ff"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_m0nesy_champion_png.png"
+   },
+   {
+    "id": "sticker-11186",
+    "name": "TeSeS (Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "High Grade",
+     "color": "#4b69ff"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_teses_champion_png.png"
+   },
+   {
+    "id": "sticker-11190",
+    "name": "kyousuke (Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "High Grade",
+     "color": "#4b69ff"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyousuke_champion_png.png"
+   },
+   {
     "id": "sticker-10535",
     "name": "ZywOo (Foil) | Cologne 2026",
     "rarity": {
@@ -183386,6 +183662,56 @@
      "color": "#8847ff"
     },
     "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_nettik_foil_png.png"
+   },
+   {
+    "id": "sticker-11175",
+    "name": "NiKo (Foil, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "Remarkable",
+     "color": "#8847ff"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_niko_champion_foil_png.png"
+   },
+   {
+    "id": "sticker-11179",
+    "name": "kyxsan (Foil, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "Remarkable",
+     "color": "#8847ff"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyxsan_champion_foil_png.png"
+   },
+   {
+    "id": "sticker-11183",
+    "name": "m0NESY (Foil, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "Remarkable",
+     "color": "#8847ff"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_m0nesy_champion_foil_png.png"
+   },
+   {
+    "id": "sticker-11187",
+    "name": "TeSeS (Foil, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "Remarkable",
+     "color": "#8847ff"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_teses_champion_foil_png.png"
+   },
+   {
+    "id": "sticker-11191",
+    "name": "kyousuke (Foil, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "Remarkable",
+     "color": "#8847ff"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyousuke_champion_foil_png.png"
    },
    {
     "id": "sticker-10536",
@@ -184988,6 +185314,56 @@
     "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_nettik_holo_png.png"
    },
    {
+    "id": "sticker-11176",
+    "name": "NiKo (Holo, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "Exotic",
+     "color": "#d32ce6"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_niko_champion_holo_png.png"
+   },
+   {
+    "id": "sticker-11180",
+    "name": "kyxsan (Holo, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "Exotic",
+     "color": "#d32ce6"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyxsan_champion_holo_png.png"
+   },
+   {
+    "id": "sticker-11184",
+    "name": "m0NESY (Holo, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "Exotic",
+     "color": "#d32ce6"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_m0nesy_champion_holo_png.png"
+   },
+   {
+    "id": "sticker-11188",
+    "name": "TeSeS (Holo, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "Exotic",
+     "color": "#d32ce6"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_teses_champion_holo_png.png"
+   },
+   {
+    "id": "sticker-11192",
+    "name": "kyousuke (Holo, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "Exotic",
+     "color": "#d32ce6"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyousuke_champion_holo_png.png"
+   },
+   {
     "id": "sticker-10537",
     "name": "ZywOo (Gold) | Cologne 2026",
     "rarity": {
@@ -186586,6 +186962,56 @@
      "color": "#eb4b4b"
     },
     "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_nettik_gold_png.png"
+   },
+   {
+    "id": "sticker-11177",
+    "name": "NiKo (Gold, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "Extraordinary",
+     "color": "#eb4b4b"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_niko_champion_gold_png.png"
+   },
+   {
+    "id": "sticker-11181",
+    "name": "kyxsan (Gold, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "Extraordinary",
+     "color": "#eb4b4b"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyxsan_champion_gold_png.png"
+   },
+   {
+    "id": "sticker-11185",
+    "name": "m0NESY (Gold, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "Extraordinary",
+     "color": "#eb4b4b"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_m0nesy_champion_gold_png.png"
+   },
+   {
+    "id": "sticker-11189",
+    "name": "TeSeS (Gold, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "Extraordinary",
+     "color": "#eb4b4b"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_teses_champion_gold_png.png"
+   },
+   {
+    "id": "sticker-11193",
+    "name": "kyousuke (Gold, Champion) | Cologne 2026",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "Extraordinary",
+     "color": "#eb4b4b"
+    },
+    "image": "https://cdn.cs2c.app/images/econ/stickers/cologne2026/sig_kyousuke_champion_gold_png.png"
    }
   ],
   "contains_rare": [],
@@ -186597,6 +187023,772 @@
   "loot_list": null,
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2026_group_players",
+   "image_inventory": "econ/tournaments/cologne2026/cologne2026_credits"
+  }
+ },
+ {
+  "id": "crate-5323",
+  "name": "Cologne 2026 Highlight",
+  "description": "Stage I",
+  "def_index": "5323",
+  "type": "Sticker Capsule",
+  "first_sale_date": null,
+  "rarity": {
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
+  },
+  "contains": [
+   {
+    "id": "keychain-85",
+    "name": "ultimate Jump Kill",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-86",
+    "name": "tabseN 1v2 Clutch",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-87",
+    "name": "koala ACE",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-88",
+    "name": "Starry Quad Kill",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-89",
+    "name": "asap ACE",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-90",
+    "name": "hypex Smoke Kill",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-91",
+    "name": "susp 1v3 Clutch",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-92",
+    "name": "beastik Quad Kill",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-93",
+    "name": "s1zzi 1v3 Clutch",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-94",
+    "name": "Magnojez 1v3 Clutch",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   }
+  ],
+  "contains_rare": [],
+  "special_notes": null,
+  "market_hash_name": "Cologne 2026 Highlight",
+  "rental": false,
+  "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png",
+  "model_player": null,
+  "loot_list": null,
+  "original": {
+   "item_name": "#keychain_kc_cologne2026",
+   "image_inventory": "econ/tournaments/cologne2026/cologne2026_credits"
+  }
+ },
+ {
+  "id": "crate-5324",
+  "name": "Cologne 2026 Highlight",
+  "description": "Stage II",
+  "def_index": "5324",
+  "type": "Sticker Capsule",
+  "first_sale_date": null,
+  "rarity": {
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
+  },
+  "contains": [
+   {
+    "id": "keychain-95",
+    "name": "NertZ ACE",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-96",
+    "name": "Gizmy Knife Kill",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-97",
+    "name": "MATYS ACE",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-98",
+    "name": "saffee Triple Kill",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-99",
+    "name": "gr1ks 1v3 AWP Clutch",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-100",
+    "name": "kensizor ACE to Advance",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-101",
+    "name": "s1zzi ACE",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-102",
+    "name": "venomzera 1v3 Clutch",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-103",
+    "name": "donk 4K with One Taps",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-104",
+    "name": "AZUWU Deagle ACE",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   }
+  ],
+  "contains_rare": [],
+  "special_notes": null,
+  "market_hash_name": "Cologne 2026 Highlight",
+  "rental": false,
+  "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png",
+  "model_player": null,
+  "loot_list": null,
+  "original": {
+   "item_name": "#keychain_kc_cologne2026",
+   "image_inventory": "econ/tournaments/cologne2026/cologne2026_credits"
+  }
+ },
+ {
+  "id": "crate-5325",
+  "name": "Cologne 2026 Highlight",
+  "description": "Stage III",
+  "def_index": "5325",
+  "type": "Sticker Capsule",
+  "first_sale_date": null,
+  "rarity": {
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
+  },
+  "contains": [
+   {
+    "id": "keychain-105",
+    "name": "w0nderful 2 HP 1v4 Clutch",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-106",
+    "name": "sh1ro 4K with 1v2 Clutch",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-107",
+    "name": "magixx Multi-weapon ACE",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-108",
+    "name": "KSCERATO 1v3 Clutch",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-109",
+    "name": "YEKINDAR Triple Kill",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-110",
+    "name": "ZywOo ACE with 1v3 Clutch",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-111",
+    "name": "dgt Pistol ACE",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-112",
+    "name": "woxic 1v4 Clutch",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-113",
+    "name": "NiKo Quad Kill",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-114",
+    "name": "Krabeni ACE",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   }
+  ],
+  "contains_rare": [],
+  "special_notes": null,
+  "market_hash_name": "Cologne 2026 Highlight",
+  "rental": false,
+  "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png",
+  "model_player": null,
+  "loot_list": null,
+  "original": {
+   "item_name": "#keychain_kc_cologne2026",
+   "image_inventory": "econ/tournaments/cologne2026/cologne2026_credits"
+  }
+ },
+ {
+  "id": "crate-5326",
+  "name": "Cologne 2026 Highlight",
+  "description": "Quarterfinal",
+  "def_index": "5326",
+  "type": "Sticker Capsule",
+  "first_sale_date": null,
+  "rarity": {
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
+  },
+  "contains": [
+   {
+    "id": "keychain-115",
+    "name": "Boombl4 1v3 Clutch",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-116",
+    "name": "soulfly 1v2 Clutch",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-117",
+    "name": "sh1ro ACE",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-118",
+    "name": "magixx 1v4 Clutch",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-119",
+    "name": "donk 1v2 Clutch",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-120",
+    "name": "kyousuke 3 Kills",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-121",
+    "name": "mezii Molotov Kill",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-122",
+    "name": "yuurih 1v4 Clutch",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-123",
+    "name": "HUASOPEEK ACE",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-124",
+    "name": "max 1v2 Clutch",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   }
+  ],
+  "contains_rare": [],
+  "special_notes": null,
+  "market_hash_name": "Cologne 2026 Highlight",
+  "rental": false,
+  "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png",
+  "model_player": null,
+  "loot_list": null,
+  "original": {
+   "item_name": "#keychain_kc_cologne2026",
+   "image_inventory": "econ/tournaments/cologne2026/cologne2026_credits"
+  }
+ },
+ {
+  "id": "crate-5327",
+  "name": "Cologne 2026 Highlight",
+  "description": "Semifinal",
+  "def_index": "5327",
+  "type": "Sticker Capsule",
+  "first_sale_date": null,
+  "rarity": {
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
+  },
+  "contains": [
+   {
+    "id": "keychain-125",
+    "name": "soulfly 3 Kills",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-126",
+    "name": "KSCERATO ACE",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-127",
+    "name": "YEKINDAR 2 Kills",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-128",
+    "name": "YEKINDAR 3 Kills",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-129",
+    "name": "KSCERATO Quad Kill",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-130",
+    "name": "kyousuke Triple Kill",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-131",
+    "name": "sh1ro Quad Kill",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-132",
+    "name": "TeSeS 1v2 Clutch",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-133",
+    "name": "karrigan 4 Kills",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-134",
+    "name": "magixx 4 Kills",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   }
+  ],
+  "contains_rare": [],
+  "special_notes": null,
+  "market_hash_name": "Cologne 2026 Highlight",
+  "rental": false,
+  "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png",
+  "model_player": null,
+  "loot_list": null,
+  "original": {
+   "item_name": "#keychain_kc_cologne2026",
+   "image_inventory": "econ/tournaments/cologne2026/cologne2026_credits"
+  }
+ },
+ {
+  "id": "crate-5328",
+  "name": "Cologne 2026 Highlight",
+  "description": "Grand Final",
+  "def_index": "5328",
+  "type": "Sticker Capsule",
+  "first_sale_date": null,
+  "rarity": {
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
+  },
+  "contains": [
+   {
+    "id": "keychain-135",
+    "name": "Falcons Team Entrance",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-136",
+    "name": "FURIA Team Entrance",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-137",
+    "name": "FalleN Quad Kill",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-138",
+    "name": "m0NESY 4 Kills",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-139",
+    "name": "m0NESY 3 Kills with 1v2 Clutch",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-140",
+    "name": "kyousuke 4 Kills",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-141",
+    "name": "karrigan 3 Kills",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-142",
+    "name": "NiKo Triple Kill",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-143",
+    "name": "karrigan Double Kill",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-144",
+    "name": "m0NESY Major-winning Kill",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   },
+   {
+    "id": "keychain-145",
+    "name": "Falcons Trophy-lifting Moment",
+    "rarity": {
+     "id": "rarity_",
+     "name": null,
+     "color": null
+    },
+    "image": "https://cdn.cs2c.app/images/_png.png"
+   }
+  ],
+  "contains_rare": [],
+  "special_notes": null,
+  "market_hash_name": "Cologne 2026 Highlight",
+  "rental": false,
+  "image": "https://cdn.cs2c.app/images/econ/tournaments/cologne2026/cologne2026_credits_png.png",
+  "model_player": null,
+  "loot_list": null,
+  "original": {
+   "item_name": "#keychain_kc_cologne2026",
    "image_inventory": "econ/tournaments/cologne2026/cologne2026_credits"
   }
  }
