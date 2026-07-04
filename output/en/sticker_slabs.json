@@ -336639,6 +336639,1215 @@
   }
  },
  {
+  "id": "sticker_slab-11196",
+  "name": "Sticker Slab | Airhorn",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11196",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Airhorn",
+  "effect": "Other",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_airhorn_1355_37_png.png",
+  "original": {
+   "name": "paper_airhorn",
+   "image_inventory": "econ/stickers/community/jackass/paper_airhorn_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11197",
+  "name": "Sticker Slab | Assterisk",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11197",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Assterisk",
+  "effect": "Other",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_assterisk_1355_37_png.png",
+  "original": {
+   "name": "paper_assterisk",
+   "image_inventory": "econ/stickers/community/jackass/paper_assterisk_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11198",
+  "name": "Sticker Slab | Big Red Rocket",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11198",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Big Red Rocket",
+  "effect": "Other",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_big_red_rocket_1355_37_png.png",
+  "original": {
+   "name": "paper_big_red_rocket",
+   "image_inventory": "econ/stickers/community/jackass/paper_big_red_rocket_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11199",
+  "name": "Sticker Slab | Boner Snap",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11199",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Boner Snap",
+  "effect": "Other",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_boner_snap_1355_37_png.png",
+  "original": {
+   "name": "paper_boner_snap",
+   "image_inventory": "econ/stickers/community/jackass/paper_boner_snap_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11200",
+  "name": "Sticker Slab | Censored",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11200",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Censored",
+  "effect": "Other",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_censored_1355_37_png.png",
+  "original": {
+   "name": "paper_censored",
+   "image_inventory": "econ/stickers/community/jackass/paper_censored_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11201",
+  "name": "Sticker Slab | Explosives",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11201",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Explosives",
+  "effect": "Other",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_explosives_1355_37_png.png",
+  "original": {
+   "name": "paper_explosives",
+   "image_inventory": "econ/stickers/community/jackass/paper_explosives_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11202",
+  "name": "Sticker Slab | Golf Cart",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11202",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Golf Cart",
+  "effect": "Other",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_golf_cart_1355_37_png.png",
+  "original": {
+   "name": "paper_golf_cart",
+   "image_inventory": "econ/stickers/community/jackass/paper_golf_cart_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11203",
+  "name": "Sticker Slab | Gonna Leave A Mark",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11203",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Gonna Leave A Mark",
+  "effect": "Other",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_leave_a_mark_1355_37_png.png",
+  "original": {
+   "name": "paper_leave_a_mark",
+   "image_inventory": "econ/stickers/community/jackass/paper_leave_a_mark_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11204",
+  "name": "Sticker Slab | Head In Hands",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11204",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Head In Hands",
+  "effect": "Other",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_head_in_hands_1355_37_png.png",
+  "original": {
+   "name": "paper_head_in_hands",
+   "image_inventory": "econ/stickers/community/jackass/paper_head_in_hands_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11205",
+  "name": "Sticker Slab | High Five!",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11205",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | High Five!",
+  "effect": "Other",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_high_five_1355_37_png.png",
+  "original": {
+   "name": "paper_high_five",
+   "image_inventory": "econ/stickers/community/jackass/paper_high_five_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11206",
+  "name": "Sticker Slab | Jackass",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11206",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Jackass",
+  "effect": "Other",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_jackass_1355_37_png.png",
+  "original": {
+   "name": "paper_jackass",
+   "image_inventory": "econ/stickers/community/jackass/paper_jackass_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11207",
+  "name": "Sticker Slab | Partyboy",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11207",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Partyboy",
+  "effect": "Other",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_partyboy_1355_37_png.png",
+  "original": {
+   "name": "paper_partyboy",
+   "image_inventory": "econ/stickers/community/jackass/paper_partyboy_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11208",
+  "name": "Sticker Slab | Radiograph",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11208",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Radiograph",
+  "effect": "Other",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_radiograph_1355_37_png.png",
+  "original": {
+   "name": "paper_radiograph",
+   "image_inventory": "econ/stickers/community/jackass/paper_radiograph_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11209",
+  "name": "Sticker Slab | Rocket Skates",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11209",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Rocket Skates",
+  "effect": "Other",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_rocket_skates_1355_37_png.png",
+  "original": {
+   "name": "paper_rocket_skates",
+   "image_inventory": "econ/stickers/community/jackass/paper_rocket_skates_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11210",
+  "name": "Sticker Slab | Skull Bunny",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11210",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Skull Bunny",
+  "effect": "Other",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_skull_bunny_1355_37_png.png",
+  "original": {
+   "name": "paper_skull_bunny",
+   "image_inventory": "econ/stickers/community/jackass/paper_skull_bunny_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11211",
+  "name": "Sticker Slab | The Magic Trick",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11211",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | The Magic Trick",
+  "effect": "Other",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_bull_1355_37_png.png",
+  "original": {
+   "name": "paper_bull",
+   "image_inventory": "econ/stickers/community/jackass/paper_bull_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11212",
+  "name": "Sticker Slab | WARNING",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11212",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | WARNING",
+  "effect": "Other",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_warning_1355_37_png.png",
+  "original": {
+   "name": "paper_warning",
+   "image_inventory": "econ/stickers/community/jackass/paper_warning_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11213",
+  "name": "Sticker Slab | ZZZAP!",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11213",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | ZZZAP!",
+  "effect": "Other",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_zzzap_1355_37_png.png",
+  "original": {
+   "name": "paper_zzzap",
+   "image_inventory": "econ/stickers/community/jackass/paper_zzzap_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11214",
+  "name": "Sticker Slab | Airhorn (Glitter)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11214",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Airhorn (Glitter)",
+  "effect": "Glitter",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/glitter_airhorn_1355_37_png.png",
+  "original": {
+   "name": "glitter_airhorn",
+   "image_inventory": "econ/stickers/community/jackass/glitter_airhorn_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11215",
+  "name": "Sticker Slab | Assterisk (Glitter)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11215",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Assterisk (Glitter)",
+  "effect": "Glitter",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/glitter_assterisk_1355_37_png.png",
+  "original": {
+   "name": "glitter_assterisk",
+   "image_inventory": "econ/stickers/community/jackass/glitter_assterisk_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11216",
+  "name": "Sticker Slab | Big Red Rocket (Glitter)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11216",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Big Red Rocket (Glitter)",
+  "effect": "Glitter",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/glitter_big_red_rocket_1355_37_png.png",
+  "original": {
+   "name": "glitter_big_red_rocket",
+   "image_inventory": "econ/stickers/community/jackass/glitter_big_red_rocket_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11217",
+  "name": "Sticker Slab | Head In Hands (Glitter)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11217",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Head In Hands (Glitter)",
+  "effect": "Glitter",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/glitter_head_in_hands_1355_37_png.png",
+  "original": {
+   "name": "glitter_head_in_hands",
+   "image_inventory": "econ/stickers/community/jackass/glitter_head_in_hands_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11218",
+  "name": "Sticker Slab | High Five! (Glitter)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11218",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | High Five! (Glitter)",
+  "effect": "Glitter",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/glitter_high_five_1355_37_png.png",
+  "original": {
+   "name": "glitter_high_five",
+   "image_inventory": "econ/stickers/community/jackass/glitter_high_five_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11219",
+  "name": "Sticker Slab | Skull Bunny (Glitter)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11219",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Skull Bunny (Glitter)",
+  "effect": "Glitter",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/glitter_skull_bunny_1355_37_png.png",
+  "original": {
+   "name": "glitter_skull_bunny",
+   "image_inventory": "econ/stickers/community/jackass/glitter_skull_bunny_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11220",
+  "name": "Sticker Slab | The Magic Trick (Glitter)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11220",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | The Magic Trick (Glitter)",
+  "effect": "Glitter",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/glitter_bull_1355_37_png.png",
+  "original": {
+   "name": "glitter_bull",
+   "image_inventory": "econ/stickers/community/jackass/glitter_bull_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11221",
+  "name": "Sticker Slab | Boner Snap (Holo)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11221",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Boner Snap (Holo)",
+  "effect": "Holo",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/holo_boner_snap_1355_37_png.png",
+  "original": {
+   "name": "holo_boner_snap",
+   "image_inventory": "econ/stickers/community/jackass/holo_boner_snap_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11222",
+  "name": "Sticker Slab | Jackass (Holo)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11222",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Jackass (Holo)",
+  "effect": "Holo",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/holo_jackass_1355_37_png.png",
+  "original": {
+   "name": "holo_jackass",
+   "image_inventory": "econ/stickers/community/jackass/holo_jackass_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11223",
+  "name": "Sticker Slab | Gonna Leave A Mark (Holo)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11223",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Gonna Leave A Mark (Holo)",
+  "effect": "Holo",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/holo_leave_a_mark_1355_37_png.png",
+  "original": {
+   "name": "holo_leave_a_mark",
+   "image_inventory": "econ/stickers/community/jackass/holo_leave_a_mark_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11224",
+  "name": "Sticker Slab | Partyboy (Lenticular)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11224",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Partyboy (Lenticular)",
+  "effect": "Lenticular",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/lenticular_partyboy_1355_37_png.png",
+  "original": {
+   "name": "lenticular_partyboy",
+   "image_inventory": "econ/stickers/community/jackass/lenticular_partyboy_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11225",
+  "name": "Sticker Slab | Radiograph (Holo)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11225",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Radiograph (Holo)",
+  "effect": "Holo",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/holo_radiograph_1355_37_png.png",
+  "original": {
+   "name": "holo_radiograph",
+   "image_inventory": "econ/stickers/community/jackass/holo_radiograph_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11226",
+  "name": "Sticker Slab | Rocket Skates (Holo)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11226",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Rocket Skates (Holo)",
+  "effect": "Holo",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/holo_rocket_skates_1355_37_png.png",
+  "original": {
+   "name": "holo_rocket_skates",
+   "image_inventory": "econ/stickers/community/jackass/holo_rocket_skates_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11227",
+  "name": "Sticker Slab | ZZZAP! (Holo)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11227",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | ZZZAP! (Holo)",
+  "effect": "Holo",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/holo_zzzap_1355_37_png.png",
+  "original": {
+   "name": "holo_zzzap",
+   "image_inventory": "econ/stickers/community/jackass/holo_zzzap_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11228",
+  "name": "Sticker Slab | Assterisk (Foil)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11228",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Assterisk (Foil)",
+  "effect": "Foil",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/foil_assterisk_1355_37_png.png",
+  "original": {
+   "name": "foil_assterisk",
+   "image_inventory": "econ/stickers/community/jackass/foil_assterisk_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11229",
+  "name": "Sticker Slab | Censored (Foil)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11229",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Censored (Foil)",
+  "effect": "Foil",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/foil_censored_1355_37_png.png",
+  "original": {
+   "name": "foil_censored",
+   "image_inventory": "econ/stickers/community/jackass/foil_censored_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11230",
+  "name": "Sticker Slab | Explosives (Foil)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11230",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Explosives (Foil)",
+  "effect": "Foil",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/foil_explosives_1355_37_png.png",
+  "original": {
+   "name": "foil_explosives",
+   "image_inventory": "econ/stickers/community/jackass/foil_explosives_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11231",
+  "name": "Sticker Slab | Radiograph (Foil)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11231",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Radiograph (Foil)",
+  "effect": "Foil",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/foil_radiograph_1355_37_png.png",
+  "original": {
+   "name": "foil_radiograph",
+   "image_inventory": "econ/stickers/community/jackass/foil_radiograph_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11232",
+  "name": "Sticker Slab | WARNING (Foil)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11232",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | WARNING (Foil)",
+  "effect": "Foil",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/foil_warning_1355_37_png.png",
+  "original": {
+   "name": "foil_warning",
+   "image_inventory": "econ/stickers/community/jackass/foil_warning_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11233",
+  "name": "Sticker Slab | Electric Avenue (Lenticular)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11233",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Electric Avenue (Lenticular)",
+  "effect": "Lenticular",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/lenticular_electric_avenue_1355_37_png.png",
+  "original": {
+   "name": "lenticular_electric_avenue",
+   "image_inventory": "econ/stickers/community/jackass/lenticular_electric_avenue_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11234",
+  "name": "Sticker Slab | Poo Cocktail Supreme (Lenticular)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11234",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Poo Cocktail Supreme (Lenticular)",
+  "effect": "Lenticular",
+  "tournament": null,
+  "team": null,
+  "player": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/lenticular_poo_cocktail_1355_37_png.png",
+  "original": {
+   "name": "lenticular_poo_cocktail",
+   "image_inventory": "econ/stickers/community/jackass/lenticular_poo_cocktail_1355_37"
+  }
+ },
+ {
   "id": "sticker_slab-8554",
   "name": "Sticker Slab | Vitality | Austin 2025",
   "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",

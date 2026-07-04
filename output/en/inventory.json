@@ -25288,6 +25288,16 @@
    "marketable": true,
    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_warhammer_xenos_capsule_png.png"
   },
+  "7041": {
+   "name": "Jackass Sticker Capsule",
+   "rarity": {
+    "id": "rarity_common",
+    "name": "Base Grade",
+    "color": "#b0c3d9"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+  },
   "4904": {
    "name": "Kilowatt Case",
    "rarity": {
@@ -113021,6 +113031,396 @@
    },
    "marketable": true,
    "image": "https://cdn.cs2c.app/images/econ/stickers/community/sugarface2/foil_lucas_png.png"
+  },
+  "11196": {
+   "name": "Sticker | Airhorn",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_airhorn_png.png"
+  },
+  "11197": {
+   "name": "Sticker | Assterisk",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_assterisk_png.png"
+  },
+  "11198": {
+   "name": "Sticker | Big Red Rocket",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_big_red_rocket_png.png"
+  },
+  "11199": {
+   "name": "Sticker | Boner Snap",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_boner_snap_png.png"
+  },
+  "11200": {
+   "name": "Sticker | Censored",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_censored_png.png"
+  },
+  "11201": {
+   "name": "Sticker | Explosives",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_explosives_png.png"
+  },
+  "11202": {
+   "name": "Sticker | Golf Cart",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_golf_cart_png.png"
+  },
+  "11203": {
+   "name": "Sticker | Gonna Leave A Mark",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_leave_a_mark_png.png"
+  },
+  "11204": {
+   "name": "Sticker | Head In Hands",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_head_in_hands_png.png"
+  },
+  "11205": {
+   "name": "Sticker | High Five!",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_high_five_png.png"
+  },
+  "11206": {
+   "name": "Sticker | Jackass",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_jackass_png.png"
+  },
+  "11207": {
+   "name": "Sticker | Partyboy",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_partyboy_png.png"
+  },
+  "11208": {
+   "name": "Sticker | Radiograph",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_radiograph_png.png"
+  },
+  "11209": {
+   "name": "Sticker | Rocket Skates",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_rocket_skates_png.png"
+  },
+  "11210": {
+   "name": "Sticker | Skull Bunny",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_skull_bunny_png.png"
+  },
+  "11211": {
+   "name": "Sticker | The Magic Trick",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_bull_png.png"
+  },
+  "11212": {
+   "name": "Sticker | WARNING",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_warning_png.png"
+  },
+  "11213": {
+   "name": "Sticker | ZZZAP!",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_zzzap_png.png"
+  },
+  "11214": {
+   "name": "Sticker | Airhorn (Glitter)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Remarkable",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/glitter_airhorn_png.png"
+  },
+  "11215": {
+   "name": "Sticker | Assterisk (Glitter)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Remarkable",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/glitter_assterisk_png.png"
+  },
+  "11216": {
+   "name": "Sticker | Big Red Rocket (Glitter)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Remarkable",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/glitter_big_red_rocket_png.png"
+  },
+  "11217": {
+   "name": "Sticker | Head In Hands (Glitter)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Remarkable",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/glitter_head_in_hands_png.png"
+  },
+  "11218": {
+   "name": "Sticker | High Five! (Glitter)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Remarkable",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/glitter_high_five_png.png"
+  },
+  "11219": {
+   "name": "Sticker | Skull Bunny (Glitter)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Remarkable",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/glitter_skull_bunny_png.png"
+  },
+  "11220": {
+   "name": "Sticker | The Magic Trick (Glitter)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Remarkable",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/glitter_bull_png.png"
+  },
+  "11221": {
+   "name": "Sticker | Boner Snap (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Remarkable",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/holo_boner_snap_png.png"
+  },
+  "11222": {
+   "name": "Sticker | Jackass (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Remarkable",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/holo_jackass_png.png"
+  },
+  "11223": {
+   "name": "Sticker | Gonna Leave A Mark (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Remarkable",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/holo_leave_a_mark_png.png"
+  },
+  "11224": {
+   "name": "Sticker | Partyboy (Lenticular)",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/lenticular_partyboy_png.png"
+  },
+  "11225": {
+   "name": "Sticker | Radiograph (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Remarkable",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/holo_radiograph_png.png"
+  },
+  "11226": {
+   "name": "Sticker | Rocket Skates (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Remarkable",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/holo_rocket_skates_png.png"
+  },
+  "11227": {
+   "name": "Sticker | ZZZAP! (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Remarkable",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/holo_zzzap_png.png"
+  },
+  "11228": {
+   "name": "Sticker | Assterisk (Foil)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotic",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/foil_assterisk_png.png"
+  },
+  "11229": {
+   "name": "Sticker | Censored (Foil)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotic",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/foil_censored_png.png"
+  },
+  "11230": {
+   "name": "Sticker | Explosives (Foil)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotic",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/foil_explosives_png.png"
+  },
+  "11231": {
+   "name": "Sticker | Radiograph (Foil)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotic",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/foil_radiograph_png.png"
+  },
+  "11232": {
+   "name": "Sticker | WARNING (Foil)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotic",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/foil_warning_png.png"
+  },
+  "11233": {
+   "name": "Sticker | Electric Avenue (Lenticular)",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/lenticular_electric_avenue_png.png"
+  },
+  "11234": {
+   "name": "Sticker | Poo Cocktail Supreme (Lenticular)",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/lenticular_poo_cocktail_png.png"
   },
   "8554": {
    "name": "Sticker | Vitality | Austin 2025",
@@ -248017,6 +248417,396 @@
    },
    "marketable": true,
    "image": "https://cdn.cs2c.app/images/econ/stickers/community/sugarface2/foil_lucas_1355_37_png.png"
+  },
+  "11196": {
+   "name": "Sticker Slab | Airhorn",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_airhorn_1355_37_png.png"
+  },
+  "11197": {
+   "name": "Sticker Slab | Assterisk",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_assterisk_1355_37_png.png"
+  },
+  "11198": {
+   "name": "Sticker Slab | Big Red Rocket",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_big_red_rocket_1355_37_png.png"
+  },
+  "11199": {
+   "name": "Sticker Slab | Boner Snap",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_boner_snap_1355_37_png.png"
+  },
+  "11200": {
+   "name": "Sticker Slab | Censored",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_censored_1355_37_png.png"
+  },
+  "11201": {
+   "name": "Sticker Slab | Explosives",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_explosives_1355_37_png.png"
+  },
+  "11202": {
+   "name": "Sticker Slab | Golf Cart",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_golf_cart_1355_37_png.png"
+  },
+  "11203": {
+   "name": "Sticker Slab | Gonna Leave A Mark",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_leave_a_mark_1355_37_png.png"
+  },
+  "11204": {
+   "name": "Sticker Slab | Head In Hands",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_head_in_hands_1355_37_png.png"
+  },
+  "11205": {
+   "name": "Sticker Slab | High Five!",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_high_five_1355_37_png.png"
+  },
+  "11206": {
+   "name": "Sticker Slab | Jackass",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_jackass_1355_37_png.png"
+  },
+  "11207": {
+   "name": "Sticker Slab | Partyboy",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_partyboy_1355_37_png.png"
+  },
+  "11208": {
+   "name": "Sticker Slab | Radiograph",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_radiograph_1355_37_png.png"
+  },
+  "11209": {
+   "name": "Sticker Slab | Rocket Skates",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_rocket_skates_1355_37_png.png"
+  },
+  "11210": {
+   "name": "Sticker Slab | Skull Bunny",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_skull_bunny_1355_37_png.png"
+  },
+  "11211": {
+   "name": "Sticker Slab | The Magic Trick",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_bull_1355_37_png.png"
+  },
+  "11212": {
+   "name": "Sticker Slab | WARNING",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_warning_1355_37_png.png"
+  },
+  "11213": {
+   "name": "Sticker Slab | ZZZAP!",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/paper_zzzap_1355_37_png.png"
+  },
+  "11214": {
+   "name": "Sticker Slab | Airhorn (Glitter)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Remarkable",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/glitter_airhorn_1355_37_png.png"
+  },
+  "11215": {
+   "name": "Sticker Slab | Assterisk (Glitter)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Remarkable",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/glitter_assterisk_1355_37_png.png"
+  },
+  "11216": {
+   "name": "Sticker Slab | Big Red Rocket (Glitter)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Remarkable",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/glitter_big_red_rocket_1355_37_png.png"
+  },
+  "11217": {
+   "name": "Sticker Slab | Head In Hands (Glitter)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Remarkable",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/glitter_head_in_hands_1355_37_png.png"
+  },
+  "11218": {
+   "name": "Sticker Slab | High Five! (Glitter)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Remarkable",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/glitter_high_five_1355_37_png.png"
+  },
+  "11219": {
+   "name": "Sticker Slab | Skull Bunny (Glitter)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Remarkable",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/glitter_skull_bunny_1355_37_png.png"
+  },
+  "11220": {
+   "name": "Sticker Slab | The Magic Trick (Glitter)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Remarkable",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/glitter_bull_1355_37_png.png"
+  },
+  "11221": {
+   "name": "Sticker Slab | Boner Snap (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Remarkable",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/holo_boner_snap_1355_37_png.png"
+  },
+  "11222": {
+   "name": "Sticker Slab | Jackass (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Remarkable",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/holo_jackass_1355_37_png.png"
+  },
+  "11223": {
+   "name": "Sticker Slab | Gonna Leave A Mark (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Remarkable",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/holo_leave_a_mark_1355_37_png.png"
+  },
+  "11224": {
+   "name": "Sticker Slab | Partyboy (Lenticular)",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/lenticular_partyboy_1355_37_png.png"
+  },
+  "11225": {
+   "name": "Sticker Slab | Radiograph (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Remarkable",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/holo_radiograph_1355_37_png.png"
+  },
+  "11226": {
+   "name": "Sticker Slab | Rocket Skates (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Remarkable",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/holo_rocket_skates_1355_37_png.png"
+  },
+  "11227": {
+   "name": "Sticker Slab | ZZZAP! (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Remarkable",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/holo_zzzap_1355_37_png.png"
+  },
+  "11228": {
+   "name": "Sticker Slab | Assterisk (Foil)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotic",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/foil_assterisk_1355_37_png.png"
+  },
+  "11229": {
+   "name": "Sticker Slab | Censored (Foil)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotic",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/foil_censored_1355_37_png.png"
+  },
+  "11230": {
+   "name": "Sticker Slab | Explosives (Foil)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotic",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/foil_explosives_1355_37_png.png"
+  },
+  "11231": {
+   "name": "Sticker Slab | Radiograph (Foil)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotic",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/foil_radiograph_1355_37_png.png"
+  },
+  "11232": {
+   "name": "Sticker Slab | WARNING (Foil)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotic",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/foil_warning_1355_37_png.png"
+  },
+  "11233": {
+   "name": "Sticker Slab | Electric Avenue (Lenticular)",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/lenticular_electric_avenue_1355_37_png.png"
+  },
+  "11234": {
+   "name": "Sticker Slab | Poo Cocktail Supreme (Lenticular)",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/stickers/community/jackass/lenticular_poo_cocktail_1355_37_png.png"
   },
   "8554": {
    "name": "Sticker Slab | Vitality | Austin 2025",
