@@ -29,5 +29,6 @@ def read_json(path: str) -> dict | None:
     return json.loads(text)
 
 
-def write_json(path: str, data: Any, indent: int = 1) -> None:
-    write(path, json.dumps(data, indent=indent, ensure_ascii=False))
+def write_json(path: str, data: Any, indent: int | None = 1) -> None:
+    separators = (",", ":") if indent is None else None
+    write(path, json.dumps(data, indent=indent, ensure_ascii=False, separators=separators))

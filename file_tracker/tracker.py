@@ -8,9 +8,9 @@ import argparse
 import os
 import sys
 
-import storage
 from dotenv import load_dotenv
 
+import storage
 from file_tracker.steam_client import get_latest_manifest_id, login
 from file_tracker.vpk_extractor import (
     cleanup,
@@ -83,7 +83,7 @@ def run(extract_images_flag: bool = False) -> None:
 
             print(f"Extracting changed panorama images to {IMAGES_DIR}...")
             extract_images(TEMP_DIR, IMAGES_DIR, only_paths=changed)
-            print(f"Done. Hosting/uploading the extracted images is up to you.")
+            print("Done. Hosting/uploading the extracted images is up to you.")
         else:
             print("No image changes detected, skipping image extraction")
 

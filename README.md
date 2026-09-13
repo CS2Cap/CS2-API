@@ -1,4 +1,4 @@
-# CS2-API
+# CS2-API (informally "CS2-APY")
 
 A Python rewrite of [ByMykel](https://github.com/ByMykel)'s [CSGO-API](https://github.com/ByMykel/CSGO-API) and [counter-strike-file-tracker](https://github.com/ByMykel/counter-strike-file-tracker). Tracks Counter-Strike 2 game files from Steam and generates a structured JSON API for all in-game items.
 
@@ -115,13 +115,13 @@ Per-language JSONs are written to `output/<lang>/`, one per item category:
 | `patches.json` | Patches |
 | `graffiti.json` | Spray graffiti |
 | `crates.json` | Weapon cases |
-| `collections.json` | Weapon collections |
+| `collections.json` | Weapon collections (with description and release date) |
 | `keys.json` | Case keys |
 | `keychains.json` | Keychains |
 | `music_kits.json` | Music kits |
 | `collectibles.json` | Pins and collectibles |
 | `sticker_slabs.json` | Sticker display cases |
-| `highlights.json` | Highlight reels |
+| `highlights.json` | Highlight reels (type: player or team) |
 | `tools.json` | Tools |
 | `inventory.json` | Combined inventory |
 | `all.json` | All items in a flat dictionary keyed by id |

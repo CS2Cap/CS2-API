@@ -3,20 +3,20 @@ from __future__ import annotations
 from api_gen.constants import get_image_url
 from api_gen.state import State
 from api_gen.translations import Translations
-from api_gen.utils import get_collectible_rarity, get_rarity_color
+from api_gen.utils import get_collectible_rarity, get_rarity_color, to_int
 
 
 def _is_collectible(item: dict) -> bool:
     item_name = item.get("item_name")
     if item_name is None:
         return False
+    if str(item.get("object_id", "")) == "5180":
+        return False
     if item_name.startswith("#CSGO_Collectible"):
         return True
     if item_name.startswith("#CSGO_TournamentJournal"):
         return True
-    if item_name.startswith("#CSGO_TournamentPass") or item_name.startswith("#CSGO_Ticket_"):
-        return True
-    return False
+    return bool(item_name.startswith(("#CSGO_TournamentPass", "#CSGO_Ticket_")))
 
 
 def _get_type(item: dict) -> str | None:
@@ -111,7 +111,7 @@ def _parse_item(item: dict, state: State, translations: Translations) -> dict:
         description = None
 
     attributes = item.get("attributes") or {}
-    premier_season = attributes.get("premier season")
+    premier_season = to_int(attributes.get("premier season"))
 
     return {
         "id": f"collectible-{item['object_id']}",

@@ -16,6 +16,7 @@ from api_gen.utils import (
     get_rarity_color,
     get_wears,
     is_not_weapon,
+    is_souvenir_eligible,
     skin_market_hash_name,
 )
 
@@ -96,7 +97,6 @@ def _parse_item(
     """Expand one weapon-icon entry into a list of per-wear, per-variant dicts."""
     rarities = state.rarities
     paint_kits = state.paint_kits
-    souvenir_skins = state.souvenir_skins
     cdn_images = state.cdn_images
     items = state.items
 
@@ -126,7 +126,7 @@ def _parse_item(
 
     # Souvenir eligibility
     skin_id = f"skin-{object_id}"
-    is_souvenir: bool = souvenir_skins.get(skin_id, False)
+    is_souvenir: bool = is_souvenir_eligible(weapon)
 
     # Knife vs glove distinction for rarity
     is_knife = "weapon_knife" in weapon or "weapon_bayonet" in weapon

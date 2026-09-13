@@ -1,5 +1,905 @@
 [
  {
+  "id": "graffiti-1653",
+  "name": "Sealed Graffiti | Blood Boiler",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1653",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4234",
+    "name": "Community Graffiti Box 1",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Blood Boiler",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community_mix01/blood_boiler_png.png",
+  "original": {
+   "name": "spray_blood_boiler",
+   "image_inventory": "econ/stickers/community_mix01/blood_boiler"
+  }
+ },
+ {
+  "id": "graffiti-1654",
+  "name": "Sealed Graffiti | Chabo",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1654",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4234",
+    "name": "Community Graffiti Box 1",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Chabo",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/poorly_drawn/chicken_png.png",
+  "original": {
+   "name": "spray_chicken",
+   "image_inventory": "econ/stickers/community_mix01/chicken"
+  }
+ },
+ {
+  "id": "graffiti-1655",
+  "name": "Sealed Graffiti | Drug War Veteran",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1655",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4234",
+    "name": "Community Graffiti Box 1",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Drug War Veteran",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community_mix01/drugwarveteran_png.png",
+  "original": {
+   "name": "spray_drugwarveteran",
+   "image_inventory": "econ/stickers/community_mix01/drugwarveteran"
+  }
+ },
+ {
+  "id": "graffiti-1656",
+  "name": "Sealed Graffiti | Flickshot",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1656",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4234",
+    "name": "Community Graffiti Box 1",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Flickshot",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community_mix01/flickshot_png.png",
+  "original": {
+   "name": "spray_flickshot",
+   "image_inventory": "econ/stickers/community_mix01/flickshot"
+  }
+ },
+ {
+  "id": "graffiti-1657",
+  "name": "Sealed Graffiti | Hamster Hawk",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1657",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4234",
+    "name": "Community Graffiti Box 1",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Hamster Hawk",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community_mix01/hamster_hawk_png.png",
+  "original": {
+   "name": "spray_hamster_hawk",
+   "image_inventory": "econ/stickers/community_mix01/hamster_hawk"
+  }
+ },
+ {
+  "id": "graffiti-1658",
+  "name": "Sealed Graffiti | Ivette",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1658",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4234",
+    "name": "Community Graffiti Box 1",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Ivette",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/pinups_capsule/ivette_png.png",
+  "original": {
+   "name": "spray_ivette",
+   "image_inventory": "econ/stickers/community_mix01/ivette"
+  }
+ },
+ {
+  "id": "graffiti-1659",
+  "name": "Sealed Graffiti | Kawaii Killer CT",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1659",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4234",
+    "name": "Community Graffiti Box 1",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Kawaii Killer CT",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community_mix01/kawaiikiller_png.png",
+  "original": {
+   "name": "spray_kawaiikiller_ct",
+   "image_inventory": "econ/stickers/community_mix01/kawaiikiller"
+  }
+ },
+ {
+  "id": "graffiti-1660",
+  "name": "Sealed Graffiti | Kawaii Killer Terrorist",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1660",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4234",
+    "name": "Community Graffiti Box 1",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Kawaii Killer Terrorist",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community_mix01/kawaiikiller_t_png.png",
+  "original": {
+   "name": "spray_kawaiikiller_t",
+   "image_inventory": "econ/stickers/community_mix01/kawaiikiller_t"
+  }
+ },
+ {
+  "id": "graffiti-1661",
+  "name": "Sealed Graffiti | Martha",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1661",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4234",
+    "name": "Community Graffiti Box 1",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Martha",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/pinups_capsule/martha_png.png",
+  "original": {
+   "name": "spray_martha",
+   "image_inventory": "econ/stickers/community_mix01/martha"
+  }
+ },
+ {
+  "id": "graffiti-1662",
+  "name": "Sealed Graffiti | Old School",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1662",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4234",
+    "name": "Community Graffiti Box 1",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Old School",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community_mix01/oldschool_png.png",
+  "original": {
+   "name": "spray_oldschool",
+   "image_inventory": "econ/stickers/community_mix01/oldschool"
+  }
+ },
+ {
+  "id": "graffiti-1663",
+  "name": "Sealed Graffiti | Pocket BBQ",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1663",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4234",
+    "name": "Community Graffiti Box 1",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Pocket BBQ",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community_mix01/pocket_bbq_png.png",
+  "original": {
+   "name": "spray_pocket_bbq",
+   "image_inventory": "econ/stickers/community_mix01/pocket_bbq"
+  }
+ },
+ {
+  "id": "graffiti-1664",
+  "name": "Sealed Graffiti | Rekt",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1664",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4234",
+    "name": "Community Graffiti Box 1",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Rekt",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community_mix01/rekt_png.png",
+  "original": {
+   "name": "spray_rekt",
+   "image_inventory": "econ/stickers/community_mix01/rekt"
+  }
+ },
+ {
+  "id": "graffiti-1665",
+  "name": "Sealed Graffiti | Shave Master",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1665",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4234",
+    "name": "Community Graffiti Box 1",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Shave Master",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community_mix01/shave_master_png.png",
+  "original": {
+   "name": "spray_shave_master",
+   "image_inventory": "econ/stickers/community_mix01/shave_master"
+  }
+ },
+ {
+  "id": "graffiti-1666",
+  "name": "Sealed Graffiti | Shooting Star Return",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1666",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4234",
+    "name": "Community Graffiti Box 1",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Shooting Star Return",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community_mix01/shootingstar_png.png",
+  "original": {
+   "name": "spray_shootingstar",
+   "image_inventory": "econ/stickers/community_mix01/shootingstar"
+  }
+ },
+ {
+  "id": "graffiti-1667",
+  "name": "Sealed Graffiti | Rising Skull",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1667",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4234",
+    "name": "Community Graffiti Box 1",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Rising Skull",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community_mix01/skull_png.png",
+  "original": {
+   "name": "spray_skull",
+   "image_inventory": "econ/stickers/community_mix01/skull"
+  }
+ },
+ {
+  "id": "graffiti-1668",
+  "name": "Sealed Graffiti | Tamara",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1668",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4234",
+    "name": "Community Graffiti Box 1",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Tamara",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/pinups_capsule/tamara_png.png",
+  "original": {
+   "name": "spray_tamara",
+   "image_inventory": "econ/stickers/community_mix01/tamara"
+  }
+ },
+ {
+  "id": "graffiti-1669",
+  "name": "Sealed Graffiti | Unicorn",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1669",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4234",
+    "name": "Community Graffiti Box 1",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Unicorn",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/enfu_capsule/unicorn_png.png",
+  "original": {
+   "name": "spray_unicorn",
+   "image_inventory": "econ/stickers/community_mix01/unicorn"
+  }
+ },
+ {
+  "id": "graffiti-1670",
+  "name": "Sealed Graffiti | Winged Defuser",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1670",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4234",
+    "name": "Community Graffiti Box 1",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Winged Defuser",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/community_mix01/winged_defuser_png.png",
+  "original": {
+   "name": "spray_winged_defuser",
+   "image_inventory": "econ/stickers/community_mix01/winged_defuser"
+  }
+ },
+ {
+  "id": "graffiti-1671",
+  "name": "Sealed Graffiti | Ace",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1671",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4285",
+    "name": "CS:GO Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Ace",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/ace_01_png.png",
+  "original": {
+   "name": "spray_vcap1_ace_01",
+   "image_inventory": "econ/stickers/valve_sprays/ace_01"
+  }
+ },
+ {
+  "id": "graffiti-1672",
+  "name": "Sealed Graffiti | Banana",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1672",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4285",
+    "name": "CS:GO Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Banana",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/banana_png.png",
+  "original": {
+   "name": "spray_vcap1_banana",
+   "image_inventory": "econ/stickers/valve_sprays/banana"
+  }
+ },
+ {
+  "id": "graffiti-1673",
+  "name": "Sealed Graffiti | Cerberus",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1673",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4285",
+    "name": "CS:GO Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Cerberus",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/cerberus_png.png",
+  "original": {
+   "name": "spray_vcap1_cerberus",
+   "image_inventory": "econ/stickers/valve_sprays/cerberus"
+  }
+ },
+ {
+  "id": "graffiti-1674",
+  "name": "Sealed Graffiti | Clutch King",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1674",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4285",
+    "name": "CS:GO Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Clutch King",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/clutch_01_png.png",
+  "original": {
+   "name": "spray_vcap1_clutch_01",
+   "image_inventory": "econ/stickers/valve_sprays/clutch_01"
+  }
+ },
+ {
+  "id": "graffiti-1675",
+  "name": "Sealed Graffiti | Crown",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1675",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4285",
+    "name": "CS:GO Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Crown",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/crown_png.png",
+  "original": {
+   "name": "spray_vcap1_crown",
+   "image_inventory": "econ/stickers/valve_sprays/crown"
+  }
+ },
+ {
+  "id": "graffiti-1676",
+  "name": "Sealed Graffiti | Guardian",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1676",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4285",
+    "name": "CS:GO Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Guardian",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/ct_png.png",
+  "original": {
+   "name": "spray_vcap1_ct",
+   "image_inventory": "econ/stickers/valve_sprays/ct"
+  }
+ },
+ {
+  "id": "graffiti-1677",
+  "name": "Sealed Graffiti | EZ",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1677",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4285",
+    "name": "CS:GO Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | EZ",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/ez_02_png.png",
+  "original": {
+   "name": "spray_vcap1_ez_02",
+   "image_inventory": "econ/stickers/valve_sprays/ez_02"
+  }
+ },
+ {
+  "id": "graffiti-1678",
+  "name": "Sealed Graffiti | Fire Serpent",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1678",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4285",
+    "name": "CS:GO Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Fire Serpent",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/fireserpent_png.png",
+  "original": {
+   "name": "spray_vcap1_fireserpent",
+   "image_inventory": "econ/stickers/valve_sprays/fireserpent"
+  }
+ },
+ {
+  "id": "graffiti-1679",
+  "name": "Sealed Graffiti | Howling Dawn",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1679",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4285",
+    "name": "CS:GO Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Howling Dawn",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/howling_dawn_png.png",
+  "original": {
+   "name": "spray_vcap1_howling_dawn",
+   "image_inventory": "econ/stickers/valve_sprays/howling_dawn"
+  }
+ },
+ {
+  "id": "graffiti-1680",
+  "name": "Sealed Graffiti | Kisses",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1680",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4285",
+    "name": "CS:GO Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Kisses",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/kisses_png.png",
+  "original": {
+   "name": "spray_vcap1_kisses",
+   "image_inventory": "econ/stickers/valve_sprays/kisses"
+  }
+ },
+ {
+  "id": "graffiti-1681",
+  "name": "Sealed Graffiti | Easy Peasy",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1681",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4285",
+    "name": "CS:GO Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Easy Peasy",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/lemon_squeeze_png.png",
+  "original": {
+   "name": "spray_vcap1_lemon_squeeze",
+   "image_inventory": "econ/stickers/valve_sprays/lemon_squeeze"
+  }
+ },
+ {
+  "id": "graffiti-1682",
+  "name": "Sealed Graffiti | Nice Shot",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1682",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4285",
+    "name": "CS:GO Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Nice Shot",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/nice_shot_color_png.png",
+  "original": {
+   "name": "spray_vcap1_nice_shot_color",
+   "image_inventory": "econ/stickers/valve_sprays/nice_shot_color"
+  }
+ },
+ {
+  "id": "graffiti-1683",
+  "name": "Sealed Graffiti | Phoenix",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1683",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4285",
+    "name": "CS:GO Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Phoenix",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/phoenix_png.png",
+  "original": {
+   "name": "spray_vcap1_phoenix",
+   "image_inventory": "econ/stickers/valve_sprays/phoenix"
+  }
+ },
+ {
+  "id": "graffiti-1684",
+  "name": "Sealed Graffiti | Real MVP",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1684",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4285",
+    "name": "CS:GO Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Real MVP",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/realmvp_02_png.png",
+  "original": {
+   "name": "spray_vcap1_realmvp_02",
+   "image_inventory": "econ/stickers/valve_sprays/realmvp_02"
+  }
+ },
+ {
+  "id": "graffiti-1685",
+  "name": "Sealed Graffiti | R.I.P.I.P.",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1685",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4285",
+    "name": "CS:GO Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | R.I.P.I.P.",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/ripip_png.png",
+  "original": {
+   "name": "spray_vcap1_ripip",
+   "image_inventory": "econ/stickers/valve_sprays/ripip"
+  }
+ },
+ {
+  "id": "graffiti-1686",
+  "name": "Sealed Graffiti | Skull n' Crosshairs",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1686",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4285",
+    "name": "CS:GO Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Skull n' Crosshairs",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/target_02_png.png",
+  "original": {
+   "name": "spray_vcap1_target_02",
+   "image_inventory": "econ/stickers/valve_sprays/target_02"
+  }
+ },
+ {
+  "id": "graffiti-1687",
+  "name": "Sealed Graffiti | Welcome to the Clutch",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1687",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4285",
+    "name": "CS:GO Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Welcome to the Clutch",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/welcome_clutch_png.png",
+  "original": {
+   "name": "spray_vcap1_welcome_clutch",
+   "image_inventory": "econ/stickers/valve_sprays/welcome_clutch"
+  }
+ },
+ {
+  "id": "graffiti-1688",
+  "name": "Sealed Graffiti | Wings",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "1688",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4285",
+    "name": "CS:GO Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Wings",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/wings_png.png",
+  "original": {
+   "name": "spray_vcap1_wings",
+   "image_inventory": "econ/stickers/valve_sprays/wings"
+  }
+ },
+ {
   "id": "graffiti-1697_1",
   "name": "Sealed Graffiti | X-Axes (Brick Red)",
   "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
@@ -14051,7 +14951,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Astralis | Atlanta 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/astr_graffiti_png.png",
   "original": {
    "name": "atlanta2017_team_astr_graffiti",
@@ -14070,7 +14970,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Team EnVyUs | Atlanta 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/boston2018/nv_graffiti_png.png",
   "original": {
    "name": "atlanta2017_team_nv_graffiti",
@@ -14089,7 +14989,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | FaZe Clan | Atlanta 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/faze_graffiti_png.png",
   "original": {
    "name": "atlanta2017_team_faze_graffiti",
@@ -14108,7 +15008,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Flipsid3 Tactics | Atlanta 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/krakow2017/flip_graffiti_png.png",
   "original": {
    "name": "atlanta2017_team_flip_graffiti",
@@ -14127,7 +15027,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Fnatic | Atlanta 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/sha2024/fntc_graffiti_png.png",
   "original": {
    "name": "atlanta2017_team_fntc_graffiti",
@@ -14146,7 +15046,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | G2 Esports | Atlanta 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/g2_graffiti_png.png",
   "original": {
    "name": "atlanta2017_team_g2_graffiti",
@@ -14165,7 +15065,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Gambit Gaming | Atlanta 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/gamb_graffiti_png.png",
   "original": {
    "name": "atlanta2017_team_gamb_graffiti",
@@ -14184,7 +15084,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | GODSENT | Atlanta 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/god_graffiti_png.png",
   "original": {
    "name": "atlanta2017_team_god_graffiti",
@@ -14203,7 +15103,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | HellRaisers | Atlanta 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/london2018/hlr_graffiti_png.png",
   "original": {
    "name": "atlanta2017_team_hlr_graffiti",
@@ -14222,7 +15122,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | mousesports | Atlanta 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/london2018/mss_graffiti_png.png",
   "original": {
    "name": "atlanta2017_team_mss_graffiti",
@@ -14241,7 +15141,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Natus Vincere | Atlanta 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/navi_graffiti_png.png",
   "original": {
    "name": "atlanta2017_team_navi_graffiti",
@@ -14260,7 +15160,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | North | Atlanta 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/london2018/nor_graffiti_png.png",
   "original": {
    "name": "atlanta2017_team_nor_graffiti",
@@ -14279,7 +15179,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | OpTic Gaming | Atlanta 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/london2018/optc_graffiti_png.png",
   "original": {
    "name": "atlanta2017_team_optc_graffiti",
@@ -14298,7 +15198,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | SK Gaming | Atlanta 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/krakow2017/sk_graffiti_png.png",
   "original": {
    "name": "atlanta2017_team_sk_graffiti",
@@ -14317,7 +15217,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Team Liquid | Atlanta 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/liq_graffiti_png.png",
   "original": {
    "name": "atlanta2017_team_liq_graffiti",
@@ -14336,7 +15236,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Virtus.Pro | Atlanta 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/vp_graffiti_png.png",
   "original": {
    "name": "atlanta2017_team_vp_graffiti",
@@ -14355,7 +15255,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | ELEAGUE | Atlanta 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/boston2018/eleague_graffiti_png.png",
   "original": {
    "name": "atlanta2017_team_eleague_graffiti",
@@ -14374,7 +15274,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Astralis | Krakow 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/astr_graffiti_png.png",
   "original": {
    "name": "krakow2017_team_astr_graffiti",
@@ -14393,7 +15293,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Virtus.Pro | Krakow 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/vp_graffiti_png.png",
   "original": {
    "name": "krakow2017_team_vp_graffiti",
@@ -14412,7 +15312,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Fnatic | Krakow 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/sha2024/fntc_graffiti_png.png",
   "original": {
    "name": "krakow2017_team_fntc_graffiti",
@@ -14431,7 +15331,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | SK Gaming | Krakow 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/krakow2017/sk_graffiti_png.png",
   "original": {
    "name": "krakow2017_team_sk_graffiti",
@@ -14450,7 +15350,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Natus Vincere | Krakow 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/navi_graffiti_png.png",
   "original": {
    "name": "krakow2017_team_navi_graffiti",
@@ -14469,7 +15369,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Gambit | Krakow 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/gamb_graffiti_png.png",
   "original": {
    "name": "krakow2017_team_gamb_graffiti",
@@ -14488,7 +15388,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | North | Krakow 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/london2018/nor_graffiti_png.png",
   "original": {
    "name": "krakow2017_team_nor_graffiti",
@@ -14507,7 +15407,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | FaZe Clan | Krakow 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/faze_graffiti_png.png",
   "original": {
    "name": "krakow2017_team_faze_graffiti",
@@ -14526,7 +15426,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | mousesports | Krakow 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/london2018/mss_graffiti_png.png",
   "original": {
    "name": "krakow2017_team_mss_graffiti",
@@ -14545,7 +15445,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | G2 Esports | Krakow 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/g2_graffiti_png.png",
   "original": {
    "name": "krakow2017_team_g2_graffiti",
@@ -14564,7 +15464,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | BIG | Krakow 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/big_graffiti_png.png",
   "original": {
    "name": "krakow2017_team_big_graffiti",
@@ -14583,7 +15483,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Cloud9 | Krakow 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/sha2024/c9_graffiti_png.png",
   "original": {
    "name": "krakow2017_team_c9_graffiti",
@@ -14602,7 +15502,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | PENTA Sports | Krakow 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/krakow2017/penta_graffiti_png.png",
   "original": {
    "name": "krakow2017_team_penta_graffiti",
@@ -14621,7 +15521,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Flipsid3 Tactics | Krakow 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/krakow2017/flip_graffiti_png.png",
   "original": {
    "name": "krakow2017_team_flip_graffiti",
@@ -14640,7 +15540,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Immortals | Krakow 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/krakow2017/imt_graffiti_png.png",
   "original": {
    "name": "krakow2017_team_imt_graffiti",
@@ -14659,7 +15559,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Vega Squadron | Krakow 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/london2018/vega_graffiti_png.png",
   "original": {
    "name": "krakow2017_team_vega_graffiti",
@@ -14678,11 +15578,461 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | PGL | Krakow 2017",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/pgl_graffiti_png.png",
   "original": {
    "name": "krakow2017_team_pgl_graffiti",
    "image_inventory": "econ/stickers/krakow2017/pgl_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-2418",
+  "name": "Sealed Graffiti | Water Gun",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "2418",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4286",
+    "name": "Perfect World Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Water Gun",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_01/cheongsam_1_png.png",
+  "original": {
+   "name": "spray_illuminate1_cheongsam_1",
+   "image_inventory": "econ/stickers/illuminate_capsule/cheongsam_1"
+  }
+ },
+ {
+  "id": "graffiti-2419",
+  "name": "Sealed Graffiti | Cheongsam",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "2419",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4286",
+    "name": "Perfect World Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Cheongsam",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_01/cheongsam_2_png.png",
+  "original": {
+   "name": "spray_illuminate1_cheongsam_2",
+   "image_inventory": "econ/stickers/illuminate_capsule/cheongsam_2"
+  }
+ },
+ {
+  "id": "graffiti-2420",
+  "name": "Sealed Graffiti | Guardian Dragon",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "2420",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4286",
+    "name": "Perfect World Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Guardian Dragon",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule/chinese_dragon_nodrips_png.png",
+  "original": {
+   "name": "spray_illuminate1_chinese_dragon",
+   "image_inventory": "econ/stickers/illuminate_capsule/chinese_dragon_nodrips"
+  }
+ },
+ {
+  "id": "graffiti-2421",
+  "name": "Sealed Graffiti | Rage",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "2421",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4286",
+    "name": "Perfect World Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Rage",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_02/fury_png.png",
+  "original": {
+   "name": "spray_illuminate1_fury",
+   "image_inventory": "econ/stickers/illuminate_capsule/fury"
+  }
+ },
+ {
+  "id": "graffiti-2422",
+  "name": "Sealed Graffiti | God of Fortune",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "2422",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4286",
+    "name": "Perfect World Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | God of Fortune",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_02/god_of_fortune_png.png",
+  "original": {
+   "name": "spray_illuminate1_god_of_fortune",
+   "image_inventory": "econ/stickers/illuminate_capsule/god_of_fortune"
+  }
+ },
+ {
+  "id": "graffiti-2423",
+  "name": "Sealed Graffiti | Hotpot",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "2423",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4286",
+    "name": "Perfect World Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Hotpot",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_01/hotpot_png.png",
+  "original": {
+   "name": "spray_illuminate1_hotpot",
+   "image_inventory": "econ/stickers/illuminate_capsule/hotpot"
+  }
+ },
+ {
+  "id": "graffiti-2424",
+  "name": "Sealed Graffiti | Fancy Koi",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "2424",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4286",
+    "name": "Perfect World Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Fancy Koi",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_01/koi_2_png.png",
+  "original": {
+   "name": "spray_illuminate1_koi_2",
+   "image_inventory": "econ/stickers/illuminate_capsule/koi_2"
+  }
+ },
+ {
+  "id": "graffiti-2425",
+  "name": "Sealed Graffiti | Longevity",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "2425",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4286",
+    "name": "Perfect World Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Longevity",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_02/longevity_png.png",
+  "original": {
+   "name": "spray_illuminate1_longevity",
+   "image_inventory": "econ/stickers/illuminate_capsule/longevity"
+  }
+ },
+ {
+  "id": "graffiti-2426",
+  "name": "Sealed Graffiti | Nezha",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "2426",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4286",
+    "name": "Perfect World Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Nezha",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_02/nezha_png.png",
+  "original": {
+   "name": "spray_illuminate1_nezha",
+   "image_inventory": "econ/stickers/illuminate_capsule/nezha"
+  }
+ },
+ {
+  "id": "graffiti-2427",
+  "name": "Sealed Graffiti | Noodles",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "2427",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4286",
+    "name": "Perfect World Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Noodles",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_01/noodles_png.png",
+  "original": {
+   "name": "spray_illuminate1_noodles",
+   "image_inventory": "econ/stickers/illuminate_capsule/noodles"
+  }
+ },
+ {
+  "id": "graffiti-2428",
+  "name": "Sealed Graffiti | Non-Veg",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "2428",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4286",
+    "name": "Perfect World Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Non-Veg",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_02/panda_png.png",
+  "original": {
+   "name": "spray_illuminate1_panda",
+   "image_inventory": "econ/stickers/illuminate_capsule/panda"
+  }
+ },
+ {
+  "id": "graffiti-2429",
+  "name": "Sealed Graffiti | Pixiu",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "2429",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4286",
+    "name": "Perfect World Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Pixiu",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_02/pixiu_png.png",
+  "original": {
+   "name": "spray_illuminate1_pixiu",
+   "image_inventory": "econ/stickers/illuminate_capsule/pixiu"
+  }
+ },
+ {
+  "id": "graffiti-2430",
+  "name": "Sealed Graffiti | Twin Koi",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "2430",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4286",
+    "name": "Perfect World Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Twin Koi",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_02/red_koi_png.png",
+  "original": {
+   "name": "spray_illuminate1_red_koi",
+   "image_inventory": "econ/stickers/illuminate_capsule/red_koi"
+  }
+ },
+ {
+  "id": "graffiti-2431",
+  "name": "Sealed Graffiti | Rice Bomb",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "2431",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4286",
+    "name": "Perfect World Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Rice Bomb",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_01/rice_png.png",
+  "original": {
+   "name": "spray_illuminate1_rice",
+   "image_inventory": "econ/stickers/illuminate_capsule/rice"
+  }
+ },
+ {
+  "id": "graffiti-2432",
+  "name": "Sealed Graffiti | Terror Rice",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "2432",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4286",
+    "name": "Perfect World Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Terror Rice",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_01/rice_pudding_png.png",
+  "original": {
+   "name": "spray_illuminate1_rice_pudding",
+   "image_inventory": "econ/stickers/illuminate_capsule/rice_pudding"
+  }
+ },
+ {
+  "id": "graffiti-2433",
+  "name": "Sealed Graffiti | Shaolin",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "2433",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4286",
+    "name": "Perfect World Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Shaolin",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_02/shaolin_1_png.png",
+  "original": {
+   "name": "spray_illuminate1_shaolin_1",
+   "image_inventory": "econ/stickers/illuminate_capsule/shaolin_1"
+  }
+ },
+ {
+  "id": "graffiti-2434",
+  "name": "Sealed Graffiti | Toy Tiger",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "2434",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4286",
+    "name": "Perfect World Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Toy Tiger",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_01/toytiger_png.png",
+  "original": {
+   "name": "spray_illuminate1_toytiger",
+   "image_inventory": "econ/stickers/illuminate_capsule/toytiger"
+  }
+ },
+ {
+  "id": "graffiti-2435",
+  "name": "Sealed Graffiti | Zombie Hop",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "2435",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [
+   {
+    "id": "crate-4286",
+    "name": "Perfect World Graffiti Box",
+    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
+   }
+  ],
+  "market_hash_name": "Sealed Graffiti | Zombie Hop",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule/zombie_nodrips_png.png",
+  "original": {
+   "name": "spray_illuminate1_zombie",
+   "image_inventory": "econ/stickers/illuminate_capsule/zombie_nodrips"
   }
  },
  {
@@ -14697,7 +16047,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Gambit Esports | Boston 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/gamb_graffiti_png.png",
   "original": {
    "name": "boston2018_team_gamb_graffiti",
@@ -14716,7 +16066,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | 100 Thieves | Boston 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/boston2018/thv_graffiti_png.png",
   "original": {
    "name": "boston2018_team_thv_graffiti",
@@ -14735,7 +16085,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Astralis | Boston 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/astr_graffiti_png.png",
   "original": {
    "name": "boston2018_team_astr_graffiti",
@@ -14754,7 +16104,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Virtus.Pro | Boston 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/vp_graffiti_png.png",
   "original": {
    "name": "boston2018_team_vp_graffiti",
@@ -14773,7 +16123,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Fnatic | Boston 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/sha2024/fntc_graffiti_png.png",
   "original": {
    "name": "boston2018_team_fntc_graffiti",
@@ -14792,7 +16142,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | SK Gaming | Boston 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/krakow2017/sk_graffiti_png.png",
   "original": {
    "name": "boston2018_team_sk_graffiti",
@@ -14811,7 +16161,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | BIG | Boston 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/big_graffiti_png.png",
   "original": {
    "name": "boston2018_team_big_graffiti",
@@ -14830,7 +16180,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | North | Boston 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/london2018/nor_graffiti_png.png",
   "original": {
    "name": "boston2018_team_nor_graffiti",
@@ -14849,7 +16199,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | G2 Esports | Boston 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/g2_graffiti_png.png",
   "original": {
    "name": "boston2018_team_g2_graffiti",
@@ -14868,7 +16218,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Cloud9 | Boston 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/sha2024/c9_graffiti_png.png",
   "original": {
    "name": "boston2018_team_c9_graffiti",
@@ -14887,7 +16237,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Flipsid3 Tactics | Boston 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/krakow2017/flip_graffiti_png.png",
   "original": {
    "name": "boston2018_team_flip_graffiti",
@@ -14906,7 +16256,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Natus Vincere | Boston 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/navi_graffiti_png.png",
   "original": {
    "name": "boston2018_team_navi_graffiti",
@@ -14925,7 +16275,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | mousesports | Boston 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/london2018/mss_graffiti_png.png",
   "original": {
    "name": "boston2018_team_mss_graffiti",
@@ -14944,7 +16294,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Sprout Esports | Boston 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/rio2022/spr_graffiti_png.png",
   "original": {
    "name": "boston2018_team_spr_graffiti",
@@ -14963,7 +16313,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | FaZe Clan | Boston 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/faze_graffiti_png.png",
   "original": {
    "name": "boston2018_team_faze_graffiti",
@@ -14982,7 +16332,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Vega Squadron | Boston 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/london2018/vega_graffiti_png.png",
   "original": {
    "name": "boston2018_team_vega_graffiti",
@@ -15001,7 +16351,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Space Soldiers | Boston 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/london2018/spc_graffiti_png.png",
   "original": {
    "name": "boston2018_team_spc_graffiti",
@@ -15020,7 +16370,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Team Liquid | Boston 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/liq_graffiti_png.png",
   "original": {
    "name": "boston2018_team_liq_graffiti",
@@ -15039,7 +16389,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Avangar | Boston 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/katowice2019/avg_graffiti_png.png",
   "original": {
    "name": "boston2018_team_avg_graffiti",
@@ -15058,7 +16408,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Renegades | Boston 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/ren_graffiti_png.png",
   "original": {
    "name": "boston2018_team_ren_graffiti",
@@ -15077,7 +16427,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Team EnVyUs | Boston 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/boston2018/nv_graffiti_png.png",
   "original": {
    "name": "boston2018_team_nv_graffiti",
@@ -15096,7 +16446,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Misfits Gaming | Boston 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/boston2018/mfg_graffiti_png.png",
   "original": {
    "name": "boston2018_team_mfg_graffiti",
@@ -15115,7 +16465,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Quantum Bellator Fire | Boston 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/boston2018/qb_graffiti_png.png",
   "original": {
    "name": "boston2018_team_qb_graffiti",
@@ -15139,30 +16489,11 @@
    }
   ],
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Tyloo | Boston 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/tyl_graffiti_png.png",
   "original": {
    "name": "boston2018_team_tyl_graffiti",
    "image_inventory": "econ/stickers/boston2018/tyl_graffiti"
-  }
- },
- {
-  "id": "graffiti-2939",
-  "name": "Sealed Graffiti | Flash Gaming | Boston 2018",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.<br><br>50% of the proceeds from the sale of this graffiti support the included players and organizations.",
-  "def_index": "2939",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [],
-  "market_hash_name": null,
-  "image": "https://cdn.cs2c.app/images/econ/stickers/boston2018/flg_graffiti_png.png",
-  "original": {
-   "name": "boston2018_team_flg_graffiti",
-   "image_inventory": "econ/stickers/boston2018/flg_graffiti"
   }
  },
  {
@@ -15177,11 +16508,30 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | ELEAGUE | Boston 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/boston2018/eleague_graffiti_png.png",
   "original": {
    "name": "boston2018_team_eleague_graffiti",
    "image_inventory": "econ/stickers/boston2018/eleague_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-2939",
+  "name": "Sealed Graffiti | Flash Gaming | Boston 2018",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.<br><br>50% of the proceeds from the sale of this graffiti support the included players and organizations.",
+  "def_index": "2939",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [],
+  "market_hash_name": "Sealed Graffiti | Flash Gaming | Boston 2018",
+  "image": "https://cdn.cs2c.app/images/econ/stickers/boston2018/flg_graffiti_png.png",
+  "original": {
+   "name": "boston2018_team_flg_graffiti",
+   "image_inventory": "econ/stickers/boston2018/flg_graffiti"
   }
  },
  {
@@ -15196,7 +16546,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Cloud9 | London 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/sha2024/c9_graffiti_png.png",
   "original": {
    "name": "london2018_team_c9_graffiti",
@@ -15215,7 +16565,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | FaZe Clan | London 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/faze_graffiti_png.png",
   "original": {
    "name": "london2018_team_faze_graffiti",
@@ -15234,7 +16584,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Natus Vincere | London 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/navi_graffiti_png.png",
   "original": {
    "name": "london2018_team_navi_graffiti",
@@ -15253,7 +16603,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | MIBR | London 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/sha2024/mibr_graffiti_png.png",
   "original": {
    "name": "london2018_team_mibr_graffiti",
@@ -15272,7 +16622,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | mousesports | London 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/london2018/mss_graffiti_png.png",
   "original": {
    "name": "london2018_team_mss_graffiti",
@@ -15291,7 +16641,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Winstrike Team | London 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/london2018/wins_graffiti_png.png",
   "original": {
    "name": "london2018_team_wins_graffiti",
@@ -15310,7 +16660,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | G2 Esports | London 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/g2_graffiti_png.png",
   "original": {
    "name": "london2018_team_g2_graffiti",
@@ -15329,7 +16679,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Fnatic | London 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/sha2024/fntc_graffiti_png.png",
   "original": {
    "name": "london2018_team_fntc_graffiti",
@@ -15348,7 +16698,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Gambit Esports | London 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/gamb_graffiti_png.png",
   "original": {
    "name": "london2018_team_gamb_graffiti",
@@ -15367,7 +16717,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Vega Squadron | London 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/london2018/vega_graffiti_png.png",
   "original": {
    "name": "london2018_team_vega_graffiti",
@@ -15386,7 +16736,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Space Soldiers | London 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/london2018/spc_graffiti_png.png",
   "original": {
    "name": "london2018_team_spc_graffiti",
@@ -15405,7 +16755,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | BIG | London 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/big_graffiti_png.png",
   "original": {
    "name": "london2018_team_big_graffiti",
@@ -15424,7 +16774,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Astralis | London 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/astr_graffiti_png.png",
   "original": {
    "name": "london2018_team_astr_graffiti",
@@ -15443,7 +16793,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Team Liquid | London 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/liq_graffiti_png.png",
   "original": {
    "name": "london2018_team_liq_graffiti",
@@ -15462,7 +16812,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | North | London 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/london2018/nor_graffiti_png.png",
   "original": {
    "name": "london2018_team_nor_graffiti",
@@ -15481,7 +16831,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Virtus.Pro | London 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/vp_graffiti_png.png",
   "original": {
    "name": "london2018_team_vp_graffiti",
@@ -15500,7 +16850,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Ninjas in Pyjamas | London 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/nip_graffiti_png.png",
   "original": {
    "name": "london2018_team_nip_graffiti",
@@ -15519,7 +16869,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | compLexity Gaming | London 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/london2018/col_graffiti_png.png",
   "original": {
    "name": "london2018_team_col_graffiti",
@@ -15538,7 +16888,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | HellRaisers | London 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/london2018/hlr_graffiti_png.png",
   "original": {
    "name": "london2018_team_hlr_graffiti",
@@ -15557,7 +16907,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Renegades | London 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/ren_graffiti_png.png",
   "original": {
    "name": "london2018_team_ren_graffiti",
@@ -15576,7 +16926,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | OpTic Gaming | London 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/london2018/optc_graffiti_png.png",
   "original": {
    "name": "london2018_team_optc_graffiti",
@@ -15595,7 +16945,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Rogue | London 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/london2018/rog_graffiti_png.png",
   "original": {
    "name": "london2018_team_rog_graffiti",
@@ -15614,7 +16964,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Team Spirit | London 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/spir_graffiti_png.png",
   "original": {
    "name": "london2018_team_spir_graffiti",
@@ -15633,7 +16983,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | Tyloo | London 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/tyl_graffiti_png.png",
   "original": {
    "name": "london2018_team_tyl_graffiti",
@@ -15652,7 +17002,7 @@
   },
   "special_notes": null,
   "crates": [],
-  "market_hash_name": null,
+  "market_hash_name": "Sealed Graffiti | FACEIT | London 2018",
   "image": "https://cdn.cs2c.app/images/econ/stickers/london2018/faceit_graffiti_png.png",
   "original": {
    "name": "london2018_team_faceit_graffiti",
@@ -16132,1831 +17482,6 @@
   "original": {
    "name": "katowice2019_team_iem_graffiti",
    "image_inventory": "econ/stickers/katowice2019/iem_graffiti"
-  }
- },
- {
-  "id": "graffiti-4119",
-  "name": "Sealed Graffiti | Astralis | Berlin 2019",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "4119",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [],
-  "market_hash_name": null,
-  "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/astr_graffiti_png.png",
-  "original": {
-   "name": "berlin2019_team_astr_graffiti",
-   "image_inventory": "econ/stickers/berlin2019/astr_graffiti"
-  }
- },
- {
-  "id": "graffiti-4120",
-  "name": "Sealed Graffiti | ENCE | Berlin 2019",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "4120",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [],
-  "market_hash_name": null,
-  "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/ence_graffiti_png.png",
-  "original": {
-   "name": "berlin2019_team_ence_graffiti",
-   "image_inventory": "econ/stickers/berlin2019/ence_graffiti"
-  }
- },
- {
-  "id": "graffiti-4121",
-  "name": "Sealed Graffiti | MIBR | Berlin 2019",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "4121",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [],
-  "market_hash_name": null,
-  "image": "https://cdn.cs2c.app/images/econ/stickers/sha2024/mibr_graffiti_png.png",
-  "original": {
-   "name": "berlin2019_team_mibr_graffiti",
-   "image_inventory": "econ/stickers/berlin2019/mibr_graffiti"
-  }
- },
- {
-  "id": "graffiti-4122",
-  "name": "Sealed Graffiti | Natus Vincere | Berlin 2019",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "4122",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [],
-  "market_hash_name": null,
-  "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/navi_graffiti_png.png",
-  "original": {
-   "name": "berlin2019_team_navi_graffiti",
-   "image_inventory": "econ/stickers/berlin2019/navi_graffiti"
-  }
- },
- {
-  "id": "graffiti-4123",
-  "name": "Sealed Graffiti | Ninjas in Pyjamas | Berlin 2019",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "4123",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [],
-  "market_hash_name": null,
-  "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/nip_graffiti_png.png",
-  "original": {
-   "name": "berlin2019_team_nip_graffiti",
-   "image_inventory": "econ/stickers/berlin2019/nip_graffiti"
-  }
- },
- {
-  "id": "graffiti-4124",
-  "name": "Sealed Graffiti | FaZe Clan | Berlin 2019",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "4124",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [],
-  "market_hash_name": null,
-  "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/faze_graffiti_png.png",
-  "original": {
-   "name": "berlin2019_team_faze_graffiti",
-   "image_inventory": "econ/stickers/berlin2019/faze_graffiti"
-  }
- },
- {
-  "id": "graffiti-4125",
-  "name": "Sealed Graffiti | Team Liquid | Berlin 2019",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "4125",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [],
-  "market_hash_name": null,
-  "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/liq_graffiti_png.png",
-  "original": {
-   "name": "berlin2019_team_liq_graffiti",
-   "image_inventory": "econ/stickers/berlin2019/liq_graffiti"
-  }
- },
- {
-  "id": "graffiti-4126",
-  "name": "Sealed Graffiti | Renegades | Berlin 2019",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "4126",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [],
-  "market_hash_name": null,
-  "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/ren_graffiti_png.png",
-  "original": {
-   "name": "berlin2019_team_ren_graffiti",
-   "image_inventory": "econ/stickers/berlin2019/ren_graffiti"
-  }
- },
- {
-  "id": "graffiti-4127",
-  "name": "Sealed Graffiti | compLexity Gaming | Berlin 2019",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "4127",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [],
-  "market_hash_name": null,
-  "image": "https://cdn.cs2c.app/images/econ/stickers/london2018/col_graffiti_png.png",
-  "original": {
-   "name": "berlin2019_team_col_graffiti",
-   "image_inventory": "econ/stickers/berlin2019/col_graffiti"
-  }
- },
- {
-  "id": "graffiti-4128",
-  "name": "Sealed Graffiti | HellRaisers | Berlin 2019",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "4128",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [],
-  "market_hash_name": null,
-  "image": "https://cdn.cs2c.app/images/econ/stickers/london2018/hlr_graffiti_png.png",
-  "original": {
-   "name": "berlin2019_team_hlr_graffiti",
-   "image_inventory": "econ/stickers/berlin2019/hlr_graffiti"
-  }
- },
- {
-  "id": "graffiti-4129",
-  "name": "Sealed Graffiti | Avangar | Berlin 2019",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "4129",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [],
-  "market_hash_name": null,
-  "image": "https://cdn.cs2c.app/images/econ/stickers/katowice2019/avg_graffiti_png.png",
-  "original": {
-   "name": "berlin2019_team_avg_graffiti",
-   "image_inventory": "econ/stickers/berlin2019/avg_graffiti"
-  }
- },
- {
-  "id": "graffiti-4130",
-  "name": "Sealed Graffiti | G2 Esports | Berlin 2019",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "4130",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [],
-  "market_hash_name": null,
-  "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/g2_graffiti_png.png",
-  "original": {
-   "name": "berlin2019_team_g2_graffiti",
-   "image_inventory": "econ/stickers/berlin2019/g2_graffiti"
-  }
- },
- {
-  "id": "graffiti-4131",
-  "name": "Sealed Graffiti | Vitality | Berlin 2019",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "4131",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [],
-  "market_hash_name": null,
-  "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/vita_graffiti_png.png",
-  "original": {
-   "name": "berlin2019_team_vita_graffiti",
-   "image_inventory": "econ/stickers/berlin2019/vita_graffiti"
-  }
- },
- {
-  "id": "graffiti-4132",
-  "name": "Sealed Graffiti | Grayhound Gaming | Berlin 2019",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "4132",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [],
-  "market_hash_name": null,
-  "image": "https://cdn.cs2c.app/images/econ/stickers/rio2022/gray_graffiti_png.png",
-  "original": {
-   "name": "berlin2019_team_gray_graffiti",
-   "image_inventory": "econ/stickers/berlin2019/gray_graffiti"
-  }
- },
- {
-  "id": "graffiti-4133",
-  "name": "Sealed Graffiti | mousesports | Berlin 2019",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "4133",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [],
-  "market_hash_name": null,
-  "image": "https://cdn.cs2c.app/images/econ/stickers/london2018/mss_graffiti_png.png",
-  "original": {
-   "name": "berlin2019_team_mss_graffiti",
-   "image_inventory": "econ/stickers/berlin2019/mss_graffiti"
-  }
- },
- {
-  "id": "graffiti-4134",
-  "name": "Sealed Graffiti | forZe eSports | Berlin 2019",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "4134",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [],
-  "market_hash_name": null,
-  "image": "https://cdn.cs2c.app/images/econ/stickers/paris2023/forz_graffiti_png.png",
-  "original": {
-   "name": "berlin2019_team_forz_graffiti",
-   "image_inventory": "econ/stickers/berlin2019/forz_graffiti"
-  }
- },
- {
-  "id": "graffiti-4135",
-  "name": "Sealed Graffiti | NRG | Berlin 2019",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "4135",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [],
-  "market_hash_name": null,
-  "image": "https://cdn.cs2c.app/images/econ/stickers/katowice2019/nrg_graffiti_png.png",
-  "original": {
-   "name": "berlin2019_team_nrg_graffiti",
-   "image_inventory": "econ/stickers/berlin2019/nrg_graffiti"
-  }
- },
- {
-  "id": "graffiti-4136",
-  "name": "Sealed Graffiti | Tyloo | Berlin 2019",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "4136",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [],
-  "market_hash_name": null,
-  "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/tyl_graffiti_png.png",
-  "original": {
-   "name": "berlin2019_team_tyl_graffiti",
-   "image_inventory": "econ/stickers/berlin2019/tyl_graffiti"
-  }
- },
- {
-  "id": "graffiti-4137",
-  "name": "Sealed Graffiti | FURIA | Berlin 2019",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "4137",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [],
-  "market_hash_name": null,
-  "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/furi_graffiti_png.png",
-  "original": {
-   "name": "berlin2019_team_furi_graffiti",
-   "image_inventory": "econ/stickers/berlin2019/furi_graffiti"
-  }
- },
- {
-  "id": "graffiti-4138",
-  "name": "Sealed Graffiti | CR4ZY | Berlin 2019",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "4138",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [],
-  "market_hash_name": null,
-  "image": "https://cdn.cs2c.app/images/econ/stickers/berlin2019/cr4z_graffiti_png.png",
-  "original": {
-   "name": "berlin2019_team_cr4z_graffiti",
-   "image_inventory": "econ/stickers/berlin2019/cr4z_graffiti"
-  }
- },
- {
-  "id": "graffiti-4139",
-  "name": "Sealed Graffiti | Syman Gaming | Berlin 2019",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "4139",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [],
-  "market_hash_name": null,
-  "image": "https://cdn.cs2c.app/images/econ/stickers/berlin2019/syma_graffiti_png.png",
-  "original": {
-   "name": "berlin2019_team_syma_graffiti",
-   "image_inventory": "econ/stickers/berlin2019/syma_graffiti"
-  }
- },
- {
-  "id": "graffiti-4140",
-  "name": "Sealed Graffiti | North | Berlin 2019",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "4140",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [],
-  "market_hash_name": null,
-  "image": "https://cdn.cs2c.app/images/econ/stickers/london2018/nor_graffiti_png.png",
-  "original": {
-   "name": "berlin2019_team_nor_graffiti",
-   "image_inventory": "econ/stickers/berlin2019/nor_graffiti"
-  }
- },
- {
-  "id": "graffiti-4141",
-  "name": "Sealed Graffiti | DreamEaters | Berlin 2019",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "4141",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [],
-  "market_hash_name": null,
-  "image": "https://cdn.cs2c.app/images/econ/stickers/berlin2019/drea_graffiti_png.png",
-  "original": {
-   "name": "berlin2019_team_drea_graffiti",
-   "image_inventory": "econ/stickers/berlin2019/drea_graffiti"
-  }
- },
- {
-  "id": "graffiti-4142",
-  "name": "Sealed Graffiti | INTZ E-SPORTS CLUB | Berlin 2019",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "4142",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [],
-  "market_hash_name": null,
-  "image": "https://cdn.cs2c.app/images/econ/stickers/berlin2019/intz_graffiti_png.png",
-  "original": {
-   "name": "berlin2019_team_intz_graffiti",
-   "image_inventory": "econ/stickers/berlin2019/intz_graffiti"
-  }
- },
- {
-  "id": "graffiti-4143",
-  "name": "Sealed Graffiti | StarLadder | Berlin 2019",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "4143",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [],
-  "market_hash_name": null,
-  "image": "https://cdn.cs2c.app/images/econ/stickers/bud2025/star_graffiti_png.png",
-  "original": {
-   "name": "berlin2019_team_star_graffiti",
-   "image_inventory": "econ/stickers/berlin2019/star_graffiti"
-  }
- },
- {
-  "id": "graffiti-1653",
-  "name": "Sealed Graffiti | Blood Boiler",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1653",
-  "rarity": {
-   "id": "rarity_legendary",
-   "name": "Exotic",
-   "color": "#d32ce6"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4234",
-    "name": "Community Graffiti Box 1",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Blood Boiler",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/community_mix01/blood_boiler_png.png",
-  "original": {
-   "name": "spray_blood_boiler",
-   "image_inventory": "econ/stickers/community_mix01/blood_boiler"
-  }
- },
- {
-  "id": "graffiti-1654",
-  "name": "Sealed Graffiti | Chabo",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1654",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4234",
-    "name": "Community Graffiti Box 1",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Chabo",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/poorly_drawn/chicken_png.png",
-  "original": {
-   "name": "spray_chicken",
-   "image_inventory": "econ/stickers/community_mix01/chicken"
-  }
- },
- {
-  "id": "graffiti-1655",
-  "name": "Sealed Graffiti | Drug War Veteran",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1655",
-  "rarity": {
-   "id": "rarity_legendary",
-   "name": "Exotic",
-   "color": "#d32ce6"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4234",
-    "name": "Community Graffiti Box 1",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Drug War Veteran",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/community_mix01/drugwarveteran_png.png",
-  "original": {
-   "name": "spray_drugwarveteran",
-   "image_inventory": "econ/stickers/community_mix01/drugwarveteran"
-  }
- },
- {
-  "id": "graffiti-1656",
-  "name": "Sealed Graffiti | Flickshot",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1656",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4234",
-    "name": "Community Graffiti Box 1",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Flickshot",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/community_mix01/flickshot_png.png",
-  "original": {
-   "name": "spray_flickshot",
-   "image_inventory": "econ/stickers/community_mix01/flickshot"
-  }
- },
- {
-  "id": "graffiti-1657",
-  "name": "Sealed Graffiti | Hamster Hawk",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1657",
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4234",
-    "name": "Community Graffiti Box 1",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Hamster Hawk",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/community_mix01/hamster_hawk_png.png",
-  "original": {
-   "name": "spray_hamster_hawk",
-   "image_inventory": "econ/stickers/community_mix01/hamster_hawk"
-  }
- },
- {
-  "id": "graffiti-1658",
-  "name": "Sealed Graffiti | Ivette",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1658",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4234",
-    "name": "Community Graffiti Box 1",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Ivette",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/pinups_capsule/ivette_png.png",
-  "original": {
-   "name": "spray_ivette",
-   "image_inventory": "econ/stickers/community_mix01/ivette"
-  }
- },
- {
-  "id": "graffiti-1659",
-  "name": "Sealed Graffiti | Kawaii Killer CT",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1659",
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4234",
-    "name": "Community Graffiti Box 1",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Kawaii Killer CT",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/community_mix01/kawaiikiller_png.png",
-  "original": {
-   "name": "spray_kawaiikiller_ct",
-   "image_inventory": "econ/stickers/community_mix01/kawaiikiller"
-  }
- },
- {
-  "id": "graffiti-1660",
-  "name": "Sealed Graffiti | Kawaii Killer Terrorist",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1660",
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4234",
-    "name": "Community Graffiti Box 1",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Kawaii Killer Terrorist",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/community_mix01/kawaiikiller_t_png.png",
-  "original": {
-   "name": "spray_kawaiikiller_t",
-   "image_inventory": "econ/stickers/community_mix01/kawaiikiller_t"
-  }
- },
- {
-  "id": "graffiti-1661",
-  "name": "Sealed Graffiti | Martha",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1661",
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4234",
-    "name": "Community Graffiti Box 1",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Martha",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/pinups_capsule/martha_png.png",
-  "original": {
-   "name": "spray_martha",
-   "image_inventory": "econ/stickers/community_mix01/martha"
-  }
- },
- {
-  "id": "graffiti-1662",
-  "name": "Sealed Graffiti | Old School",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1662",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4234",
-    "name": "Community Graffiti Box 1",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Old School",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/community_mix01/oldschool_png.png",
-  "original": {
-   "name": "spray_oldschool",
-   "image_inventory": "econ/stickers/community_mix01/oldschool"
-  }
- },
- {
-  "id": "graffiti-1663",
-  "name": "Sealed Graffiti | Pocket BBQ",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1663",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4234",
-    "name": "Community Graffiti Box 1",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Pocket BBQ",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/community_mix01/pocket_bbq_png.png",
-  "original": {
-   "name": "spray_pocket_bbq",
-   "image_inventory": "econ/stickers/community_mix01/pocket_bbq"
-  }
- },
- {
-  "id": "graffiti-1664",
-  "name": "Sealed Graffiti | Rekt",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1664",
-  "rarity": {
-   "id": "rarity_legendary",
-   "name": "Exotic",
-   "color": "#d32ce6"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4234",
-    "name": "Community Graffiti Box 1",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Rekt",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/community_mix01/rekt_png.png",
-  "original": {
-   "name": "spray_rekt",
-   "image_inventory": "econ/stickers/community_mix01/rekt"
-  }
- },
- {
-  "id": "graffiti-1665",
-  "name": "Sealed Graffiti | Shave Master",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1665",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4234",
-    "name": "Community Graffiti Box 1",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Shave Master",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/community_mix01/shave_master_png.png",
-  "original": {
-   "name": "spray_shave_master",
-   "image_inventory": "econ/stickers/community_mix01/shave_master"
-  }
- },
- {
-  "id": "graffiti-1666",
-  "name": "Sealed Graffiti | Shooting Star Return",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1666",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4234",
-    "name": "Community Graffiti Box 1",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Shooting Star Return",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/community_mix01/shootingstar_png.png",
-  "original": {
-   "name": "spray_shootingstar",
-   "image_inventory": "econ/stickers/community_mix01/shootingstar"
-  }
- },
- {
-  "id": "graffiti-1667",
-  "name": "Sealed Graffiti | Rising Skull",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1667",
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4234",
-    "name": "Community Graffiti Box 1",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Rising Skull",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/community_mix01/skull_png.png",
-  "original": {
-   "name": "spray_skull",
-   "image_inventory": "econ/stickers/community_mix01/skull"
-  }
- },
- {
-  "id": "graffiti-1668",
-  "name": "Sealed Graffiti | Tamara",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1668",
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4234",
-    "name": "Community Graffiti Box 1",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Tamara",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/pinups_capsule/tamara_png.png",
-  "original": {
-   "name": "spray_tamara",
-   "image_inventory": "econ/stickers/community_mix01/tamara"
-  }
- },
- {
-  "id": "graffiti-1669",
-  "name": "Sealed Graffiti | Unicorn",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1669",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4234",
-    "name": "Community Graffiti Box 1",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Unicorn",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/enfu_capsule/unicorn_png.png",
-  "original": {
-   "name": "spray_unicorn",
-   "image_inventory": "econ/stickers/community_mix01/unicorn"
-  }
- },
- {
-  "id": "graffiti-1670",
-  "name": "Sealed Graffiti | Winged Defuser",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1670",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4234",
-    "name": "Community Graffiti Box 1",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_community_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Winged Defuser",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/community_mix01/winged_defuser_png.png",
-  "original": {
-   "name": "spray_winged_defuser",
-   "image_inventory": "econ/stickers/community_mix01/winged_defuser"
-  }
- },
- {
-  "id": "graffiti-1671",
-  "name": "Sealed Graffiti | Ace",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1671",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4285",
-    "name": "CS:GO Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Ace",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/ace_01_png.png",
-  "original": {
-   "name": "spray_vcap1_ace_01",
-   "image_inventory": "econ/stickers/valve_sprays/ace_01"
-  }
- },
- {
-  "id": "graffiti-1672",
-  "name": "Sealed Graffiti | Banana",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1672",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4285",
-    "name": "CS:GO Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Banana",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/banana_png.png",
-  "original": {
-   "name": "spray_vcap1_banana",
-   "image_inventory": "econ/stickers/valve_sprays/banana"
-  }
- },
- {
-  "id": "graffiti-1673",
-  "name": "Sealed Graffiti | Cerberus",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1673",
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4285",
-    "name": "CS:GO Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Cerberus",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/cerberus_png.png",
-  "original": {
-   "name": "spray_vcap1_cerberus",
-   "image_inventory": "econ/stickers/valve_sprays/cerberus"
-  }
- },
- {
-  "id": "graffiti-1674",
-  "name": "Sealed Graffiti | Clutch King",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1674",
-  "rarity": {
-   "id": "rarity_legendary",
-   "name": "Exotic",
-   "color": "#d32ce6"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4285",
-    "name": "CS:GO Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Clutch King",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/clutch_01_png.png",
-  "original": {
-   "name": "spray_vcap1_clutch_01",
-   "image_inventory": "econ/stickers/valve_sprays/clutch_01"
-  }
- },
- {
-  "id": "graffiti-1675",
-  "name": "Sealed Graffiti | Crown",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1675",
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4285",
-    "name": "CS:GO Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Crown",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/crown_png.png",
-  "original": {
-   "name": "spray_vcap1_crown",
-   "image_inventory": "econ/stickers/valve_sprays/crown"
-  }
- },
- {
-  "id": "graffiti-1676",
-  "name": "Sealed Graffiti | Guardian",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1676",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4285",
-    "name": "CS:GO Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Guardian",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/ct_png.png",
-  "original": {
-   "name": "spray_vcap1_ct",
-   "image_inventory": "econ/stickers/valve_sprays/ct"
-  }
- },
- {
-  "id": "graffiti-1677",
-  "name": "Sealed Graffiti | EZ",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1677",
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4285",
-    "name": "CS:GO Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | EZ",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/ez_02_png.png",
-  "original": {
-   "name": "spray_vcap1_ez_02",
-   "image_inventory": "econ/stickers/valve_sprays/ez_02"
-  }
- },
- {
-  "id": "graffiti-1678",
-  "name": "Sealed Graffiti | Fire Serpent",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1678",
-  "rarity": {
-   "id": "rarity_legendary",
-   "name": "Exotic",
-   "color": "#d32ce6"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4285",
-    "name": "CS:GO Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Fire Serpent",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/fireserpent_png.png",
-  "original": {
-   "name": "spray_vcap1_fireserpent",
-   "image_inventory": "econ/stickers/valve_sprays/fireserpent"
-  }
- },
- {
-  "id": "graffiti-1679",
-  "name": "Sealed Graffiti | Howling Dawn",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1679",
-  "rarity": {
-   "id": "rarity_legendary",
-   "name": "Exotic",
-   "color": "#d32ce6"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4285",
-    "name": "CS:GO Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Howling Dawn",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/howling_dawn_png.png",
-  "original": {
-   "name": "spray_vcap1_howling_dawn",
-   "image_inventory": "econ/stickers/valve_sprays/howling_dawn"
-  }
- },
- {
-  "id": "graffiti-1680",
-  "name": "Sealed Graffiti | Kisses",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1680",
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4285",
-    "name": "CS:GO Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Kisses",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/kisses_png.png",
-  "original": {
-   "name": "spray_vcap1_kisses",
-   "image_inventory": "econ/stickers/valve_sprays/kisses"
-  }
- },
- {
-  "id": "graffiti-1681",
-  "name": "Sealed Graffiti | Easy Peasy",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1681",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4285",
-    "name": "CS:GO Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Easy Peasy",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/lemon_squeeze_png.png",
-  "original": {
-   "name": "spray_vcap1_lemon_squeeze",
-   "image_inventory": "econ/stickers/valve_sprays/lemon_squeeze"
-  }
- },
- {
-  "id": "graffiti-1682",
-  "name": "Sealed Graffiti | Nice Shot",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1682",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4285",
-    "name": "CS:GO Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Nice Shot",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/nice_shot_color_png.png",
-  "original": {
-   "name": "spray_vcap1_nice_shot_color",
-   "image_inventory": "econ/stickers/valve_sprays/nice_shot_color"
-  }
- },
- {
-  "id": "graffiti-1683",
-  "name": "Sealed Graffiti | Phoenix",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1683",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4285",
-    "name": "CS:GO Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Phoenix",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/phoenix_png.png",
-  "original": {
-   "name": "spray_vcap1_phoenix",
-   "image_inventory": "econ/stickers/valve_sprays/phoenix"
-  }
- },
- {
-  "id": "graffiti-1684",
-  "name": "Sealed Graffiti | Real MVP",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1684",
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4285",
-    "name": "CS:GO Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Real MVP",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/realmvp_02_png.png",
-  "original": {
-   "name": "spray_vcap1_realmvp_02",
-   "image_inventory": "econ/stickers/valve_sprays/realmvp_02"
-  }
- },
- {
-  "id": "graffiti-1685",
-  "name": "Sealed Graffiti | R.I.P.I.P.",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1685",
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4285",
-    "name": "CS:GO Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | R.I.P.I.P.",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/ripip_png.png",
-  "original": {
-   "name": "spray_vcap1_ripip",
-   "image_inventory": "econ/stickers/valve_sprays/ripip"
-  }
- },
- {
-  "id": "graffiti-1686",
-  "name": "Sealed Graffiti | Skull n' Crosshairs",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1686",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4285",
-    "name": "CS:GO Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Skull n' Crosshairs",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/target_02_png.png",
-  "original": {
-   "name": "spray_vcap1_target_02",
-   "image_inventory": "econ/stickers/valve_sprays/target_02"
-  }
- },
- {
-  "id": "graffiti-1687",
-  "name": "Sealed Graffiti | Welcome to the Clutch",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1687",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4285",
-    "name": "CS:GO Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Welcome to the Clutch",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/welcome_clutch_png.png",
-  "original": {
-   "name": "spray_vcap1_welcome_clutch",
-   "image_inventory": "econ/stickers/valve_sprays/welcome_clutch"
-  }
- },
- {
-  "id": "graffiti-1688",
-  "name": "Sealed Graffiti | Wings",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "1688",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4285",
-    "name": "CS:GO Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_valve_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Wings",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/valve_sprays/wings_png.png",
-  "original": {
-   "name": "spray_vcap1_wings",
-   "image_inventory": "econ/stickers/valve_sprays/wings"
-  }
- },
- {
-  "id": "graffiti-2418",
-  "name": "Sealed Graffiti | Water Gun",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "2418",
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4286",
-    "name": "Perfect World Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Water Gun",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_01/cheongsam_1_png.png",
-  "original": {
-   "name": "spray_illuminate1_cheongsam_1",
-   "image_inventory": "econ/stickers/illuminate_capsule/cheongsam_1"
-  }
- },
- {
-  "id": "graffiti-2419",
-  "name": "Sealed Graffiti | Cheongsam",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "2419",
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4286",
-    "name": "Perfect World Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Cheongsam",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_01/cheongsam_2_png.png",
-  "original": {
-   "name": "spray_illuminate1_cheongsam_2",
-   "image_inventory": "econ/stickers/illuminate_capsule/cheongsam_2"
-  }
- },
- {
-  "id": "graffiti-2420",
-  "name": "Sealed Graffiti | Guardian Dragon",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "2420",
-  "rarity": {
-   "id": "rarity_legendary",
-   "name": "Exotic",
-   "color": "#d32ce6"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4286",
-    "name": "Perfect World Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Guardian Dragon",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule/chinese_dragon_nodrips_png.png",
-  "original": {
-   "name": "spray_illuminate1_chinese_dragon",
-   "image_inventory": "econ/stickers/illuminate_capsule/chinese_dragon_nodrips"
-  }
- },
- {
-  "id": "graffiti-2421",
-  "name": "Sealed Graffiti | Rage",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "2421",
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4286",
-    "name": "Perfect World Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Rage",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_02/fury_png.png",
-  "original": {
-   "name": "spray_illuminate1_fury",
-   "image_inventory": "econ/stickers/illuminate_capsule/fury"
-  }
- },
- {
-  "id": "graffiti-2422",
-  "name": "Sealed Graffiti | God of Fortune",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "2422",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4286",
-    "name": "Perfect World Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | God of Fortune",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_02/god_of_fortune_png.png",
-  "original": {
-   "name": "spray_illuminate1_god_of_fortune",
-   "image_inventory": "econ/stickers/illuminate_capsule/god_of_fortune"
-  }
- },
- {
-  "id": "graffiti-2423",
-  "name": "Sealed Graffiti | Hotpot",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "2423",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4286",
-    "name": "Perfect World Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Hotpot",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_01/hotpot_png.png",
-  "original": {
-   "name": "spray_illuminate1_hotpot",
-   "image_inventory": "econ/stickers/illuminate_capsule/hotpot"
-  }
- },
- {
-  "id": "graffiti-2424",
-  "name": "Sealed Graffiti | Fancy Koi",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "2424",
-  "rarity": {
-   "id": "rarity_legendary",
-   "name": "Exotic",
-   "color": "#d32ce6"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4286",
-    "name": "Perfect World Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Fancy Koi",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_01/koi_2_png.png",
-  "original": {
-   "name": "spray_illuminate1_koi_2",
-   "image_inventory": "econ/stickers/illuminate_capsule/koi_2"
-  }
- },
- {
-  "id": "graffiti-2425",
-  "name": "Sealed Graffiti | Longevity",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "2425",
-  "rarity": {
-   "id": "rarity_legendary",
-   "name": "Exotic",
-   "color": "#d32ce6"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4286",
-    "name": "Perfect World Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Longevity",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_02/longevity_png.png",
-  "original": {
-   "name": "spray_illuminate1_longevity",
-   "image_inventory": "econ/stickers/illuminate_capsule/longevity"
-  }
- },
- {
-  "id": "graffiti-2426",
-  "name": "Sealed Graffiti | Nezha",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "2426",
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4286",
-    "name": "Perfect World Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Nezha",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_02/nezha_png.png",
-  "original": {
-   "name": "spray_illuminate1_nezha",
-   "image_inventory": "econ/stickers/illuminate_capsule/nezha"
-  }
- },
- {
-  "id": "graffiti-2427",
-  "name": "Sealed Graffiti | Noodles",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "2427",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4286",
-    "name": "Perfect World Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Noodles",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_01/noodles_png.png",
-  "original": {
-   "name": "spray_illuminate1_noodles",
-   "image_inventory": "econ/stickers/illuminate_capsule/noodles"
-  }
- },
- {
-  "id": "graffiti-2428",
-  "name": "Sealed Graffiti | Non-Veg",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "2428",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4286",
-    "name": "Perfect World Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Non-Veg",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_02/panda_png.png",
-  "original": {
-   "name": "spray_illuminate1_panda",
-   "image_inventory": "econ/stickers/illuminate_capsule/panda"
-  }
- },
- {
-  "id": "graffiti-2429",
-  "name": "Sealed Graffiti | Pixiu",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "2429",
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4286",
-    "name": "Perfect World Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Pixiu",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_02/pixiu_png.png",
-  "original": {
-   "name": "spray_illuminate1_pixiu",
-   "image_inventory": "econ/stickers/illuminate_capsule/pixiu"
-  }
- },
- {
-  "id": "graffiti-2430",
-  "name": "Sealed Graffiti | Twin Koi",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "2430",
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4286",
-    "name": "Perfect World Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Twin Koi",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_02/red_koi_png.png",
-  "original": {
-   "name": "spray_illuminate1_red_koi",
-   "image_inventory": "econ/stickers/illuminate_capsule/red_koi"
-  }
- },
- {
-  "id": "graffiti-2431",
-  "name": "Sealed Graffiti | Rice Bomb",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "2431",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4286",
-    "name": "Perfect World Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Rice Bomb",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_01/rice_png.png",
-  "original": {
-   "name": "spray_illuminate1_rice",
-   "image_inventory": "econ/stickers/illuminate_capsule/rice"
-  }
- },
- {
-  "id": "graffiti-2432",
-  "name": "Sealed Graffiti | Terror Rice",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "2432",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4286",
-    "name": "Perfect World Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Terror Rice",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_01/rice_pudding_png.png",
-  "original": {
-   "name": "spray_illuminate1_rice_pudding",
-   "image_inventory": "econ/stickers/illuminate_capsule/rice_pudding"
-  }
- },
- {
-  "id": "graffiti-2433",
-  "name": "Sealed Graffiti | Shaolin",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "2433",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4286",
-    "name": "Perfect World Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Shaolin",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_02/shaolin_1_png.png",
-  "original": {
-   "name": "spray_illuminate1_shaolin_1",
-   "image_inventory": "econ/stickers/illuminate_capsule/shaolin_1"
-  }
- },
- {
-  "id": "graffiti-2434",
-  "name": "Sealed Graffiti | Toy Tiger",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "2434",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4286",
-    "name": "Perfect World Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Toy Tiger",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule_01/toytiger_png.png",
-  "original": {
-   "name": "spray_illuminate1_toytiger",
-   "image_inventory": "econ/stickers/illuminate_capsule/toytiger"
-  }
- },
- {
-  "id": "graffiti-2435",
-  "name": "Sealed Graffiti | Zombie Hop",
-  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
-  "def_index": "2435",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "special_notes": null,
-  "crates": [
-   {
-    "id": "crate-4286",
-    "name": "Perfect World Graffiti Box",
-    "image": "https://cdn.cs2c.app/images/econ/weapon_cases/crate_spray_pack_illuminate_1_png.png"
-   }
-  ],
-  "market_hash_name": "Sealed Graffiti | Zombie Hop",
-  "image": "https://cdn.cs2c.app/images/econ/stickers/illuminate_capsule/zombie_nodrips_png.png",
-  "original": {
-   "name": "spray_illuminate1_zombie",
-   "image_inventory": "econ/stickers/illuminate_capsule/zombie_nodrips"
   }
  },
  {
@@ -31297,6 +30822,481 @@
   "original": {
    "item_name": "#SprayKit_std2_uhoh",
    "image_inventory": "econ/stickers/default2019/uhoh_19"
+  }
+ },
+ {
+  "id": "graffiti-4119",
+  "name": "Sealed Graffiti | Astralis | Berlin 2019",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "4119",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/astr_graffiti_png.png",
+  "original": {
+   "name": "berlin2019_team_astr_graffiti",
+   "image_inventory": "econ/stickers/berlin2019/astr_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-4120",
+  "name": "Sealed Graffiti | ENCE | Berlin 2019",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "4120",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/ence_graffiti_png.png",
+  "original": {
+   "name": "berlin2019_team_ence_graffiti",
+   "image_inventory": "econ/stickers/berlin2019/ence_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-4121",
+  "name": "Sealed Graffiti | MIBR | Berlin 2019",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "4121",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/sha2024/mibr_graffiti_png.png",
+  "original": {
+   "name": "berlin2019_team_mibr_graffiti",
+   "image_inventory": "econ/stickers/berlin2019/mibr_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-4122",
+  "name": "Sealed Graffiti | Natus Vincere | Berlin 2019",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "4122",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/navi_graffiti_png.png",
+  "original": {
+   "name": "berlin2019_team_navi_graffiti",
+   "image_inventory": "econ/stickers/berlin2019/navi_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-4123",
+  "name": "Sealed Graffiti | Ninjas in Pyjamas | Berlin 2019",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "4123",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/nip_graffiti_png.png",
+  "original": {
+   "name": "berlin2019_team_nip_graffiti",
+   "image_inventory": "econ/stickers/berlin2019/nip_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-4124",
+  "name": "Sealed Graffiti | FaZe Clan | Berlin 2019",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "4124",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/faze_graffiti_png.png",
+  "original": {
+   "name": "berlin2019_team_faze_graffiti",
+   "image_inventory": "econ/stickers/berlin2019/faze_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-4125",
+  "name": "Sealed Graffiti | Team Liquid | Berlin 2019",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "4125",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/liq_graffiti_png.png",
+  "original": {
+   "name": "berlin2019_team_liq_graffiti",
+   "image_inventory": "econ/stickers/berlin2019/liq_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-4126",
+  "name": "Sealed Graffiti | Renegades | Berlin 2019",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "4126",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/ren_graffiti_png.png",
+  "original": {
+   "name": "berlin2019_team_ren_graffiti",
+   "image_inventory": "econ/stickers/berlin2019/ren_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-4127",
+  "name": "Sealed Graffiti | compLexity Gaming | Berlin 2019",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "4127",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/london2018/col_graffiti_png.png",
+  "original": {
+   "name": "berlin2019_team_col_graffiti",
+   "image_inventory": "econ/stickers/berlin2019/col_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-4128",
+  "name": "Sealed Graffiti | HellRaisers | Berlin 2019",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "4128",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/london2018/hlr_graffiti_png.png",
+  "original": {
+   "name": "berlin2019_team_hlr_graffiti",
+   "image_inventory": "econ/stickers/berlin2019/hlr_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-4129",
+  "name": "Sealed Graffiti | Avangar | Berlin 2019",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "4129",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/katowice2019/avg_graffiti_png.png",
+  "original": {
+   "name": "berlin2019_team_avg_graffiti",
+   "image_inventory": "econ/stickers/berlin2019/avg_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-4130",
+  "name": "Sealed Graffiti | G2 Esports | Berlin 2019",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "4130",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/g2_graffiti_png.png",
+  "original": {
+   "name": "berlin2019_team_g2_graffiti",
+   "image_inventory": "econ/stickers/berlin2019/g2_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-4131",
+  "name": "Sealed Graffiti | Vitality | Berlin 2019",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "4131",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/vita_graffiti_png.png",
+  "original": {
+   "name": "berlin2019_team_vita_graffiti",
+   "image_inventory": "econ/stickers/berlin2019/vita_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-4132",
+  "name": "Sealed Graffiti | Grayhound Gaming | Berlin 2019",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "4132",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/rio2022/gray_graffiti_png.png",
+  "original": {
+   "name": "berlin2019_team_gray_graffiti",
+   "image_inventory": "econ/stickers/berlin2019/gray_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-4133",
+  "name": "Sealed Graffiti | mousesports | Berlin 2019",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "4133",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/london2018/mss_graffiti_png.png",
+  "original": {
+   "name": "berlin2019_team_mss_graffiti",
+   "image_inventory": "econ/stickers/berlin2019/mss_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-4134",
+  "name": "Sealed Graffiti | forZe eSports | Berlin 2019",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "4134",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/paris2023/forz_graffiti_png.png",
+  "original": {
+   "name": "berlin2019_team_forz_graffiti",
+   "image_inventory": "econ/stickers/berlin2019/forz_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-4135",
+  "name": "Sealed Graffiti | NRG | Berlin 2019",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "4135",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/katowice2019/nrg_graffiti_png.png",
+  "original": {
+   "name": "berlin2019_team_nrg_graffiti",
+   "image_inventory": "econ/stickers/berlin2019/nrg_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-4136",
+  "name": "Sealed Graffiti | Tyloo | Berlin 2019",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "4136",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/tyl_graffiti_png.png",
+  "original": {
+   "name": "berlin2019_team_tyl_graffiti",
+   "image_inventory": "econ/stickers/berlin2019/tyl_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-4137",
+  "name": "Sealed Graffiti | FURIA | Berlin 2019",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "4137",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/stockh2021/furi_graffiti_png.png",
+  "original": {
+   "name": "berlin2019_team_furi_graffiti",
+   "image_inventory": "econ/stickers/berlin2019/furi_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-4138",
+  "name": "Sealed Graffiti | CR4ZY | Berlin 2019",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "4138",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/berlin2019/cr4z_graffiti_png.png",
+  "original": {
+   "name": "berlin2019_team_cr4z_graffiti",
+   "image_inventory": "econ/stickers/berlin2019/cr4z_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-4139",
+  "name": "Sealed Graffiti | Syman Gaming | Berlin 2019",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "4139",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/berlin2019/syma_graffiti_png.png",
+  "original": {
+   "name": "berlin2019_team_syma_graffiti",
+   "image_inventory": "econ/stickers/berlin2019/syma_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-4140",
+  "name": "Sealed Graffiti | North | Berlin 2019",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "4140",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/london2018/nor_graffiti_png.png",
+  "original": {
+   "name": "berlin2019_team_nor_graffiti",
+   "image_inventory": "econ/stickers/berlin2019/nor_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-4141",
+  "name": "Sealed Graffiti | DreamEaters | Berlin 2019",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "4141",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/berlin2019/drea_graffiti_png.png",
+  "original": {
+   "name": "berlin2019_team_drea_graffiti",
+   "image_inventory": "econ/stickers/berlin2019/drea_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-4142",
+  "name": "Sealed Graffiti | INTZ E-SPORTS CLUB | Berlin 2019",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "4142",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/berlin2019/intz_graffiti_png.png",
+  "original": {
+   "name": "berlin2019_team_intz_graffiti",
+   "image_inventory": "econ/stickers/berlin2019/intz_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-4143",
+  "name": "Sealed Graffiti | StarLadder | Berlin 2019",
+  "description": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world.",
+  "def_index": "4143",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "special_notes": null,
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://cdn.cs2c.app/images/econ/stickers/bud2025/star_graffiti_png.png",
+  "original": {
+   "name": "berlin2019_team_star_graffiti",
+   "image_inventory": "econ/stickers/berlin2019/star_graffiti"
   }
  },
  {

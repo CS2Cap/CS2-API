@@ -21,6 +21,9 @@ dependencies = [
 [tool.setuptools.packages.find]
 include = ["file_tracker*", "api_gen*"]
 
+[tool.setuptools.package-data]
+api_gen = ["*.json"]
+
 [build-system]
 requires = ["setuptools>=68.0"]
 build-backend = "setuptools.build_meta"

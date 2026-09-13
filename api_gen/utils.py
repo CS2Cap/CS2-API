@@ -3,7 +3,39 @@ Utility functions and data tables ported from CSGO-API/utils/index.js.
 """
 from __future__ import annotations
 
+import re
 from typing import Any
+
+
+def get_attribute_value(attribute: Any) -> Any:
+    """Return an items_game attribute value from either Valve JSON shape."""
+    if isinstance(attribute, dict):
+        return attribute.get("value")
+    return attribute
+
+
+def to_int(value: Any) -> int | None:
+    """Coerce an items_game leaf value (always a string from the vdf parser) to int."""
+    if value is None or value == "":
+        return None
+    try:
+        return int(value)
+    except (TypeError, ValueError):
+        return None
+
+
+def _is_canonical_integer_key(k: Any) -> bool:
+    """Return True if *k* is a canonical array-index string"""
+    return isinstance(k, str) and k.isascii() and k.isdigit() and (k == "0" or k[0] != "0")
+
+
+def js_ordered_items(d: dict) -> list[tuple[str, Any]]:
+    """Iterate a dict the way JavaScript iterates object keys: integer-like keys
+    first in ascending numeric order, then the rest in insertion order."""
+    numeric = [(k, v) for k, v in d.items() if _is_canonical_integer_key(k)]
+    other = [(k, v) for k, v in d.items() if not _is_canonical_integer_key(k)]
+    numeric.sort(key=lambda kv: int(kv[0]))
+    return numeric + other
 
 # ---------------------------------------------------------------------------
 # Data tables
@@ -409,6 +441,12 @@ def is_not_weapon(string: str) -> bool:
     )
 
 
+def is_souvenir_eligible(weapon: str) -> bool:
+    """Since the IEM Cologne 2026 Major the Souvenir-O-Matic lets any normal weapon
+    skin become a Souvenir, so every gun qualifies. Knives and gloves stay out."""
+    return not is_not_weapon(weapon)
+
+
 def get_category(weapon: str) -> str | None:
     """Map a weapon identifier to its inventory category translation key."""
     pistols = {
@@ -485,9 +523,12 @@ def get_wears(min_float: float, max_float: float) -> list[str]:
     ]
 
 
-def get_doppler_phase(paint_index: int) -> str | None:
+def get_doppler_phase(paint_index: int | str | None) -> str | None:
     """Return the Doppler phase name for *paint_index*, or None if not found."""
-    return DOPPLER_PHASES.get(paint_index)
+    key = to_int(paint_index)
+    if key is None:
+        return None
+    return DOPPLER_PHASES.get(key)
 
 
 def get_rarity_color(rarity_id: str | None) -> str | None:
@@ -528,43 +569,42 @@ def get_graffiti_variations(material: str) -> list[int]:
     return GRAFFITI_VARIATIONS.get(material, [])
 
 
-def get_player_name_of_highlight(id: str, players: dict) -> str:
-    """Resolve a highlight ID to a player name, applying known typo corrections."""
+def get_player_name_of_highlight(id: str, players: dict) -> str | None:
+    """Resolve a highlight ID to a player name, applying known typo corrections.
+
+    Returns None for team-level highlights (entrance, victory, trophy lifting)."""
     id = id.split("_")[1]
 
-    if id.startswith("shiro"):
-        id = id.replace("shiro", "sh1ro", 1)
-    if id.startswith("magix"):
-        id = id.replace("magix", "magixx", 1)
-    if id.startswith("torszi"):
-        id = id.replace("torszi", "torzsi", 1)
-    if id.startswith("zontix"):
-        id = id.replace("zontix", "zont1x", 1)
-    if id.startswith("techno"):
-        id = id.replace("techno", "techno4k", 1)
-    if id.startswith("tehcno"):
-        id = id.replace("tehcno", "techno4k", 1)
-    if id.startswith("wonderful"):
-        id = id.replace("wonderful", "w0nderful", 1)
-    if id.startswith("yuuri"):
-        id = id.replace("yuuri", "yuurih", 1)
-    if id.startswith("flames"):
-        id = id.replace("flames", "flamez", 1)
-    if id.startswith("mezi"):
-        id = id.replace("mezi", "mezii", 1)
-    if id.startswith("senznu"):
-        id = id.replace("senznu", "senzu", 1)
-    if id.startswith("jimphat"):
-        id = id.replace("jimphat", "jimpphat", 1)
+    # Strip the stage prefix. Budapest 2025 uses a dash (qf-, sf-, gf-) while
+    # Cologne 2026 glues it to the player name (st1, st2, st3, qf, sf, gf).
+    id = re.sub(r"^(st\d+|qf|sf|gf)-?", "", id)
+
+    typo_fixes = [
+        ("shiro", "sh1ro"),
+        ("magix", "magixx"),
+        ("torszi", "torzsi"),
+        ("zontix", "zont1x"),
+        ("techno", "techno4k"),
+        ("tehcno", "techno4k"),
+        ("wonderful", "w0nderful"),
+        ("yuuri", "yuurih"),
+        ("flames", "flamez"),
+        ("mezi", "mezii"),
+        ("senznu", "senzu"),
+        ("jimphat", "jimpphat"),
+    ]
+    for wrong, right in typo_fixes:
+        if id.startswith(wrong):
+            id = id.replace(wrong, right, 1)
 
     if id == "mongolzscaredofs1mplevsfazeonanubis":
         id = "s1mple"
     if id == "boosttorszitoentryvsspiritonnuke":
         id = "torzsi"
 
-    import re
-    if id.startswith("qf-") or id.startswith("sf-") or id.startswith("gf-"):
-        id = re.sub(r"^(qf|sf|gf)-", "", id)
+    # Team-level highlights have no single player.
+    if re.search(r"(entrance|victory|win|trophyliftingmoment)$", id):
+        return None
 
     for name in players.values():
         if id.startswith(name.lower()):

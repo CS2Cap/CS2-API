@@ -14,6 +14,7 @@ from api_gen.utils import (
     get_weapon_name,
     get_wears,
     is_not_weapon,
+    is_souvenir_eligible,
 )
 
 _SKIN_RE = re.compile(r"econ/default_generated/(.*?)_light$", re.IGNORECASE)
@@ -93,7 +94,6 @@ def _parse_item(
     rarities = state.rarities
     paint_kits = state.paint_kits
     crates_by_skins = state.crates_by_skins
-    souvenir_skins = state.souvenir_skins
     collections_by_skins = state.collections_by_skins
     cdn_images = state.cdn_images
     items = state.items
@@ -161,7 +161,7 @@ def _parse_item(
     skin_id = f"skin-{object_id}"
 
     # Souvenir flag
-    is_souvenir: bool = souvenir_skins.get(skin_id, False)
+    is_souvenir: bool = is_souvenir_eligible(weapon)
 
     wear_min = float(pk.get("wear_remap_min", 0.06))
     wear_max = float(pk.get("wear_remap_max", 0.8))

@@ -3,7 +3,7 @@ from __future__ import annotations
 from api_gen.constants import SPECIAL_NOTES, get_image_url
 from api_gen.state import State
 from api_gen.translations import Translations
-from api_gen.utils import get_rarity_color
+from api_gen.utils import get_attribute_value, get_rarity_color
 
 # Object IDs whose crates should NOT have a market_hash_name
 _NO_MARKET_HASH_NAME_IDS = {
@@ -19,11 +19,8 @@ def _is_crate(item: dict) -> bool:
 
     # Storage units with supply crate series attribute
     attributes = item.get("attributes") or {}
-    supply_crate = attributes.get("set supply crate series") or {}
-    if isinstance(supply_crate, dict):
-        if supply_crate.get("attribute_class") == "supply_crate_series":
-            return True
-    elif supply_crate:
+    supply_crate = attributes.get("set supply crate series")
+    if isinstance(supply_crate, dict) and supply_crate.get("attribute_class") == "supply_crate_series":
         return True
 
     # Storage units by name
@@ -40,10 +37,7 @@ def _is_crate(item: dict) -> bool:
     if "weapon_case_key" in prefab:
         return False
 
-    if item.get("item_type") == "self_opening_purchase":
-        return False
-
-    return True
+    return item.get("item_type") != "self_opening_purchase"
 
 
 def _get_crate_type(item: dict) -> str | None:
@@ -112,6 +106,12 @@ def _get_market_hash_name(item: dict, translations: Translations) -> str | None:
     object_id = str(item.get("object_id", ""))
     if object_id in _NO_MARKET_HASH_NAME_IDS:
         return None
+
+    # Cologne 2026 Capsules are not marketable
+    prefab = item.get("prefab") or ""
+    if "cologne2026_signature_capsule_prefab" in prefab or "cologne2026_sticker_capsule_prefab" in prefab:
+        return None
+
     name = translations.t(item.get("item_name"), use_default=True)
     if name is None:
         return None
@@ -176,8 +176,7 @@ def _parse_item(
 
     loot_list_name = item.get("loot_list_name") or None
     attributes = item.get("attributes") or {}
-    _sc = attributes.get("set supply crate series") or {}
-    attribute_value = (_sc.get("value") if isinstance(_sc, dict) else _sc) or None
+    attribute_value = get_attribute_value(attributes.get("set supply crate series")) or None
     key_loot_list = loot_list_name or revolving_loot_lists.get(attribute_value) or None
 
     tags = item.get("tags") or {}

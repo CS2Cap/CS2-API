@@ -8,9 +8,7 @@ def _is_keychain(item: dict) -> bool:
     """Return True if *item* is a tradable keychain definition."""
     if not item.get("loc_name", "").startswith("#keychain_"):
         return False
-    if item.get("is commodity"):
-        return False
-    return True
+    return not item.get("is commodity")
 
 
 def _parse_item(item: dict, state: State, translations: Translations) -> dict:

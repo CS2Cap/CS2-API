@@ -6,7 +6,6 @@ import re
 from typing import Any
 
 import storage
-
 from api_gen.constants import (
     RARE_SPECIAL,
     get_image_url,
@@ -16,11 +15,14 @@ from api_gen.state import State
 from api_gen.utils import (
     KNIVES,
     filter_unique_by_attribute,
+    get_attribute_value,
     get_doppler_phase,
     get_graffiti_variations,
     get_player_name_of_highlight,
     is_exclusive,
     is_not_weapon,
+    js_ordered_items,
+    to_int,
 )
 
 logger = logging.getLogger(__name__)
@@ -187,14 +189,13 @@ def get_item_from_key(key: str, state: State) -> Any:
         keychain = keychain_definitions_obj.get(name)
         if keychain is None:
             return None
+        base = keychain_definitions_obj.get(keychain.get("base", ""), {})
+        image_inventory = (keychain.get("image_inventory") or base.get("image_inventory") or "").lower()
         return {
             "id": f"keychain-{keychain['object_id']}",
             "name": keychain.get("loc_name"),
             "rarity": f"rarity_{keychain.get('item_rarity', '')}",
-            "image": (
-                state.cdn_images.get(keychain.get("image_inventory", "").lower())
-                or get_image_url(keychain.get("image_inventory", "").lower())
-            ),
+            "image": state.cdn_images.get(image_inventory) or get_image_url(image_inventory),
         }
 
     # --- Weapons / Knives / Gloves ---
@@ -354,7 +355,7 @@ def load_items_game(state: State) -> None:
         if "pet_hen_1_hen" in item:
             continue
         sha_input = item.replace("_light_png.png", "")
-        sha_key = hashlib.sha1(sha_input.encode()).hexdigest()[:12]  # noqa: S324
+        sha_key = hashlib.sha1(sha_input.encode()).hexdigest()[:12]
         icon_path = f"econ/default_generated/{item.replace('_png.png', '')}"
         weapon_icons[sha_key] = {"icon_path": icon_path}
 
@@ -412,7 +413,7 @@ def load_prefabs(state: State) -> None:
 def load_items(state: State) -> None:
     """Process items, merge prefab data."""
     result: dict[str, dict] = {}
-    for key, value in state.items_game.get("items", {}).items():
+    for key, value in js_ordered_items(state.items_game.get("items", {})):
         prefab_data = state.prefabs.get(value.get("prefab", ""))
         result[value.get("name", "")] = {
             **value,
@@ -435,11 +436,16 @@ def load_item_sets(state: State) -> None:
 def load_sticker_kits(state: State) -> None:
     """Load sticker kits with Howling Dawn contraband override. Also loads players."""
     kits = []
-    for key, item in state.items_game.get("sticker_kits", {}).items():
+    for key, item in js_ordered_items(state.items_game.get("sticker_kits", {})):
         item = dict(item)  # shallow copy
         if item.get("name") == "comm01_howling_dawn":
             item["item_rarity"] = "contraband"
         item["object_id"] = key
+        # items_game.json stores every value as a string; upstream compares these
+        # three fields against ints ("=== 1") and treats team id 0 as falsy.
+        for field in ("tournament_event_id", "tournament_team_id", "tournament_player_id"):
+            if field in item:
+                item[field] = to_int(item[field])
         kits.append(item)
 
     state.sticker_kits = kits
@@ -448,14 +454,14 @@ def load_sticker_kits(state: State) -> None:
     # Load players from pro_players
     state.players = {
         pid: str(player.get("name", ""))
-        for pid, player in state.items_game.get("pro_players", {}).items()
+        for pid, player in js_ordered_items(state.items_game.get("pro_players", {}))
     }
 
 
 def load_keychain_definitions(state: State) -> None:
     """Load keychain definitions."""
     defs = []
-    for key, item in state.items_game.get("keychain_definitions", {}).items():
+    for key, item in js_ordered_items(state.items_game.get("keychain_definitions", {})):
         entry = dict(item)
         entry["object_id"] = key
         defs.append(entry)
@@ -474,7 +480,7 @@ def load_paint_kits(state: State) -> None:
                 "wear_remap_min": item.get("wear_remap_min", 0.06),
                 "wear_remap_max": item.get("wear_remap_max", 0.8),
                 "paint_index": key,
-                "style_id": item.get("style", 0),
+                "style_id": to_int(item.get("style")) or 0,
                 "style_name": f"SFUI_ItemInfo_FinishStyle_{item.get('style', 0)}",
                 "legacy_model": bool(item.get("use_legacy_model"))
                 if item.get("use_legacy_model") is not None
@@ -486,7 +492,7 @@ def load_paint_kits(state: State) -> None:
 def load_music_definitions(state: State) -> None:
     """Load music definitions."""
     defs = []
-    for key, item in state.items_game.get("music_definitions", {}).items():
+    for key, item in js_ordered_items(state.items_game.get("music_definitions", {})):
         entry = dict(item)
         entry["object_id"] = key
         entry["loc_name"] = item.get("loc_name")
@@ -674,12 +680,7 @@ def load_crates_by_skins(state: State) -> None:
                     attrs = i_val.get("attributes", {})
                     supply_crate = attrs.get("set supply crate series", {})
                     # JS uses == (loose equality) so compare as strings
-                    # supply_crate can be a string or a dict depending on manifest version
-                    if isinstance(supply_crate, dict):
-                        supply_crate_value = supply_crate.get("value", "")
-                    else:
-                        supply_crate_value = supply_crate
-                    if str(supply_crate_value) == str(loot_list[0]):
+                    if str(get_attribute_value(supply_crate) or "") == str(loot_list[0]):
                         crate_item = i_val
                         break
 
@@ -884,39 +885,6 @@ def load_collections_by_stickers(state: State) -> None:
     state.collections_by_stickers = acc
 
 
-def load_souvenir_skins(state: State) -> None:
-    """Build set of skin IDs that have souvenir variants."""
-    souvenir_items: dict[str, bool] = {}
-
-    for item in state.items.values():
-        prefab = item.get("prefab", "")
-        if prefab == "weapon_case_souvenirpkg" or (
-            isinstance(prefab, str) and "_souvenir_crate_promo_prefab" in prefab
-        ):
-            loot_list_name = item.get("loot_list_name")
-            _sc = item.get("attributes", {}).get("set supply crate series", {})
-            attribute_value = (_sc.get("value") if isinstance(_sc, dict) else _sc) or None
-            key_loot_list = loot_list_name or state.revolving_loot_lists.get(
-                str(attribute_value) if attribute_value is not None else ""
-            )
-
-            tag_value = item.get("tags", {}).get("ItemSet", {}).get("tag_value")
-            skins = (
-                state.skins_by_crates.get(tag_value, [])
-                if tag_value and tag_value in state.skins_by_crates
-                else state.skins_by_crates.get(key_loot_list, [])
-            )
-
-            for skin in skins:
-                if skin and skin.get("id"):
-                    souvenir_items[skin["id"]] = True
-
-    # Hardcoded: MP5-SD | Lab Rats
-    souvenir_items["skin-e73d6e7e9004"] = True
-
-    state.souvenir_skins = souvenir_items
-
-
 def load_stattrak_skins(state: State) -> None:
     """Build set of loot-list keys that support StatTrak."""
     item_sets = state.item_sets
@@ -954,7 +922,7 @@ def load_stattrak_skins(state: State) -> None:
 def load_highlights(state: State) -> None:
     """Load highlight reels."""
     reels = []
-    for reel_id, item in state.items_game.get("highlight_reels", {}).items():
+    for reel_id, item in js_ordered_items(state.items_game.get("highlight_reels", {})):
         tournament_string = str(item.get("tournament event id", "")).zfill(3)
         team0 = str(item.get("tournament event team0 id", "")).zfill(3)
         team1 = str(item.get("tournament event team1 id", "")).zfill(3)
@@ -972,16 +940,19 @@ def load_highlights(state: State) -> None:
 
         id_prefix = item_id.split("_")[0] if "_" in str(item_id) else str(item_id)
 
+        tournament_player = get_player_name_of_highlight(item_id, state.players)
+
         reels.append(
             {
                 "id": item_id,
                 "highlight_reel": reel_id,
-                "tournament_event_id": item.get("tournament event id"),
+                "tournament_event_id": to_int(item.get("tournament event id")),
                 "tournament_event_team0_id": item.get("tournament event team0 id"),
                 "tournament_event_team1_id": item.get("tournament event team1 id"),
                 "tournament_event_stage_id": item.get("tournament event stage id"),
                 "tournament_event_map": map_name,
-                "tournament_player": get_player_name_of_highlight(item_id, state.players),
+                "tournament_player": tournament_player,
+                "type": "player" if tournament_player else "team",
                 "image": get_image_url(f"econ/keychains/{id_prefix}/kc_{id_prefix}"),
                 "image_inventory": f"econ/keychains/{id_prefix}/kc_{id_prefix}",
                 "video": video,
@@ -996,7 +967,7 @@ def load_highlights(state: State) -> None:
 def load_pro_teams(state: State) -> None:
     """Load professional teams."""
     result: dict[str, dict] = {}
-    for team_id, item in state.items_game.get("pro_teams", {}).items():
+    for team_id, item in js_ordered_items(state.items_game.get("pro_teams", {})):
         result[team_id] = {
             "id": int(team_id),
             "tag": item.get("tag"),
@@ -1008,7 +979,7 @@ def load_pro_teams(state: State) -> None:
 def load_pro_players(state: State) -> None:
     """Load professional players."""
     result: dict[str, dict] = {}
-    for player_id, item in state.items_game.get("pro_players", {}).items():
+    for player_id, item in js_ordered_items(state.items_game.get("pro_players", {})):
         result[player_id] = {
             "id": int(player_id),
             "name": item.get("name"),
@@ -1044,7 +1015,6 @@ def load_data(state: State) -> None:
     load_crates_by_collections(state)
     load_collections_by_skins(state)
     load_collections_by_stickers(state)
-    load_souvenir_skins(state)
     load_stattrak_skins(state)
     load_highlights(state)
     load_pro_teams(state)

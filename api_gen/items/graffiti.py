@@ -13,9 +13,7 @@ def _is_graffiti(item: dict) -> bool:
     if "spray_" in name:
         return True
     sticker_material = item.get("sticker_material") or ""
-    if "_graffiti" in sticker_material:
-        return True
-    return False
+    return "_graffiti" in sticker_material
 
 
 def _get_description(item: dict, translations: Translations) -> str:

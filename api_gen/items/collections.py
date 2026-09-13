@@ -1,5 +1,8 @@
 from __future__ import annotations
 
+import json
+import os
+
 from api_gen.constants import get_image_url, get_image_url_svg
 from api_gen.state import State
 from api_gen.translations import Translations
@@ -9,6 +12,19 @@ _SPECIAL_COLLECTIONS = [
     "#CSGO_set_timed_drops_achroma",
     "#CSGO_set_timed_drops_exuberant",
 ]
+
+_RELEASE_DATES_PATH = os.path.join(os.path.dirname(__file__), "..", "collection_release_dates.json")
+with open(_RELEASE_DATES_PATH, encoding="utf-8") as _f:
+    _COLLECTION_RELEASE_DATES: dict[str, dict] = json.load(_f)
+
+
+def get_release_date(name: str) -> str | None:
+    """Return the collection release date (YYYY-MM-DD) keyed by raw items_game name."""
+    entry = _COLLECTION_RELEASE_DATES.get(name)
+    if entry is None:
+        print(f"[ERROR] Collection release date not found {name}")
+        return None
+    return entry.get("date")
 
 
 def _get_collection_image(collection_name: str, image_path: str, cdn_images: dict) -> str:
@@ -41,11 +57,7 @@ def _is_self_opening_collection(item: dict) -> bool:
     if "weapon_case_key" in prefab:
         return False
 
-    if item.get("item_type") == "self_opening_purchase":
-        if "graffiti" in prefab:
-            return True
-
-    return False
+    return bool(item.get("item_type") == "self_opening_purchase" and "graffiti" in prefab)
 
 
 def _resolve_item_name(i: dict, translations: Translations) -> str | None:
@@ -96,6 +108,8 @@ def _parse_item_set(item: dict, state: State, translations: Translations) -> dic
     return {
         "id": collection_id,
         "name": name,
+        "description": translations.t(item.get("set_description")),
+        "release_date": get_release_date(item.get("name", "")),
         "crates": crates,
         "contains": contains,
         "image": image,
@@ -132,6 +146,8 @@ def _parse_self_opening_item(item: dict, state: State, translations: Translation
     return {
         "id": f"collection-{item['object_id']}",
         "name": translations.t(item.get("item_name")),
+        "description": translations.t(item.get("set_description")),
+        "release_date": get_release_date(item.get("item_name", "")),
         "crates": [],
         "contains": contains,
         "image": image,

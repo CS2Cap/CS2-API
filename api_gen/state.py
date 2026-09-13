@@ -25,7 +25,6 @@ class State:
     crates_by_collections: dict = field(default_factory=dict)
     collections_by_skins: dict = field(default_factory=dict)
     collections_by_stickers: dict = field(default_factory=dict)
-    souvenir_skins: dict = field(default_factory=dict)
     stattrak_skins: dict = field(default_factory=dict)
     players: dict = field(default_factory=dict)
     pro_teams: dict = field(default_factory=dict)

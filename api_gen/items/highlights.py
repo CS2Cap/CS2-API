@@ -1,8 +1,8 @@
 from api_gen.state import State
 from api_gen.translations import Translations
 
-# Tournament event IDs that have a Chinese-specific thumbnail variant
-_CN_THUMBNAIL_EVENTS = {24}
+# Tournament event IDs whose thumbnails have no Chinese variant (Budapest 2025).
+_NO_CN_THUMBNAIL_EVENTS = {25}
 
 
 def _parse_item(item: dict, state: State, translations: Translations) -> dict:
@@ -50,9 +50,9 @@ def _parse_item(item: dict, state: State, translations: Translations) -> dict:
     if folder == "zh-CN":
         video = video.replace("_ww_", "_cn_")
 
-    # Thumbnail: only Austin 2025 (event id 24) has a Chinese thumbnail variant
+    # Thumbnail: zh-CN uses the /cn/ variant unless the event has none.
     thumbnail: str = item.get("thumbnail", "")
-    if item.get("tournament_event_id") in _CN_THUMBNAIL_EVENTS and folder == "zh-CN":
+    if folder == "zh-CN" and item.get("tournament_event_id") not in _NO_CN_THUMBNAIL_EVENTS:
         thumbnail = thumbnail.replace("/ww/", "/cn/")
 
     return {
@@ -65,6 +65,7 @@ def _parse_item(item: dict, state: State, translations: Translations) -> dict:
         "team1": team1,
         "stage": stage,
         "tournament_player": item.get("tournament_player"),
+        "type": item.get("type"),
         "map": item.get("tournament_event_map"),
         "market_hash_name": market_hash_name,
         "image": image,

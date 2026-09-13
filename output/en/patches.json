@@ -595,6 +595,193 @@
   }
  },
  {
+  "id": "patch-4589",
+  "name": "Patch | Alyx",
+  "description": "This patch can be applied to any agent you own. Once applied, it can be removed but not recovered.<br><br>Half-Life: Alyx Commemorative Patch",
+  "def_index": "4589",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "market_hash_name": "Patch | Alyx",
+  "image": "https://cdn.cs2c.app/images/econ/patches/casehlalyx/patch_hlalyx_alyx_png.png",
+  "original": {
+   "name": "patch_hlalyx_alyx",
+   "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_alyx"
+  }
+ },
+ {
+  "id": "patch-4591",
+  "name": "Patch | Sustenance!",
+  "description": "This patch can be applied to any agent you own. Once applied, it can be removed but not recovered.<br><br>Half-Life: Alyx Commemorative Patch",
+  "def_index": "4591",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "market_hash_name": "Patch | Sustenance!",
+  "image": "https://cdn.cs2c.app/images/econ/patches/casehlalyx/patch_hlalyx_headcrab_green_png.png",
+  "original": {
+   "name": "patch_hlalyx_headcrab_green",
+   "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_headcrab_green"
+  }
+ },
+ {
+  "id": "patch-4592",
+  "name": "Patch | Vortigaunt",
+  "description": "This patch can be applied to any agent you own. Once applied, it can be removed but not recovered.<br><br>Half-Life: Alyx Commemorative Patch",
+  "def_index": "4592",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Patch | Vortigaunt",
+  "image": "https://cdn.cs2c.app/images/econ/patches/casehlalyx/patch_hlalyx_vort_png.png",
+  "original": {
+   "name": "patch_hlalyx_vort",
+   "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_vort"
+  }
+ },
+ {
+  "id": "patch-4593",
+  "name": "Patch | Headcrab Glyph",
+  "description": "This patch can be applied to any agent you own. Once applied, it can be removed but not recovered.<br><br>Half-Life: Alyx Commemorative Patch",
+  "def_index": "4593",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Patch | Headcrab Glyph",
+  "image": "https://cdn.cs2c.app/images/econ/patches/casehlalyx/patch_hlalyx_headcrab_teal_png.png",
+  "original": {
+   "name": "patch_hlalyx_headcrab_teal",
+   "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_headcrab_teal"
+  }
+ },
+ {
+  "id": "patch-4594",
+  "name": "Patch | Copper Lambda",
+  "description": "This patch can be applied to any agent you own. Once applied, it can be removed but not recovered.<br><br>Half-Life: Alyx Commemorative Patch",
+  "def_index": "4594",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "market_hash_name": "Patch | Copper Lambda",
+  "image": "https://cdn.cs2c.app/images/econ/patches/casehlalyx/patch_hlalyx_lambda_copper_png.png",
+  "original": {
+   "name": "patch_hlalyx_lambda_copper",
+   "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_lambda_copper"
+  }
+ },
+ {
+  "id": "patch-4595",
+  "name": "Patch | Health",
+  "description": "This patch can be applied to any agent you own. Once applied, it can be removed but not recovered.<br><br>Half-Life: Alyx Commemorative Patch",
+  "def_index": "4595",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "market_hash_name": "Patch | Health",
+  "image": "https://cdn.cs2c.app/images/econ/patches/casehlalyx/patch_hlalyx_hearts_png.png",
+  "original": {
+   "name": "patch_hlalyx_hearts",
+   "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_hearts"
+  }
+ },
+ {
+  "id": "patch-4596",
+  "name": "Patch | Combine Helmet",
+  "description": "This patch can be applied to any agent you own. Once applied, it can be removed but not recovered.<br><br>Half-Life: Alyx Commemorative Patch",
+  "def_index": "4596",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Patch | Combine Helmet",
+  "image": "https://cdn.cs2c.app/images/econ/patches/casehlalyx/patch_hlalyx_combine_front_png.png",
+  "original": {
+   "name": "patch_hlalyx_combine_front",
+   "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_combine_front"
+  }
+ },
+ {
+  "id": "patch-4597",
+  "name": "Patch | Black Mesa",
+  "description": "This patch can be applied to any agent you own. Once applied, it can be removed but not recovered.<br><br>Half-Life: Alyx Commemorative Patch",
+  "def_index": "4597",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "market_hash_name": "Patch | Black Mesa",
+  "image": "https://cdn.cs2c.app/images/econ/patches/casehlalyx/patch_hlalyx_blackmesa_png.png",
+  "original": {
+   "name": "patch_hlalyx_blackmesa",
+   "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_blackmesa"
+  }
+ },
+ {
+  "id": "patch-4598",
+  "name": "Patch | CMB",
+  "description": "This patch can be applied to any agent you own. Once applied, it can be removed but not recovered.<br><br>Half-Life: Alyx Commemorative Patch",
+  "def_index": "4598",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Patch | CMB",
+  "image": "https://cdn.cs2c.app/images/econ/patches/casehlalyx/patch_hlalyx_cmb_png.png",
+  "original": {
+   "name": "patch_hlalyx_cmb",
+   "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_cmb"
+  }
+ },
+ {
+  "id": "patch-4599",
+  "name": "Patch | Lambda",
+  "description": "This patch can be applied to any agent you own. Once applied, it can be removed but not recovered.<br><br>Half-Life: Alyx Commemorative Patch",
+  "def_index": "4599",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "market_hash_name": "Patch | Lambda",
+  "image": "https://cdn.cs2c.app/images/econ/patches/casehlalyx/patch_hlalyx_lambda_orange_png.png",
+  "original": {
+   "name": "patch_hlalyx_lambda_orange",
+   "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_lambda_orange"
+  }
+ },
+ {
+  "id": "patch-4600",
+  "name": "Patch | City 17",
+  "description": "This patch can be applied to any agent you own. Once applied, it can be removed but not recovered.<br><br>Half-Life: Alyx Commemorative Patch",
+  "def_index": "4600",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Patch | City 17",
+  "image": "https://cdn.cs2c.app/images/econ/patches/casehlalyx/patch_hlalyx_c17_png.png",
+  "original": {
+   "name": "patch_hlalyx_c17",
+   "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_c17"
+  }
+ },
+ {
   "id": "patch-4697",
   "name": "Patch | Metal The Global Elite",
   "description": "This patch can be applied to any agent you own. Once applied, it can be removed but not recovered.<br><br><i>Congratulations, you've arrived. Now the real challenge begins.</i>",
@@ -864,193 +1051,6 @@
   "original": {
    "name": "patch_op11_meal_time",
    "image_inventory": "econ/patches/case_op11/patch_op11_meal_time"
-  }
- },
- {
-  "id": "patch-4589",
-  "name": "Patch | Alyx",
-  "description": "This patch can be applied to any agent you own. Once applied, it can be removed but not recovered.<br><br>Half-Life: Alyx Commemorative Patch",
-  "def_index": "4589",
-  "rarity": {
-   "id": "rarity_legendary",
-   "name": "Exotic",
-   "color": "#d32ce6"
-  },
-  "market_hash_name": "Patch | Alyx",
-  "image": "https://cdn.cs2c.app/images/econ/patches/casehlalyx/patch_hlalyx_alyx_png.png",
-  "original": {
-   "name": "patch_hlalyx_alyx",
-   "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_alyx"
-  }
- },
- {
-  "id": "patch-4591",
-  "name": "Patch | Sustenance!",
-  "description": "This patch can be applied to any agent you own. Once applied, it can be removed but not recovered.<br><br>Half-Life: Alyx Commemorative Patch",
-  "def_index": "4591",
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "market_hash_name": "Patch | Sustenance!",
-  "image": "https://cdn.cs2c.app/images/econ/patches/casehlalyx/patch_hlalyx_headcrab_green_png.png",
-  "original": {
-   "name": "patch_hlalyx_headcrab_green",
-   "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_headcrab_green"
-  }
- },
- {
-  "id": "patch-4592",
-  "name": "Patch | Vortigaunt",
-  "description": "This patch can be applied to any agent you own. Once applied, it can be removed but not recovered.<br><br>Half-Life: Alyx Commemorative Patch",
-  "def_index": "4592",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "market_hash_name": "Patch | Vortigaunt",
-  "image": "https://cdn.cs2c.app/images/econ/patches/casehlalyx/patch_hlalyx_vort_png.png",
-  "original": {
-   "name": "patch_hlalyx_vort",
-   "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_vort"
-  }
- },
- {
-  "id": "patch-4593",
-  "name": "Patch | Headcrab Glyph",
-  "description": "This patch can be applied to any agent you own. Once applied, it can be removed but not recovered.<br><br>Half-Life: Alyx Commemorative Patch",
-  "def_index": "4593",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "market_hash_name": "Patch | Headcrab Glyph",
-  "image": "https://cdn.cs2c.app/images/econ/patches/casehlalyx/patch_hlalyx_headcrab_teal_png.png",
-  "original": {
-   "name": "patch_hlalyx_headcrab_teal",
-   "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_headcrab_teal"
-  }
- },
- {
-  "id": "patch-4594",
-  "name": "Patch | Copper Lambda",
-  "description": "This patch can be applied to any agent you own. Once applied, it can be removed but not recovered.<br><br>Half-Life: Alyx Commemorative Patch",
-  "def_index": "4594",
-  "rarity": {
-   "id": "rarity_legendary",
-   "name": "Exotic",
-   "color": "#d32ce6"
-  },
-  "market_hash_name": "Patch | Copper Lambda",
-  "image": "https://cdn.cs2c.app/images/econ/patches/casehlalyx/patch_hlalyx_lambda_copper_png.png",
-  "original": {
-   "name": "patch_hlalyx_lambda_copper",
-   "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_lambda_copper"
-  }
- },
- {
-  "id": "patch-4595",
-  "name": "Patch | Health",
-  "description": "This patch can be applied to any agent you own. Once applied, it can be removed but not recovered.<br><br>Half-Life: Alyx Commemorative Patch",
-  "def_index": "4595",
-  "rarity": {
-   "id": "rarity_legendary",
-   "name": "Exotic",
-   "color": "#d32ce6"
-  },
-  "market_hash_name": "Patch | Health",
-  "image": "https://cdn.cs2c.app/images/econ/patches/casehlalyx/patch_hlalyx_hearts_png.png",
-  "original": {
-   "name": "patch_hlalyx_hearts",
-   "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_hearts"
-  }
- },
- {
-  "id": "patch-4596",
-  "name": "Patch | Combine Helmet",
-  "description": "This patch can be applied to any agent you own. Once applied, it can be removed but not recovered.<br><br>Half-Life: Alyx Commemorative Patch",
-  "def_index": "4596",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "market_hash_name": "Patch | Combine Helmet",
-  "image": "https://cdn.cs2c.app/images/econ/patches/casehlalyx/patch_hlalyx_combine_front_png.png",
-  "original": {
-   "name": "patch_hlalyx_combine_front",
-   "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_combine_front"
-  }
- },
- {
-  "id": "patch-4597",
-  "name": "Patch | Black Mesa",
-  "description": "This patch can be applied to any agent you own. Once applied, it can be removed but not recovered.<br><br>Half-Life: Alyx Commemorative Patch",
-  "def_index": "4597",
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "market_hash_name": "Patch | Black Mesa",
-  "image": "https://cdn.cs2c.app/images/econ/patches/casehlalyx/patch_hlalyx_blackmesa_png.png",
-  "original": {
-   "name": "patch_hlalyx_blackmesa",
-   "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_blackmesa"
-  }
- },
- {
-  "id": "patch-4598",
-  "name": "Patch | CMB",
-  "description": "This patch can be applied to any agent you own. Once applied, it can be removed but not recovered.<br><br>Half-Life: Alyx Commemorative Patch",
-  "def_index": "4598",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "market_hash_name": "Patch | CMB",
-  "image": "https://cdn.cs2c.app/images/econ/patches/casehlalyx/patch_hlalyx_cmb_png.png",
-  "original": {
-   "name": "patch_hlalyx_cmb",
-   "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_cmb"
-  }
- },
- {
-  "id": "patch-4599",
-  "name": "Patch | Lambda",
-  "description": "This patch can be applied to any agent you own. Once applied, it can be removed but not recovered.<br><br>Half-Life: Alyx Commemorative Patch",
-  "def_index": "4599",
-  "rarity": {
-   "id": "rarity_mythical",
-   "name": "Remarkable",
-   "color": "#8847ff"
-  },
-  "market_hash_name": "Patch | Lambda",
-  "image": "https://cdn.cs2c.app/images/econ/patches/casehlalyx/patch_hlalyx_lambda_orange_png.png",
-  "original": {
-   "name": "patch_hlalyx_lambda_orange",
-   "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_lambda_orange"
-  }
- },
- {
-  "id": "patch-4600",
-  "name": "Patch | City 17",
-  "description": "This patch can be applied to any agent you own. Once applied, it can be removed but not recovered.<br><br>Half-Life: Alyx Commemorative Patch",
-  "def_index": "4600",
-  "rarity": {
-   "id": "rarity_rare",
-   "name": "High Grade",
-   "color": "#4b69ff"
-  },
-  "market_hash_name": "Patch | City 17",
-  "image": "https://cdn.cs2c.app/images/econ/patches/casehlalyx/patch_hlalyx_c17_png.png",
-  "original": {
-   "name": "patch_hlalyx_c17",
-   "image_inventory": "econ/patches/casehlalyx/patch_hlalyx_c17"
   }
  },
  {

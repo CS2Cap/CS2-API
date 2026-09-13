@@ -1,4 +1,5 @@
 """Steam authentication and app info retrieval."""
+import logging
 from base64 import b64decode
 from time import sleep
 
@@ -7,6 +8,8 @@ from gevent.timeout import Timeout as GeventTimeout
 from steam.client import SteamClient
 from steam.enums import EResult
 from steam.webauth import WebAuth
+
+logger = logging.getLogger(__name__)
 
 APP_ID = 730
 DEPOT_ID = 2347770
@@ -24,12 +27,7 @@ class SteamLoginError(RuntimeError):
 
 
 def login(username: str, password: str, shared_secret: str | None = None) -> SteamClient:
-    """Log into Steam with the token-based flow.
-
-    Valve rejects the legacy plaintext-password ClientLogon with
-    InvalidPassword, so authenticate through the web CAuthentication flow
-    first and log the client on with the resulting refresh token.
-    """
+    """Log into Steam with the token-based flow."""
     two_factor_code = None
     if shared_secret:
         two_factor_code = steam.guard.generate_twofactor_code(b64decode(shared_secret))
@@ -53,12 +51,10 @@ def anonymous_login() -> SteamClient:
 
 
 def _safe_logout(client: SteamClient) -> None:
-    # The connection may already be dead after a timeout; logging out is
-    # best-effort cleanup so a fresh client can reconnect cleanly.
     try:
         client.logout()
     except Exception:
-        pass
+        logger.warning("Failed to log out of Steam", exc_info=True)
 
 
 def _fetch_manifest_id(client: SteamClient) -> str:
@@ -73,13 +69,7 @@ def _fetch_manifest_id(client: SteamClient) -> str:
 
 
 def get_latest_manifest_id() -> str:
-    """Read the public CS2 manifest GID using a fresh anonymous client.
-
-    App 730 product info is public, so no account credentials are needed.
-    The CM connection is re-established before every retry: a dropped
-    connection times out identically forever, so reusing the same client
-    makes retries pointless.
-    """
+    """Read the public CS2 manifest GID using a fresh anonymous client."""
     last_error: GeventTimeout | None = None
     client = anonymous_login()
 

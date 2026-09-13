@@ -32,10 +32,7 @@ def _is_sticker(item: dict) -> bool:
     if "graffiti" in name:
         return False
 
-    if "spray_" in name:
-        return False
-
-    return True
+    return "spray_" not in name
 
 
 def _get_description(translations: Translations) -> str:
@@ -62,7 +59,7 @@ def _get_effect(item: dict, translations: Translations) -> str:
 
     if "(Holo)" in name_en or "(Holo, " in name_en:
         return "Holo"
-    if "(Foil)" in name_en:
+    if "(Foil)" in name_en or "(Foil, " in name_en:
         return "Foil"
     if "(Lenticular)" in name_en:
         return "Lenticular"
@@ -86,28 +83,31 @@ def _get_market_hash_name(item: dict, translations: Translations) -> str | None:
         return None
 
     # 3 - Katowice 2014
-    if tournament_event_id == 3:
-        if (
-            (_get_type(item) == "Event" and "gold_foil" in sticker_material)
-            or (_get_effect(item, translations) == "Foil" and _get_type(item) == "Team")
-        ):
-            return None
+    if tournament_event_id == 3 and (
+        (_get_type(item) == "Event" and "gold_foil" in sticker_material)
+        or (_get_effect(item, translations) == "Foil" and _get_type(item) == "Team")
+    ):
+        return None
 
     # 4 - Cologne 2014
-    if tournament_event_id == 4:
-        if _get_effect(item, translations) == "Foil" or sticker_material == "cologne2014/esl_c":
-            return None
+    if tournament_event_id == 4 and (
+        _get_effect(item, translations) == "Foil" or sticker_material == "cologne2014/esl_c"
+    ):
+        return None
 
     # Events 5–16: legendary Gold stickers have no market listing
     # 5 - DreamHack 2014, 6 - Katowice 2015, 7 - Cologne 2015,
     # 8 - Cluj-Napoca 2015, 9 - Columbus 2016, 10 - Cologne 2016,
     # 11 - Atlanta 2017, 12 - Krakow 2017, 13 - Boston 2018,
     # 14 - London 2018, 15 - Katowice 2019, 16 - Berlin 2019
-    if tournament_event_id in {5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16}:
-        if item.get("item_rarity") == "legendary" and _get_effect(item, translations) == "Gold":
-            return None
+    if (
+        tournament_event_id in {5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16}
+        and item.get("item_rarity") == "legendary"
+        and _get_effect(item, translations) == "Gold"
+    ):
+        return None
 
-    if sticker_material.startswith("tournament_assets/") or sticker_material.startswith("danger_zone/"):
+    if sticker_material.startswith(("tournament_assets/", "danger_zone/")):
         return None
 
     display_case_name = translations.t("keychain_kc_sticker_display_case", use_default=True) or ""
@@ -150,7 +150,7 @@ def _parse_item(item: dict, state: State, translations: Translations) -> dict:
         tournament = None
 
     # Team
-    pro_team = state.pro_teams.get(tournament_team_id) if tournament_team_id else None
+    pro_team = state.pro_teams.get(str(tournament_team_id)) if tournament_team_id else None
     if pro_team:
         team = {
             **pro_team,
@@ -160,7 +160,7 @@ def _parse_item(item: dict, state: State, translations: Translations) -> dict:
         team = None
 
     # Player
-    player = state.pro_players.get(tournament_player_id) if tournament_player_id else None
+    player = state.pro_players.get(str(tournament_player_id)) if tournament_player_id else None
 
     # Crates
     crates_raw = state.crates_by_skins.get(sticker_id, [])

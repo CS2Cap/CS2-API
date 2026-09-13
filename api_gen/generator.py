@@ -2,9 +2,9 @@ import argparse
 import os
 import sys
 
-import storage
 from dotenv import load_dotenv
 
+import storage
 from api_gen.constants import LANGUAGES
 from api_gen.items.agents import generate_agents
 from api_gen.items.base_weapons import generate_base_weapons
@@ -50,9 +50,9 @@ GENERATORS = [
     ("tools", generate_tools),
 ]
 
-# Categories included in all.json, matching group.js inputFilePathsTemplate order.
+# Categories included in all.json, in group.js inputFilePathsTemplate order.
 # Excludes: skins (grouped), base_weapons, highlights, inventory.
-ALL_JSON_CATEGORIES = {
+ALL_JSON_CATEGORIES = [
     "agents",
     "collectibles",
     "collections",
@@ -66,20 +66,14 @@ ALL_JSON_CATEGORIES = {
     "sticker_slabs",
     "keychains",
     "tools",
-}
+]
 
 
 def build_all_json(results: dict[str, list]) -> dict[str, dict]:
-    """Compose the flat ``all.json`` mapping from per-category generator results.
-
-    Only categories listed in :data:`ALL_JSON_CATEGORIES` contribute. Each item
-    must be a dict with an ``id`` field; later items with the same id overwrite
-    earlier ones, matching ``group.js`` semantics.
-    """
+    """Compose the flat ``all.json`` mapping from per-category generator results."""
     all_data: dict[str, dict] = {}
-    for category_name, items in results.items():
-        if category_name not in ALL_JSON_CATEGORIES:
-            continue
+    for category_name in ALL_JSON_CATEGORIES:
+        items = results.get(category_name)
         if not isinstance(items, list):
             continue
         for item in items:
@@ -133,7 +127,7 @@ def _generate_for_language(
     inv = generate_inventory(results)
     storage.write_json(os.path.join(out_dir, "inventory.json"), inv)
 
-    storage.write_json(os.path.join(out_dir, "all.json"), build_all_json(results))
+    storage.write_json(os.path.join(out_dir, "all.json"), build_all_json(results), indent=None)
 
 
 def run(force: bool = False, language_codes: list[str] | None = None) -> None:

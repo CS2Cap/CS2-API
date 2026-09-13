@@ -1,5 +1,6 @@
 """Download VPK archives from Steam CDN and extract game files to JSON."""
 import json
+import logging
 import os
 import shutil
 
@@ -7,6 +8,8 @@ import vdf
 import vpk as vpk_lib
 from steam.client import SteamClient
 from steam.client.cdn import CDNClient
+
+logger = logging.getLogger(__name__)
 
 APP_ID = 730
 DEPOT_ID = 2347770
@@ -269,10 +272,10 @@ def extract_images(
                 ext, img_data = decode_vsvg(raw)
                 relative = vpk_path[len("panorama/images/"):]
                 relative = relative.replace(".vsvg_c", ext)
-        except Exception as e:
+        except Exception:
             errors += 1
             if errors <= 5:
-                print(f"  Warning: failed to decode {vpk_path}: {e}")
+                logger.warning("Failed to decode %s", vpk_path, exc_info=True)
             continue
 
         out_path = os.path.join(output_dir, relative.replace("/", os.sep))

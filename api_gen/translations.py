@@ -32,8 +32,8 @@ class Translations:
             return None
         key = key.replace("#", "", 1).lower()
         if use_default:
-            return self.default.get(key)
-        return self.selected.get(key) or self.default.get(key)
+            return self.default.get(key) or None
+        return self.selected.get(key) or self.default.get(key) or None
 
     def t_tag(self, key: str | None, use_default: bool = False) -> str | None:
         if key is None:
