@@ -166265,6 +166265,16 @@
    },
    "marketable": true,
    "image": "https://cdn.cs2c.app/images/econ/music_kits/shockone_01_png.png"
+  },
+  "104": {
+   "name": "Music Kit | Starjunk 95, Industrial Sunset Memories",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.cs2c.app/images/econ/music_kits/starjunk95_01_png.png"
   }
  },
  "keychains": {
