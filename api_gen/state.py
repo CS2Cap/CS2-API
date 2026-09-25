@@ -11,6 +11,7 @@ class State:
     item_sets: list = field(default_factory=list)
     sticker_kits: list = field(default_factory=list)
     sticker_kits_obj: dict = field(default_factory=dict)
+    graffiti_tints: dict = field(default_factory=dict)
     keychain_definitions: list = field(default_factory=list)
     keychain_definitions_obj: dict = field(default_factory=dict)
     paint_kits: dict = field(default_factory=dict)

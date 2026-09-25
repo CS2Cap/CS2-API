@@ -458,6 +458,18 @@ def load_sticker_kits(state: State) -> None:
     }
 
 
+def load_graffiti_tints(state: State) -> None:
+    """Re-key graffiti tints by colour index so variations can look them up.
+
+    items_game stores them the other way round: keyed by tint name, with the
+    colour index in the "id" field.
+    """
+    state.graffiti_tints = {
+        tint["id"]: {"id": name, "hex_color": tint.get("hex_color")}
+        for name, tint in state.items_game.get("graffiti_tints", {}).items()
+    }
+
+
 def load_keychain_definitions(state: State) -> None:
     """Load keychain definitions."""
     defs = []
@@ -1003,6 +1015,7 @@ def load_data(state: State) -> None:
     load_items(state)
     load_item_sets(state)
     load_sticker_kits(state)
+    load_graffiti_tints(state)
     load_keychain_definitions(state)
     load_paint_kits(state)
     load_music_definitions(state)

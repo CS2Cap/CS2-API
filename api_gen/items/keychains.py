@@ -33,6 +33,7 @@ def _parse_item(item: dict, state: State, translations: Translations) -> dict:
         ),
         "description": translations.t("csgo_tool_keychain_desc"),
         "def_index": item["object_id"],
+        "icon_base": item.get("icon_base"),
         "rarity": {
             "id": rarity_key,
             "name": translations.t(rarity_key),

@@ -43,6 +43,18 @@ def _get_market_hash_name(item: dict, color_key: str | None, translations: Trans
     )
 
 
+def _get_tint(index: int, state: State, translations: Translations) -> dict | None:
+    """Resolve a colour index to its tint name and hex colour."""
+    tint = state.graffiti_tints.get(str(index))
+    if not tint:
+        return None
+    return {
+        "id": tint["id"],
+        "name": translations.t(f"attrib_spraytintvalue_{index}"),
+        "hex_color": tint["hex_color"],
+    }
+
+
 def _parse_item(item: dict, state: State, translations: Translations) -> list[dict]:
     """Parse a graffiti sticker kit into one or more output dicts."""
     sticker_material = item.get("sticker_material", "")
@@ -90,6 +102,7 @@ def _parse_item(item: dict, state: State, translations: Translations) -> list[di
                 "description": _get_description(item, translations),
                 "def_index": item["object_id"],
                 "color_index": index,
+                "tint": _get_tint(index, state, translations),
                 "rarity": rarity,
                 "special_notes": special_notes,
                 "crates": crates,
@@ -113,6 +126,7 @@ def _parse_item(item: dict, state: State, translations: Translations) -> list[di
         ),
         "description": _get_description(item, translations),
         "def_index": item["object_id"],
+        "tint": None,
         "rarity": rarity,
         "special_notes": special_notes,
         "crates": crates,

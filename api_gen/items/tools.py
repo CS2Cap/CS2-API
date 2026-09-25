@@ -49,6 +49,26 @@ def generate_tools(state: State, translations: Translations) -> list[dict]:
                 "image_inventory": "econ/tools/keychain_remove_tool",
             },
         },
+        {
+            "id": "tool-5",
+            "name": translations.t("chicken_egg"),
+            "description": translations.t("chicken_egg_desc"),
+            "image": cdn.get("econ/pets/chicken_egg") or get_image_url("econ/pets/chicken_egg"),
+            "def_index": "4948",
+            "original": {
+                "image_inventory": "econ/pets/chicken_egg",
+            },
+        },
+        {
+            "id": "tool-6",
+            "name": translations.t("chicken_feed"),
+            "description": translations.t("chicken_feed_desc"),
+            "image": cdn.get("econ/pets/chicken_feed_bag") or get_image_url("econ/pets/chicken_feed_bag"),
+            "def_index": "4949",
+            "original": {
+                "image_inventory": "econ/pets/chicken_feed_bag",
+            },
+        },
     ]
 
     return tools
