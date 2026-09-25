@@ -285973,6 +285973,18 @@
    "rarity": null,
    "marketable": false,
    "image": "https://cdn.cs2c.app/images/econ/tools/keychain_remove_tool_png.png"
+  },
+  "5": {
+   "name": "Chicken Egg",
+   "rarity": null,
+   "marketable": false,
+   "image": "https://cdn.cs2c.app/images/econ/pets/chicken_egg_png.png"
+  },
+  "6": {
+   "name": "Chicken Feed",
+   "rarity": null,
+   "marketable": false,
+   "image": "https://cdn.cs2c.app/images/econ/pets/chicken_feed_bag_png.png"
   }
  }
 }
